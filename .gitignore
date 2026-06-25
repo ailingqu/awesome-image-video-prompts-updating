@@ -11,5 +11,5 @@ __pycache__/
 *.pyc
 .venv/
 
-# Generation work files
-scripts/.gen_state.json
+# Production / pipeline scripts — kept local only, not published
+scripts/
