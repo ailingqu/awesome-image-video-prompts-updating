@@ -1,0 +1,15 @@
+# Secrets - never commit
+.secrets/
+*.key
+.env
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generation work files
+scripts/.gen_state.json
