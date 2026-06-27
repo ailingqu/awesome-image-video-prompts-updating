@@ -30,7 +30,7 @@
 
 ## 摄影
 
-_展示 20 / 630 条，全部见 [`prompts/prompts.json`](prompts/prompts.json)。_
+**[▶ 查看全部 630 张摄影预览 →](gallery/photography.md)**
 
 <img src="images/photography/vn-00007.webp" width="400" alt="Photography Prompt" />
 
@@ -1210,7 +1210,7 @@ Aim for an editorial, design-driven look with deliberate negative space.
 
 ## 插画 & 3D
 
-_展示 20 / 409 条，全部见 [`prompts/prompts.json`](prompts/prompts.json)。_
+**[▶ 查看全部 409 张插画 & 3D预览 →](gallery/illustration-3d.md)**
 
 <img src="images/illustration-3d/vn-00003.webp" width="400" alt="Illustration &amp; 3D Prompt" />
 
@@ -1806,7 +1806,7 @@ Aim for an editorial, design-driven look with deliberate negative space.
 
 ## 产品 & 品牌
 
-_展示 20 / 380 条，全部见 [`prompts/prompts.json`](prompts/prompts.json)。_
+**[▶ 查看全部 380 张产品 & 品牌预览 →](gallery/product-brand.md)**
 
 <img src="images/product-brand/vn-00005.webp" width="400" alt="Product &amp; Brand Prompt" />
 
@@ -2846,7 +2846,7 @@ Maintain consistent colour harmony and crisp focus across the whole frame.
 
 ## 美食 & 饮品
 
-_展示 20 / 190 条，全部见 [`prompts/prompts.json`](prompts/prompts.json)。_
+**[▶ 查看全部 190 张美食 & 饮品预览 →](gallery/food-drink.md)**
 
 <img src="images/food-drink/vn-00037.webp" width="400" alt="Food &amp; Drink Prompt" />
 
@@ -3654,7 +3654,7 @@ Use the uploaded product image as reference. Create an ultra-realistic commercia
 
 ## 海报设计
 
-_展示 20 / 241 条，全部见 [`prompts/prompts.json`](prompts/prompts.json)。_
+**[▶ 查看全部 241 张海报设计预览 →](gallery/poster-design.md)**
 
 <img src="images/poster-design/vn-00001.webp" width="400" alt="Poster Design Prompt" />
 
@@ -4364,7 +4364,7 @@ Keep edges clean and the overall composition balanced for a polished, gallery-re
 
 ## UI & 图形
 
-_展示 20 / 176 条，全部见 [`prompts/prompts.json`](prompts/prompts.json)。_
+**[▶ 查看全部 176 张UI & 图形预览 →](gallery/ui-graphic.md)**
 
 <img src="images/ui-graphic/vn-00011.webp" width="400" alt="UI &amp; Graphic Prompt" />
 

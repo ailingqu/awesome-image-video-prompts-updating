@@ -30,7 +30,7 @@ A continuously-updated, **original** collection of image & video prompts.
 
 ## Photography
 
-_Showing 20 of 630 — see [`prompts/prompts.json`](prompts/prompts.json) for all._
+**[▶ View all 630 Photography previews →](gallery/photography.md)**
 
 <img src="images/photography/vn-00007.webp" width="400" alt="Photography Prompt" />
 
@@ -1210,7 +1210,7 @@ Aim for an editorial, design-driven look with deliberate negative space.
 
 ## Illustration & 3D
 
-_Showing 20 of 409 — see [`prompts/prompts.json`](prompts/prompts.json) for all._
+**[▶ View all 409 Illustration & 3D previews →](gallery/illustration-3d.md)**
 
 <img src="images/illustration-3d/vn-00003.webp" width="400" alt="Illustration &amp; 3D Prompt" />
 
@@ -1806,7 +1806,7 @@ Aim for an editorial, design-driven look with deliberate negative space.
 
 ## Product & Brand
 
-_Showing 20 of 380 — see [`prompts/prompts.json`](prompts/prompts.json) for all._
+**[▶ View all 380 Product & Brand previews →](gallery/product-brand.md)**
 
 <img src="images/product-brand/vn-00005.webp" width="400" alt="Product &amp; Brand Prompt" />
 
@@ -2846,7 +2846,7 @@ Maintain consistent colour harmony and crisp focus across the whole frame.
 
 ## Food & Drink
 
-_Showing 20 of 190 — see [`prompts/prompts.json`](prompts/prompts.json) for all._
+**[▶ View all 190 Food & Drink previews →](gallery/food-drink.md)**
 
 <img src="images/food-drink/vn-00037.webp" width="400" alt="Food &amp; Drink Prompt" />
 
@@ -3654,7 +3654,7 @@ Use the uploaded product image as reference. Create an ultra-realistic commercia
 
 ## Poster Design
 
-_Showing 20 of 241 — see [`prompts/prompts.json`](prompts/prompts.json) for all._
+**[▶ View all 241 Poster Design previews →](gallery/poster-design.md)**
 
 <img src="images/poster-design/vn-00001.webp" width="400" alt="Poster Design Prompt" />
 
@@ -4364,7 +4364,7 @@ Keep edges clean and the overall composition balanced for a polished, gallery-re
 
 ## UI & Graphic
 
-_Showing 20 of 176 — see [`prompts/prompts.json`](prompts/prompts.json) for all._
+**[▶ View all 176 UI & Graphic previews →](gallery/ui-graphic.md)**
 
 <img src="images/ui-graphic/vn-00011.webp" width="400" alt="UI &amp; Graphic Prompt" />
 
