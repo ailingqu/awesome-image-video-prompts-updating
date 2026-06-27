@@ -13,3 +13,8 @@ __pycache__/
 
 # Production / pipeline scripts — kept local only, not published
 scripts/
+
+# Only compressed .webp previews are committed.
+# Full-resolution PNG originals are kept locally outside the repo
+# (../vinano-prompts-originals/) and must never be committed.
+*.png
