@@ -14,6 +14,8 @@ A continuously-updated, **original** collection of image & video prompts.
 
 > 中文版本见 [README.zh-CN.md](README.zh-CN.md)。
 
+> 🐦 **Want real-world results?** Browse community prompts with their **original images** and links to the **source tweets** in **[Examples from X →](EXAMPLES.md)**.
+
 **2026 prompts** across 6 categories. Last updated: 2026-06-25.
 
 ## Categories
