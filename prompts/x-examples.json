@@ -4,16 +4,16 @@
     "website": "https://vinano.ai",
     "source": "X / Twitter (community)",
     "note": "Community prompts and their original result images, kept faithful and credited to the original X authors via tweet_url. Separate from our own refined collection in prompts.json. All rights remain with the original authors.",
-    "count": 1448,
+    "count": 1439,
     "by_category": {
-      "Poster Design": 137,
+      "Photography": 525,
       "Illustration & 3D": 364,
       "Product & Brand": 216,
-      "Photography": 527,
-      "UI & Graphic": 48,
-      "Food & Drink": 156
+      "Food & Drink": 154,
+      "Poster Design": 133,
+      "UI & Graphic": 47
     },
-    "updated": "2026-06-27"
+    "updated": "2026-11-17"
   },
   "examples": [
     {
@@ -2997,20 +2997,6 @@
       },
       "tweet_url": "https://x.com/Strength04_X/status/2038224276835471420",
       "image": "examples/illustration-3d/x-00213.webp"
-    },
-    {
-      "id": "x-00214",
-      "category": "Photography",
-      "title": "Amara",
-      "model": "Nano Banana",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[28]={mutations:$R[29]=[],queries:$R[30]=[$R[31]={dehydratedAt:1782265974792,state:$R[32]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782265974792,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[33]=[\"imagePromptDetail\",1235],queryHash:\"[\\\"imagePromptDetail\\\",1235]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "Amara",
-        "handle": "sassyamara_",
-        "profile_url": "https://x.com/sassyamara_"
-      },
-      "tweet_url": "https://x.com/sassyamara_/status/2015758548199002294",
-      "image": "examples/photography/x-00214.webp"
     },
     {
       "id": "x-00215",
@@ -7787,20 +7773,6 @@
       "image": "examples/photography/x-00555.webp"
     },
     {
-      "id": "x-00556",
-      "category": "Food & Drink",
-      "title": "𝐌",
-      "model": "Nano Banana",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[28]={mutations:$R[29]=[],queries:$R[30]=[$R[31]={dehydratedAt:1782270841973,state:$R[32]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782270841973,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[33]=[\"imagePromptDetail\",893],queryHash:\"[\\\"imagePromptDetail\\\",893]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "𝐌",
-        "handle": "Strength04_X",
-        "profile_url": "https://x.com/Strength04_X"
-      },
-      "tweet_url": "https://x.com/Strength04_X/status/2011671243922293065",
-      "image": "examples/food-drink/x-00556.webp"
-    },
-    {
       "id": "x-00557",
       "category": "Photography",
       "title": "Anissa",
@@ -9297,20 +9269,6 @@
       },
       "tweet_url": "https://x.com/mehvishs25/status/2017793115147444527",
       "image": "examples/product-brand/x-00663.webp"
-    },
-    {
-      "id": "x-00664",
-      "category": "Food & Drink",
-      "title": "Zara",
-      "model": "Nano Banana",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[28]={mutations:$R[29]=[],queries:$R[30]=[$R[31]={dehydratedAt:1782271140146,state:$R[32]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782271140146,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[33]=[\"imagePromptDetail\",785],queryHash:\"[\\\"imagePromptDetail\\\",785]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "Zara",
-        "handle": "ZaraIrahh",
-        "profile_url": "https://x.com/ZaraIrahh"
-      },
-      "tweet_url": "https://x.com/ZaraIrahh/status/2038543008556015633",
-      "image": "examples/food-drink/x-00664.webp"
     },
     {
       "id": "x-00665",
@@ -16565,20 +16523,6 @@
       "image": "examples/poster-design/x-01182.webp"
     },
     {
-      "id": "x-01183",
-      "category": "Poster Design",
-      "title": "松果先森",
-      "model": "GPT Image",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[28]={mutations:$R[29]=[],queries:$R[30]=[$R[31]={dehydratedAt:1782282710200,state:$R[32]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782282710200,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[33]=[\"imagePromptDetail\",266],queryHash:\"[\\\"imagePromptDetail\\\",266]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "松果先森",
-        "handle": "songguoxiansen",
-        "profile_url": "https://x.com/songguoxiansen"
-      },
-      "tweet_url": "https://x.com/songguoxiansen/status/2048044673302982925",
-      "image": "examples/poster-design/x-01183.webp"
-    },
-    {
       "id": "x-01184",
       "category": "Photography",
       "title": "Duet | AI",
@@ -16829,20 +16773,6 @@
       },
       "tweet_url": "https://x.com/Naiknelofar788/status/2012542946848174323",
       "image": "examples/poster-design/x-01201.webp"
-    },
-    {
-      "id": "x-01202",
-      "category": "UI & Graphic",
-      "title": "木马人",
-      "model": "GPT Image",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[28]={mutations:$R[29]=[],queries:$R[30]=[$R[31]={dehydratedAt:1782282761059,state:$R[32]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782282761059,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[33]=[\"imagePromptDetail\",247],queryHash:\"[\\\"imagePromptDetail\\\",247]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "木马人",
-        "handle": "cnyzgkc",
-        "profile_url": "https://x.com/cnyzgkc"
-      },
-      "tweet_url": "https://x.com/cnyzgkc/status/2047204364499276110",
-      "image": "examples/ui-graphic/x-01202.webp"
     },
     {
       "id": "x-01203",
@@ -17895,20 +17825,6 @@
       "image": "examples/poster-design/x-01277.webp"
     },
     {
-      "id": "x-01278",
-      "category": "Photography",
-      "title": "松果先森",
-      "model": "GPT Image",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[29]={mutations:$R[30]=[],queries:$R[31]=[$R[32]={dehydratedAt:1782300101083,state:$R[33]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782300101083,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[34]=[\"imagePromptDetail\",171],queryHash:\"[\\\"imagePromptDetail\\\",171]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "松果先森",
-        "handle": "songguoxiansen",
-        "profile_url": "https://x.com/songguoxiansen"
-      },
-      "tweet_url": "https://x.com/songguoxiansen/status/2046924538643107922",
-      "image": "examples/photography/x-01278.webp"
-    },
-    {
       "id": "x-01279",
       "category": "Poster Design",
       "title": "Saul Goodman",
@@ -18271,20 +18187,6 @@
       },
       "tweet_url": "https://x.com/Noor_ul_ain43/status/2048088005836173316",
       "image": "examples/ui-graphic/x-01304.webp"
-    },
-    {
-      "id": "x-01305",
-      "category": "Poster Design",
-      "title": "松果先森",
-      "model": "GPT Image",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[28]={mutations:$R[29]=[],queries:$R[30]=[$R[31]={dehydratedAt:1782300171746,state:$R[32]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782300171746,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[33]=[\"imagePromptDetail\",144],queryHash:\"[\\\"imagePromptDetail\\\",144]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "松果先森",
-        "handle": "songguoxiansen",
-        "profile_url": "https://x.com/songguoxiansen"
-      },
-      "tweet_url": "https://x.com/songguoxiansen/status/2046766344163737788",
-      "image": "examples/poster-design/x-01305.webp"
     },
     {
       "id": "x-01306",
@@ -19855,20 +19757,6 @@
       "image": "examples/illustration-3d/x-01417.webp"
     },
     {
-      "id": "x-01418",
-      "category": "Poster Design",
-      "title": "行者AI视频",
-      "model": "GPT Image",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[30]={mutations:$R[31]=[],queries:$R[32]=[$R[33]={dehydratedAt:1782300520189,state:$R[34]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782300520189,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[35]=[\"imagePromptDetail\",31],queryHash:\"[\\\"imagePromptDetail\\\",31]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "行者AI视频",
-        "handle": "joshesye",
-        "profile_url": "https://x.com/joshesye"
-      },
-      "tweet_url": "https://x.com/joshesye/status/2046844986533056947",
-      "image": "examples/poster-design/x-01418.webp"
-    },
-    {
       "id": "x-01419",
       "category": "Photography",
       "title": "Duet | AI",
@@ -20147,20 +20035,6 @@
       },
       "tweet_url": "https://x.com/meng_dagg695/status/2009157208240755151",
       "image": "examples/food-drink/x-01438.webp"
-    },
-    {
-      "id": "x-01439",
-      "category": "Poster Design",
-      "title": "松果先森",
-      "model": "GPT Image",
-      "prompt": "{\n    t && (e.push(l), s(l, \"return\"), t = false, n2 = true, r.length = 0);\n  } };\n})()),dehydratedQueryClient:$R[29]={mutations:$R[30]=[],queries:$R[31]=[$R[32]={dehydratedAt:1782300571928,state:$R[33]={data:$R[13],dataUpdateCount:1,dataUpdatedAt:1782300571928,error:null,errorUpdateCount:0,errorUpdatedAt:0,fetchFailureCount:0,fetchFailureReason:null,fetchMeta:null,isInvalidated:!1,status:\"success\",fetchStatus:\"idle\"},queryKey:$R[34]=[\"imagePromptDetail\",10],queryHash:\"[\\\"imagePromptDetail\\\",10]\"}]}}})($R[\"tsr\"]);document.currentScript.remove()",
-      "author": {
-        "name": "松果先森",
-        "handle": "songguoxiansen",
-        "profile_url": "https://x.com/songguoxiansen"
-      },
-      "tweet_url": "https://x.com/songguoxiansen/status/2047215501798244570",
-      "image": "examples/poster-design/x-01439.webp"
     },
     {
       "id": "x-01440",
