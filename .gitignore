@@ -18,3 +18,7 @@ scripts/
 # Full-resolution PNG originals are kept locally outside the repo
 # (../vinano-prompts-originals/) and must never be committed.
 *.png
+
+# Daily-run working files (candidates, harvest staging, run logs) — local only
+ops/
+videos/*.tmp
