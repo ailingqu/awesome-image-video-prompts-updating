@@ -1,4 +1,4 @@
-# Food & Drink prompts — 188 with previews
+# Food & Drink prompts — 195 with previews
 
 [← Back to README](../README.md) · Page 1 / 2: **1** · [2](./food-drink-2.md)
 

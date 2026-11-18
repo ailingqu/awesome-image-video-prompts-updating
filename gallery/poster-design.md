@@ -1,6 +1,6 @@
-# Poster Design prompts — 237 with previews
+# Poster Design prompts — 247 with previews
 
-[← Back to README](../README.md) · Page 1 / 2: **1** · [2](./poster-design-2.md)
+[← Back to README](../README.md) · Page 1 / 3: **1** · [2](./poster-design-2.md) · [3](./poster-design-3.md)
 
 Every preview below was generated with **[vinano.ai](https://vinano.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-image-video-prompts-updating&utm_content=gallery-top)**. Click a card to open its full prompt.
 

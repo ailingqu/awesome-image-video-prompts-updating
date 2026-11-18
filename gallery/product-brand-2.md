@@ -1,4 +1,4 @@
-# Product & Brand prompts — 380 with previews
+# Product & Brand prompts — 402 with previews
 
 [← Back to README](../README.md) · Page 2 / 4: [1](./product-brand.md) · **2** · [3](./product-brand-3.md) · [4](./product-brand-4.md)
 

@@ -1,4 +1,4 @@
-# Illustration & 3D prompts — 409 with previews
+# Illustration & 3D prompts — 433 with previews
 
 [← Back to README](../README.md) · Page 1 / 4: **1** · [2](./illustration-3d-2.md) · [3](./illustration-3d-3.md) · [4](./illustration-3d-4.md)
 

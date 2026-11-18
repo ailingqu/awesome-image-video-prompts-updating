@@ -1,9 +1,9 @@
 {
   "meta": {
-    "name": "vinano.ai — Examples from X",
+    "name": "vinano.ai — Community Examples",
     "website": "https://vinano.ai",
-    "source": "X / Twitter (community)",
-    "note": "Community prompts and their original result images, kept faithful and credited to the original X authors via tweet_url. Separate from our own refined collection in prompts.json. All rights remain with the original authors.",
+    "source": "X and the web (community, credited)",
+    "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
     "count": 1439,
     "by_category": {
       "Photography": 525,
@@ -11,9 +11,10 @@
       "Product & Brand": 216,
       "Food & Drink": 154,
       "Poster Design": 133,
-      "UI & Graphic": 47
+      "UI & Graphic": 47,
+      "Video": 0
     },
-    "updated": "2026-11-17"
+    "updated": "2026-11-18"
   },
   "examples": [
     {
