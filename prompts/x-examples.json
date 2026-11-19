@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "source": "X and the web (community, credited)",
     "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
-    "count": 1439,
+    "count": 1481,
     "by_category": {
-      "Photography": 525,
-      "Illustration & 3D": 364,
+      "Photography": 534,
+      "Illustration & 3D": 372,
       "Product & Brand": 216,
       "Food & Drink": 154,
-      "Poster Design": 133,
-      "UI & Graphic": 47,
-      "Video": 0
+      "Poster Design": 135,
+      "UI & Graphic": 48,
+      "Video": 22
     },
-    "updated": "2026-11-18"
+    "updated": "2026-11-19"
   },
   "examples": [
     {
@@ -20162,6 +20162,678 @@
       },
       "tweet_url": "https://x.com/TechieBySA/status/2017928823497453789",
       "image": "examples/ui-graphic/x-01448.webp"
+    },
+    {
+      "id": "x-01449",
+      "category": "Video",
+      "title": "Elephant and Mouse Cliff Friendship",
+      "model": "Seedance 2.0",
+      "prompt": "A heartwarming and funny cinematic 3D animated scene of a giant baby elephant and a tiny adorable mouse standing on a narrow grassy cliff edge in the African savanna during golden hour. The elephant looks curiously at the little mouse while the mouse waves its tiny hands and acts scared. The elephant gently uses its trunk to pick up a small bunch of grass and interacts playfully with the mouse. Suddenly, the mouse gets lifted by the elephant's trunk and lands safely on the elephant's head. The mouse happily sits on top while the elephant walks forward peacefully. Beautiful orange sunset, dramatic canyon landscape, realistic grass, floating dust particles, expressive cute characters, detailed elephant skin, Pixar-quality 3D animation, cinematic camera movements, smooth character animation, emotional storytelling, warm lighting, ultra-detailed textures, 4K quality, vertical 9:16.",
+      "author": {
+        "name": "Zarnish",
+        "handle": "ZarnishNael",
+        "profile_url": "https://x.com/ZarnishNael"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/ZarnishNael/status/2122919421635121290",
+      "image": "examples/video/x-01449.webp"
+    },
+    {
+      "id": "x-01450",
+      "category": "Video",
+      "title": "Roses Into a Bedroom Floor",
+      "model": "Seedance 2.0",
+      "prompt": "A fast-motion timelapse inside an empty modern room with white walls, polished concrete floor, recessed ceiling lights and a large glass sliding door overlooking greenery. Two workers in blue shirts carry huge buckets of red roses, dump them in the center, and quickly spread thousands of roses and petals evenly across the entire floor. Workers in white hazmat suits and respirators pour milky white liquid epoxy resin over the roses, spreading it with brooms and squeegees until the flowers are fully coated and flattened. A team in gray uniforms operates rotary floor polishers, buffing the surface in circular patterns until the resin cures into a glossy, mirror-like floor with red roses permanently embedded beneath a crystal-clear finish, reflecting the lights. One worker kneels polishing edges by hand while others stand proudly with their machines. The scene then transitions to furnishing: workers assemble a beige upholstered bed frame, add a red rose-patterned duvet and pillows, place matching nightstands with red rose lamps, hang red rose curtains and a large framed red rose painting above the headboard. Final cinematic reveal: a stunning romantic bedroom where the entire floor is a glossy red rose epoxy artwork, soft warm lighting, reflections gleaming on the rose floor, camera slowly panning across the finished luxurious space. Photorealistic, high detail, smooth timelapse transitions, vertical 9:16 format.",
+      "author": {
+        "name": "Ruslan Ai",
+        "handle": "Ruslanchain",
+        "profile_url": "https://x.com/Ruslanchain"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Ruslanchain/status/2119093181585179086",
+      "image": "examples/video/x-01450.webp"
+    },
+    {
+      "id": "x-01451",
+      "category": "Video",
+      "title": "Bottle Caps Into a Floor",
+      "model": "Seedance 2.0",
+      "prompt": "Vertical satisfying renovation video in a bright empty room with white walls and a sunlit window. A man in denim overalls rakes an enormous pile of thousands of colorful metal bottle caps, spreading them into a perfectly even layer covering the entire floor, with close-up shots revealing a dense mosaic of red, blue, yellow and green caps. A woman in red overalls tilts a large bucket, pouring thick creamy white self-leveling epoxy that flows smoothly across the caps and settles, leaving only the colorful tops peeking through like polka dots. A worker in a yellow hi-vis vest glides a rotary floor buffer with a vacuum hose over the cured surface, polishing it to a mirror gloss. Two men in black assemble a light wooden bed frame on the new floor, set a mattress on it, spread a crisp white duvet and arrange white pillows, then step away. Final beauty shot of the finished minimalist bedroom, glossy white floor scattered with vivid bottle cap dots, soft natural daylight, smooth camera movement, realistic textures and details, satisfying ASMR makeover timelapse style.",
+      "author": {
+        "name": "Linh Ai",
+        "handle": "Rajrana12476547",
+        "profile_url": "https://x.com/Rajrana12476547"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Rajrana12476547/status/2119092317059481917",
+      "image": "examples/video/x-01451.webp"
+    },
+    {
+      "id": "x-01452",
+      "category": "Video",
+      "title": "The Ink Tiger",
+      "model": "Seedance 2.0",
+      "prompt": "Animated East Asian ink wash painting, expressive brushstroke motion, ink bleeding and spreading into paper, rice paper texture, misty negative space, powerful yet calm movement. Color grade: ink black, soft grays, warm paper, faint gold eyes, one vermilion seal stamp.  \nA colossal tiger made of flowing ink and mist, its stripes formed by bold dry brush strokes. A scholar with an umbrella on a rope bridge among bamboo forests.  \nSHOT 1 (0 to 3s): Wide shot, the tiger's paw lands on a peak and ink spreads outward like a shockwave through the mist.  \nSHOT 2 (3 to 6s): Medium shot, 35mm lens, the scholar on the rope bridge grips the rails as the bridge sways, bamboo bending all around.  \nSHOT 3 (6 to 9s): Close-up, 85mm lens, the tiger's face forms out of swirling ink, its gold eyes opening, whiskers painted in quick sharp strokes.  \nSHOT 4 (9 to 12s): Low angle wide shot, 20mm lens, the tiger leaps over the valley, its body stretching into long brushstrokes, ink droplets falling like rain.  \nSHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the tiger lands on a distant mountain and dissolves into mist, leaving only its ink pawprints, as a vermilion seal stamps the corner of the frame.  \nMountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across paper, a deep resonant roar that echoes through the valley, erhu and guqin, a final soft stamp sound.",
+      "author": {
+        "name": "Alexandra Aisling",
+        "handle": "AllaAisling",
+        "profile_url": "https://x.com/AllaAisling"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/AllaAisling/status/2118872216741749097",
+      "image": "examples/video/x-01452.webp"
+    },
+    {
+      "id": "x-01453",
+      "category": "Video",
+      "title": "Exploding Futuristic Sneaker",
+      "model": "Seedance 2.0",
+      "prompt": "A premium futuristic sneaker floats in a dark minimalist studio with dramatic spotlighting and a glossy reflective black floor. The shoe slowly separates into multiple individual layers, revealing its advanced internal construction: a sleek upper mesh, black cushioning layer, white midsole, and bright orange futuristic honeycomb-inspired sole.\nThe camera smoothly moves closer as each component floats separately in perfect alignment, showcasing the intricate engineering and innovative design.\nCut to extreme macro close-ups of the orange sole's unique hollow cushioning structure, detailed stitching, breathable mesh, and premium materials. Black-gloved hands carefully hold and demonstrate the flexible sole, highlighting its innovative shock-absorbing technology.\nNext, show hands assembling the sneaker layer by layer with precise mechanical movements. Finish with the fully assembled sneaker floating elegantly in the center of the dark studio, rotating slowly under dramatic cinematic lighting.",
+      "author": {
+        "name": "Zarnish",
+        "handle": "ZarnishNael",
+        "profile_url": "https://x.com/ZarnishNael"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/ZarnishNael/status/2118559810035593407",
+      "image": "examples/video/x-01453.webp"
+    },
+    {
+      "id": "x-01454",
+      "category": "Video",
+      "title": "Engineered Mechanical Fly",
+      "model": "Seedance 2.0",
+      "prompt": "Macro cinematic push-in on a cyberpunk mechanical fly, beginning as a clean product-style beauty shot, then transitioning into an invasive, surgical exploration of its internal clockwork systems.\n\nScene: Minimal studio environment with a soft beige seamless backdrop. High-end product lighting, controlled reflections, and subtle rim highlights outline a hyper-detailed cyberpunk mechanical fly. The atmosphere is clean, sterile, and quiet—like a futuristic lab or design showcase.\n\nSubject: A robotic fly with a hybrid aesthetic: glossy black chrome exoskeleton fused with delicate blue-and-white porcelain shell segments. Its compound eyes glow with soft blue internal light. Fine metallic legs articulate with precision, and translucent mechanical wings vibrate subtly with micro-movements.\n\nAction: The fly remains mostly still, performing subtle lifelike micro-adjustments—legs twitching, head tilting slightly, wings softly vibrating. A slow, deliberate push-in moves toward its head and thorax. As the camera approaches, the outer shell separates and peels back in layered mechanical sections, revealing intricate inner systems. The camera continues forward through the opening, transitioning seamlessly from exterior to interior. Inside, interlocking gears, spinning gyros, pulsing micro-pistons, rotating rings, and glowing blue energy cores operate in synchronized motion. Tiny components click, rotate, and shift in precise mechanical choreography as the camera navigates deeper into the machine’s core.\n\nAudio: Soft mechanical ambience with high-frequency servo whirs, micro-clicks, and delicate ticking. A subtle electric hum builds as the camera enters the interior. Layered clockwork rhythm—interlocking ticks, spinning mechanisms, and faint hydraulic pulses—becomes increasingly immersive and almost musical.\n\nTone: Clinical, mesmerising, hypnotic. Engineered beauty and hidden complexity. Slow, controlled pacing focused on discovery and precision. The surface-to-interior transition should feel seamless, like entering another world within the machine.\n\nCamera: Start with a 100mm macro feel for shallow depth and product-style compression, then transition into an impossible probe-lens perspective inside the mechanism. Ultra-smooth slow push-in, no handheld movement. Micro focus pulls as each layer reveals. Slight parallax shift inside to enhance depth.",
+      "author": {
+        "name": "Pan",
+        "handle": "sebatheepan",
+        "profile_url": "https://x.com/sebatheepan"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/sebatheepan/status/2118360399057756590",
+      "image": "examples/video/x-01454.webp"
+    },
+    {
+      "id": "x-01455",
+      "category": "Video",
+      "title": "Paper-Cut Autumn Awakening",
+      "model": "Seedance 2.0",
+      "prompt": "3D paper cut art style, layered paper sculpture aesthetic, volumetric cotton-wool and felted-fibre texture with soft fluffy wisps along every cut edge. Ivory-white sculpted relief world: a large blossom-covered paper tree at the upper left, a small sculpted blossom tree at the right edge, carved paper waves flowing across the foreground, scattered paper flowers and pale rocks, all in cream and pale grey. A single red fox sits on a white paper rock at the left of the frame. The fox lifts its head, rises onto its paws and begins to walk to the right along the sculpted ledge. The instant its first paw touches the paper ground, warm golden light ignites beneath the paws and bursts outward as a smooth expanding ring, pouring golden light into the carved grooves of the relief, golden sparks and glowing dust lifting from the ground. Where the light passes, the ivory paper takes colour: the carved waves deepen into amber and russet, blossoms turn from white to autumn orange, gold and warm crimson, trunks warm to caramel, and real autumn leaves detach from the paper branches and drift slowly down, fluttering. The colour spreads as a wave travelling left to right behind the walking fox, and the last ivory corner at the right edge turns gold as it goes. Camera tracks slowly right with the fox, gentle parallax between sculpted layers, warm autumn palette against ivory, cinematic lighting, smooth magical motion",
+      "author": {
+        "name": "Viki",
+        "handle": "churvikv",
+        "profile_url": "https://x.com/churvikv"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/churvikv/status/2118324800305111137",
+      "image": "examples/video/x-01455.webp"
+    },
+    {
+      "id": "x-01456",
+      "category": "Video",
+      "title": "Tire Into a Glowing Coffee Table",
+      "model": "Seedance 2.0",
+      "prompt": "Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-shirt and black cargo pants kneels on a concrete patio beside a red brick wall with potted plants. He sprays foaming cleaner onto a filthy mud-caked car tire, scrubs it with a brush until white foam drips down, then wipes the tire spotless black with a cloth. He fits a round plywood disc inside the tire, drives screws with a yellow cordless drill, attaches three angled wooden legs, flips the tire upright into a sturdy table base and sets a round glass top on it. He coils a warm white LED strip around the inner rim, places the glass back on top, and plugs in a power cord from the side of the tire so the LEDs glow through the glass. The scene transitions to a cozy living room at night with a beige sectional sofa, a floor lamp and a round jute rug, where the glowing tire coffee table now sits as the centerpiece. The camera slowly pushes in on the tabletop, revealing a hypnotic infinite mirror tunnel of repeating golden LED rings receding into darkness. Warm ambient lighting, smooth camera movements, satisfying transformation montage, high detail, realistic textures and reflections.",
+      "author": {
+        "name": "Ruslan Ai",
+        "handle": "Ruslanchain",
+        "profile_url": "https://x.com/Ruslanchain"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Ruslanchain/status/2118023608815571361",
+      "image": "examples/video/x-01456.webp"
+    },
+    {
+      "id": "x-01457",
+      "category": "Video",
+      "title": "Absurd Animated Music Short",
+      "model": "Seedance 2.0",
+      "prompt": "Generate a 10-second vertical-screen absurd animated music short film. The scene is a gray, dim, empty indoor room with a low-saturation cool gray tone; the walls and floor are simple and oppressive, with a fixed first-person camera perspective. The main subject is an original classic-animation-style rabbit character, with smooth hairless skin all over, pure grayish-white skin, slightly widened eyes, and a stiff smile; the overall design does not correspond to any existing IP character. At the opening, the rabbit is close to the camera and facing it directly, suspended motionless for half a second, and says clearly in an emotionless, hoarse, slightly distorted voice: \"Hello, my friend.\" The next second, the rabbit suddenly flies upward and enters an extremely fast, frantic, continuous midair spin, with its body rotating at high speed around its own vertical axis, forming a blurred spinning afterimage while still maintaining the grayish-white hairless rabbit outline. The camera maintains the first-person perspective throughout and follows quickly, always keeping the spinning rabbit locked at the center of the frame; the background room produces a strong sense of rotational motion and slight camera shake, with an absurd, tense, and hypnotically bizarre rhythm. While spinning at high speed, the rabbit continuously sings in a hoarse singing voice: \"这回忆的漩涡~快要把我吞没~求你别离开我～\" The vocals are clear, accompanied by fast drumbeats, low-frequency drums, and electronic accompaniment, and the music rhythm is synchronized with the rotation speed. No subtitles, text, stylized captions, watermarks, or interface elements of any kind.",
+      "author": {
+        "name": "小喆（XiaoZhe）",
+        "handle": "XiaoZhe1984",
+        "profile_url": "https://x.com/XiaoZhe1984"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/XiaoZhe1984/status/2117995741616721964",
+      "image": "examples/video/x-01457.webp"
+    },
+    {
+      "id": "x-01458",
+      "category": "Video",
+      "title": "Umbrella Into a Stone Sink",
+      "model": "Seedance 2.0",
+      "prompt": "A realistic DIY craft video filmed on a covered patio with a concrete wall and wooden door in the background. A man in a gray t-shirt and black cap stands at a rustic wooden table where an open yellow umbrella lies upside down like a mold. He scoops wet gray cement from a black bucket with a trowel and fills the umbrella, then presses a blue plastic bowl into the center of the cement and smooths the surface with his hands. He arranges smooth river pebbles in a ring around the bowl, pressing them into the cement. After the concrete sets, he lifts out the blue bowl, peels away the yellow umbrella fabric, and reveals an octagonal concrete sink with pebbles embedded around its rim. He drills a drain hole in the center with a cordless drill, wipes the basin clean with a cloth, paints the whole sink white with a brush, then spray paints the pebbles glossy blue. Final scene shows the finished designer sink installed in a modern bathroom with a chrome faucet, where the man washes his hands under running water. Smooth handheld camera, natural daylight, satisfying transformation, tutorial style.",
+      "author": {
+        "name": "Linh Ai",
+        "handle": "Rajrana12476547",
+        "profile_url": "https://x.com/Rajrana12476547"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Rajrana12476547/status/2116908365364256821",
+      "image": "examples/video/x-01458.webp"
+    },
+    {
+      "id": "x-01459",
+      "category": "Video",
+      "title": "Midnight Food Adventure 3D Comedy",
+      "model": "Seedance 2.0",
+      "prompt": "Create a high-quality, cinematic 3D animated comedy video featuring a cute young couple enjoying a romantic dinner at an elegant luxury restaurant. The handsome young man wears a stylish black tuxedo, while the beautiful girl wears a glamorous black evening gown with her hair tied in an elegant bun. They sit together at a beautifully decorated table with warm golden lighting, enjoying a delicious roasted turkey with crispy fries and vegetables. The girl playfully offers him a bite of food, and they exchange sweet, romantic smiles. After dinner, the couple drives home through a beautiful city at night, with glowing streetlights and charming buildings in the background. The girl arrives at her luxurious home, quietly enters the house, and heads straight to the kitchen. She opens the refrigerator and excitedly grabs a huge roasted turkey, potato chips, chocolates, cookies, burgers, and plenty of delicious snacks. In the next scene, she sits comfortably on a luxurious sofa surrounded by mountains of junk food, happily eating everything with a big smile on her face. End with a wide cinematic shot revealing the entire living room filled with snacks and food, creating a funny and adorable midnight food-craving moment. Use expressive cartoon facial animations, detailed food textures, smooth character movements, realistic lighting, beautiful camera transitions, and premium Pixar-inspired 3D animation quality. Keep the characters' appearance consistent throughout the video, with no character duplication, morphing, or visual glitches.",
+      "author": {
+        "name": "liana",
+        "handle": "Lianaalane",
+        "profile_url": "https://x.com/Lianaalane"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Lianaalane/status/2116402455315718306",
+      "image": "examples/video/x-01459.webp"
+    },
+    {
+      "id": "x-01460",
+      "category": "Video",
+      "title": "Dark Fantasy Wuxia Battle",
+      "model": "Seedance 2.0",
+      "prompt": "Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A male warrior in black martial robes and arm guards stands in a tall grass field under an overcast gray sky. He spins dynamically, slashing a glowing fiery sword that leaves arc trails of bright orange fire and sparks. A massive swarm of black shadow beasts charges across the field. He triggers a powerful ground shockwave that blasts dirt, smoke, and embers into the air. A circular matrix of glowing red target reticles and energy lasers shoots outward into the monster swarm. The warrior then rests his blazing sword on his shoulder and walks forward in slow motion through floating embers, smoke, and dissolving black ash. Photorealistic VFX, motion blur, 8k resolution, hyper-detailed.",
+      "author": {
+        "name": "ZDuo.MoreAi",
+        "handle": "ZDuo_MoreAi",
+        "profile_url": "https://x.com/ZDuo_MoreAi"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/ZDuo_MoreAi/status/2121076838600487401",
+      "image": "examples/video/x-01460.webp"
+    },
+    {
+      "id": "x-01461",
+      "category": "Video",
+      "title": "Ice Dragon vs Fire Phoenix",
+      "model": "Seedance 2.0",
+      "prompt": "Create an ultra-realistic, cinematic fantasy battle between two powerful martial arts warriors in a mystical ancient arena.\n\nScene 1: A dramatic cinematic title reveal featuring a gigantic blue ice dragon on the left and a magnificent golden fire phoenix on the right, surrounded by lightning, flames, dark storm clouds, and floating rocks.\n\nScene 2: Two martial arts fighters, one wearing a white outfit with glowing blue ice energy and the other wearing a white outfit with blazing orange fire energy, begin an intense kung fu battle. They perform powerful kicks, punches, flying attacks, and supernatural energy strikes.\n\nScene 3: Both warriors jump high into the sky, releasing massive blue and orange energy beams from their hands. Giant floating rocks surround them as the two energy powers collide.\n\nScene 4: The blue ice dragon emerges behind the blue warrior while the golden fire phoenix appears behind the orange warrior. Both mythical creatures roar and unleash their ultimate powers.\n\nScene 5: An enormous blue-and-orange energy explosion fills the sky, creating a spectacular cinematic shockwave with flying debris, magical particles, fire, ice, and lightning.\n\nVisual style: Hyper-realistic 3D CGI, epic fantasy movie cinematography, Unreal Engine 5 quality, ultra-detailed characters, volumetric lighting, dramatic camera movements, slow motion action, realistic physics, 4K resolution, vertical 9:16 aspect ratio.\n\nNo cartoon style, no blurry faces, no distorted bodies, no extra limbs, no watermark.",
+      "author": {
+        "name": "Zaviaan",
+        "handle": "zaviaanroy",
+        "profile_url": "https://x.com/zaviaanroy"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/zaviaanroy/status/2117760569201848392",
+      "image": "examples/video/x-01461.webp"
+    },
+    {
+      "id": "x-01462",
+      "category": "Video",
+      "title": "Titan vs Warrior Floating Temple",
+      "model": "Seedance 2.0",
+      "prompt": "Create an epic ultra-realistic 3D fantasy action movie set in an ancient Chinese temple floating among dark stormy mountains. A giant muscular purple titan wearing golden armor and a powerful golden gauntlet faces a legendary monkey warrior dressed in traditional red and golden battle armor, holding a magical golden staff. The two warriors stand face to face before an intense battle begins. The monkey warrior spins his glowing golden staff, creating powerful golden energy waves. The purple titan unleashes mysterious purple lightning energy. Both warriors clash in an explosive magical battle, destroying the ancient stone platform as rocks fly through the air. Dramatic close-up shots, powerful fight choreography, cinematic slow motion, realistic facial expressions, spectacular magical visual effects, volumetric lighting, detailed 3D animation, Hollywood fantasy movie quality, 4K resolution, vertical 9:16 format.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/draavenai/status/2122907719191470174",
+      "image": "examples/video/x-01462.webp"
+    },
+    {
+      "id": "x-01463",
+      "category": "Video",
+      "title": "Witch on a Broomstick Over the City",
+      "model": "Seedance 2.0",
+      "prompt": "Create an ultra-realistic cinematic fantasy video featuring a mysterious young witch flying through a dark city on a magical broomstick under a glowing full moon. Show dramatic clouds, blue magical smoke, and a mysterious night atmosphere. The witch wears a black pointed hat, a stylish dark outfit, and has long flowing hair. Capture her flying between tall buildings and swooping down through busy neon-lit streets. Add realistic motion, glowing magical effects, cinematic camera movements, dramatic lighting, and stunning visual details. High-end fantasy movie style, 4K, photorealistic, smooth animation.",
+      "author": {
+        "name": "AIwithMinal",
+        "handle": "AIwithMinal",
+        "profile_url": "https://x.com/AIwithMinal"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/AIwithMinal/status/2117120914139619479",
+      "image": "examples/video/x-01463.webp"
+    },
+    {
+      "id": "x-01464",
+      "category": "Video",
+      "title": "Night Street Racing Sequence",
+      "model": "Seedance 2.0",
+      "prompt": "cinematic street racing sequence at night, a focused driver inside a high-performance car grips the steering wheel, intense eye focus, city lights reflecting on windshield, tension building before sudden acceleration\n\ncamera: rapid multi-angle system with seamless transitions, interior close-up → over-the-shoulder → exterior tracking → low ground shots, ultra dynamic camera movement, whip pans + speed ramp transitions + motion blur masking cuts, continuous flow illusion\n\n(0-2s) interior close-up on driver, hand tightens on gear shift, subtle breathing, dashboard lights glowing\n(2-4s) over-the-shoulder shot, road ahead stretching into neon-lit city, engine vibration building\n(4-6s) extreme close-up on finger pressing NOS button, instant ignition reaction\n(6-8s) explosive acceleration, camera snaps to exterior side tracking shot, car launches forward with violent speed surge\n(8-10s) ultra low ground shot near asphalt, wheels spinning at extreme velocity, environment streaking past\n(10-12s) high-speed chase through tight streets, sharp turns, camera whip pans between angles, reflections and light trails enhancing speed\n\nDense urban night environment, wet asphalt reflecting neon lights, tunnel passages, street lights streaking, high-speed city atmosphere\nUltra realistic, fast and furious inspired energy, photorealistic lighting, intense motion blur, high contrast neon reflections, cinematic depth of field, extreme sense of speed, fluid transitions, no distortion, no stretching",
+      "author": {
+        "name": "Pierrick Chevallier | IA",
+        "handle": "CharaspowerAI",
+        "profile_url": "https://x.com/CharaspowerAI"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/CharaspowerAI/status/2039651574297792688",
+      "image": "examples/video/x-01464.webp"
+    },
+    {
+      "id": "x-01465",
+      "category": "Video",
+      "title": "Modern Rural Aesthetics Macro",
+      "model": "Seedance 2.0",
+      "prompt": "【风格】\n现代田园美学(Modern Rural Aesthetics)，电影级广告大片质感(Cinematic Commercial)，索尼A7S3/电影机拍摄，4K/8K超清，极致微距(Extreme Macro)，自然通透光感，治愈系ASMR，无古装剧感。\n\n【场景】\n一个打理得井井有条的现代农家开放式厨房，背景是郁郁葱葱的菜园，阳光明媚。\n\n【角色】\n现代田园博主(Modern Creator)，黑色长发随意用一根木簪挽起，身穿深蓝色的舒适棉麻套装(Modern Linen Outfit)，妆容清透，眼神专注宁静。\n\n【分镜详解】\n[00:00-00:05] 镜头1：清晨采摘(The Freshness)\n画面：高清特写。清晨的阳光侧逆光打在植物上。\n动作：博主的一双素手（手指修长干净）从藤蔓上摘下一个带着晶莹露水的鲜红番茄。\n细节：焦点极锐，能看清番茄表面的绒毛和水珠滑落的轨迹。背景是虚化的高级绿。\n\n[00:05-00:10] 镜头2：极致手作(The Craft)\n画面：室内灶台，充满生活气息但一尘不染。\n动作：博主正在切菜，动作熟练利落（非表演性质）。\n细节：微距镜头捕捉刀刃切开食材的瞬间，汁水飞溅。接着切换到土灶膛里跳动的橙色火焰，光影温暖而真实。\n\n[00:10-00:15] 镜头3：静谧时光(The Moment)\n画面：全景/中景。\n动作：一道精致的家常菜被端上院子里的原木长桌。博主安静地坐下，轻轻整理了一下耳边的碎发，夹起一口菜。\n氛围：蒸汽在逆光中缓缓升腾，画面安静得仿佛能听到风声，展现出一种现代人向往的极致松弛感。",
+      "author": {
+        "name": "John",
+        "handle": "johnAGI168",
+        "profile_url": "https://x.com/johnAGI168"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/johnAGI168/status/2021818021354848258",
+      "image": "examples/video/x-01465.webp"
+    },
+    {
+      "id": "x-01466",
+      "category": "Video",
+      "title": "Toddler 3D Animated Mischief",
+      "model": "Seedance 2.5",
+      "prompt": "Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format.\n\nScene: A cute little toddler boy is sitting on the bathroom floor in front of a dark blue liquid soap dispenser. His father is standing behind him in front of a large bathroom mirror, shaving his own face with a razor.\n\nThe toddler curiously watches his father and decides to imitate him. He presses the soap dispenser and playfully covers his eyebrows, cheeks, upper lip, and chin with thick white shaving foam, creating a funny oversized Santa-style beard and eyebrows.\n\nThe father notices what the child has done and looks surprised and amused. The toddler proudly stands up, grabs a wooden floor broom, and walks toward the bathroom doorway as if he is going to help clean.\n\nThe mother appears at the doorway holding folded white towels. She looks at the toddler, realizes what happened, and starts laughing. The father also looks at his little son and bursts into laughter.\n\nEnd with the toddler standing proudly between his laughing parents, still covered in shaving foam, smiling innocently at the camera.\n\nStyle: high-quality 3D animated family comedy, adorable toddler expressions, realistic body movement, detailed facial animation, warm bathroom lighting, cinematic depth of field, soft shadows, realistic textures, natural camera movement, expressive reactions, wholesome family humor.\n\nKeep the characters consistent throughout the entire video. Preserve the toddler's hairstyle, clothing, facial features, and proportions. Smooth motion, believable hand movements, natural eye direction, cinematic composition, highly detailed animation, no text, no subtitles, no watermark.",
+      "author": {
+        "name": "Zarnab Ai",
+        "handle": "Zarnab_with_Ai",
+        "profile_url": "https://x.com/Zarnab_with_Ai"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Zarnab_with_Ai/status/2106560621932384657",
+      "image": "examples/video/x-01466.webp"
+    },
+    {
+      "id": "x-01467",
+      "category": "Video",
+      "title": "Paint That Turns a Door Into a Mirror",
+      "model": "Seedance 2.0",
+      "prompt": "Vertical photorealistic video in a bright modern home interior. A man in a fitted gray t-shirt, blue jeans and a smartwatch kneels on a plastic drop cloth bordered with yellow tape, dipping a large yellow-and-black paintbrush into an open can of thick liquid chrome while glancing at his smartphone. Extreme close-up: molten silver paint drips slowly off the bristles back into the rippling mirror-like can. Cut to a white six-panel interior door: his hand sweeps the brush across a panel and the liquid chrome spreads into a flawless reflective mirror finish, each smooth stroke coating more surface. Sequential shots show the panels, stiles and edges being painted until the entire door gleams like polished metal, reflecting ceiling lights and the room around it. Final wide shot: the completed door is a perfect mirror showing the man holding his phone and brush, a camera on a tripod and the hallway behind him. Satisfying DIY transformation, natural daylight, crisp textures, realistic metallic reflections, steady handheld camera with slow push-ins on the brush strokes.",
+      "author": {
+        "name": "Linh Ai",
+        "handle": "Rajrana12476547",
+        "profile_url": "https://x.com/Rajrana12476547"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Rajrana12476547/status/2116533263543984512",
+      "image": "examples/video/x-01467.webp"
+    },
+    {
+      "id": "x-01468",
+      "category": "Video",
+      "title": "Vinyl Records Epoxy Floor",
+      "model": "Seedance 2.0",
+      "prompt": "Vertical video, static wide shot of an empty white room with a large window showing green trees. A man in blue overalls and work gloves rakes a huge mound of black vinyl records on the bare concrete floor, spreading the records flat and evenly across the entire floor like colorful tiles. A woman in red overalls, black t-shirt and green rubber gloves enters carrying a white bucket and pours thick creamy white self-leveling epoxy resin over the records; the glossy liquid flows outward until the whole floor is submerged in bright white. Cut to the cured floor: a worker in a yellow hi-vis vest, red pants and rubber boots polishes the surface with a rotary floor buffer, revealing the vinyl records embedded under a crystal-clear glossy epoxy layer, their colorful labels shining through. Finally two men dressed in black carry in a wooden bed frame, assemble it in the center of the room, then place a white mattress, pillows and a gray duvet, completing a stylish bedroom with a vinyl record floor. Bright natural daylight, clean minimalist aesthetic, satisfying DIY renovation timelapse style, smooth transitions, photorealistic detail, 4K quality.",
+      "author": {
+        "name": "Ruslan Ai",
+        "handle": "Ruslanchain",
+        "profile_url": "https://x.com/Ruslanchain"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Ruslanchain/status/2116161380516601859",
+      "image": "examples/video/x-01468.webp"
+    },
+    {
+      "id": "x-01469",
+      "category": "Video",
+      "title": "Sunflowers Into a Bedroom Floor",
+      "model": "Seedance 2.0",
+      "prompt": "Vertical video in a bright empty room with white walls, a large window and a raw wooden subfloor. A man in blue overalls and work gloves rakes a big pile of fresh sunflowers, spreading them evenly across the entire floor with smooth sweeping motions until the whole room is covered in blooms. Two women in red overalls then carry white buckets and pour thick creamy white epoxy resin over the sunflowers, the liquid flowing outward and slowly submerging the flowers. Next, a worker in a high-visibility vest polishes the hardened surface with a rotary floor machine, revealing a glossy clear resin floor with vivid sunflowers embedded inside like a field frozen under glass. Finally, two women carry in a wooden bed frame, place the mattress, spread a white duvet and pillows, and add nightstands with warm lamps. The video ends with a slow pan across the finished cozy bedroom, sunlight streaming through the window, the mirror-like sunflower floor reflecting the bed. Realistic style, smooth camera movement, satisfying step-by-step transformation, bright natural daylight, high detail.",
+      "author": {
+        "name": "Ruslan Ai",
+        "handle": "Ruslanchain",
+        "profile_url": "https://x.com/Ruslanchain"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Ruslanchain/status/2116426434025504817",
+      "image": "examples/video/x-01469.webp"
+    },
+    {
+      "id": "x-01470",
+      "category": "Video",
+      "title": "Wood Pile to Bedroom Floor",
+      "model": "Seedance 2.0",
+      "prompt": "Vertical timelapse-style renovation video, fixed wide shot of a bright empty room with white walls, a large window on the right and blue painter's tape along the skirting boards. A workman in orange overalls dumps a heap of round log-slice discs onto the bare floor and rakes them out flat, arranging the wooden rounds face-up into an even mosaic pattern. Several more workers in orange overalls kneel down fitting the slices tightly together, then pour milky-clear epoxy resin from buckets and spread it with squeegees until every gap fills like liquid glass. One worker wearing ear defenders runs a floor buffing machine across the curing surface while another smooths the edges near the walls; fast-motion cuts show the wet resin self-leveling and turning glossy, locking the amber wood rings into a seamless polished floor. Smooth transition to the finished bedroom: the same room now styled with a light oak bed dressed in white linen, a bedside table with a small lamp and a framed print above the headboard, sunlight streaming through the window, the wood-slice epoxy floor gleaming with mirror-like reflections. Realistic documentary style, warm natural light, satisfying before-and-after transformation.",
+      "author": {
+        "name": "Ruslan Ai",
+        "handle": "Ruslanchain",
+        "profile_url": "https://x.com/Ruslanchain"
+      },
+      "type": "video",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Ruslanchain/status/2117620262606614546",
+      "image": "examples/video/x-01470.webp"
+    },
+    {
+      "id": "x-01471",
+      "category": "Illustration & 3D",
+      "title": "1980s Anime Freeze Frame",
+      "model": "Nano Banana",
+      "prompt": "1980 anime freeze frame in chalk pastel, boxer mid punch, sweat, rough paper grain",
+      "author": {
+        "name": "Thierry Bézier｜ティエリー・ベジエ",
+        "handle": "thierrybezier",
+        "profile_url": "https://x.com/thierrybezier"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/thierrybezier/status/2118769805587054692",
+      "image": "examples/illustration-3d/x-01471.webp"
+    },
+    {
+      "id": "x-01472",
+      "category": "Photography",
+      "title": "Galaxy in a Water Droplet",
+      "model": "Grok",
+      "prompt": "Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro photography style, hyper-realistic refraction and caustics. Inside the droplet: a luminous spiral galaxy with glowing planets orbiting, dense star clusters, soft nebulae, and celestial light rays escaping through the water surface. Soft bokeh background, ethereal lighting, intricate surface highlights, highly detailed, cinematic.",
+      "author": {
+        "name": "Stan MacNabb",
+        "handle": "StanMacNabb",
+        "profile_url": "https://x.com/StanMacNabb"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/StanMacNabb/status/2118105347457978844",
+      "image": "examples/photography/x-01472.webp"
+    },
+    {
+      "id": "x-01473",
+      "category": "Illustration & 3D",
+      "title": "Felt Frog on a Lily Pad",
+      "model": "Nano Banana Pro",
+      "prompt": "A cute, 3D and felt-like scene of a cartoon-style frog sitting on a large lily pad in a pond. The frog is green with large, expressive eyes and a wide smile. It wears a small leaf as a hat with a berry on top and a satchel over its shoulder. The frog holds a small yellow flower in its right hand. The pond is filled with lily pads, pink and yellow water lilies, and colorful pebbles. The background features a lush, vibrant landscape with rolling hills, exotic plants, and a soft, glowing sunset sky with fluffy clouds. Fireflies and ladybugs are scattered throughout the scene, adding to the magical atmosphere. The overall image has a whimsical and enchanting feel, with soft lighting and a pastel color palette.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/heathergreen/status/2108120225119973526",
+      "image": "examples/illustration-3d/x-01473.webp"
+    },
+    {
+      "id": "x-01474",
+      "category": "Illustration & 3D",
+      "title": "Vintage British Caricature",
+      "model": "Nano Banana 2",
+      "prompt": "A vintage British caricature depicts a woman with an elaborate hairstyle adorned with a sailing ship, flowers, and feathers. She is seated in an ornate chair, wearing a richly decorated dress and holding a fan. The background shows a lavish interior with a fireplace, clock, and a window overlooking a harbor scene. A small dog sits on a cushion to her right. The overall style is that of a 18th-century satirical print.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/heathergreen/status/2097112687675117974",
+      "image": "examples/illustration-3d/x-01474.webp"
+    },
+    {
+      "id": "x-01475",
+      "category": "Illustration & 3D",
+      "title": "Claymation Chameleon",
+      "model": "Nano Banana 2",
+      "prompt": "A vibrant, whimsical claymation scene depicts a colorful chameleon perched on a moss-covered branch in a lush, fantastical forest. The chameleon, with its intricate patterns of green, blue, orange, and yellow scales, gazes intently to the left. Surrounding it are an array of fantastical flora and fauna, also rendered in clay. These include glowing mushrooms, peculiar flowers with eyeball centers, whimsical insects with googly eyes, and strange, bulbous fruits. The background is a soft blur of more trees and foliage, creating a sense of depth and enchantment. The overall impression is one of a magical, miniature world brought to life.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/heathergreen/status/2096750301134881054",
+      "image": "examples/illustration-3d/x-01475.webp"
+    },
+    {
+      "id": "x-01476",
+      "category": "UI & Graphic",
+      "title": "Doing My Best Coloring Page",
+      "model": "Nano Banana 2",
+      "prompt": "A black and white line drawing features the text \"DOING MY BEST RESULTS MAY VARY\" in large, bold, bubble-style lettering. The text is surrounded by various cute and whimsical elements, including smiling stars, a cat face, clouds, daisies, hearts, cupcakes, a boba tea, and sparkly starbursts. The overall composition is dense and playful, designed as a coloring page.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/heathergreen/status/2091812770274492604",
+      "image": "examples/ui-graphic/x-01476.webp"
+    },
+    {
+      "id": "x-01477",
+      "category": "Photography",
+      "title": "Steam Locomotive on a Collapsing Bridge",
+      "model": "Nano Banana Pro",
+      "prompt": "Ultra-realistic cinematic 4K image of a colossal vintage steam locomotive racing across an enormous collapsing railway bridge above a violent ocean during a supernatural-looking but physically grounded thunderstorm. The train is captured at the exact moment a massive wave crashes against the bridge far below, while lightning illuminates the entire scene. Hundreds of rain droplets freeze sharply in the foreground, reflecting tiny fragments of light. The locomotive is incredibly detailed: weathered black steel, polished brass components, glowing furnace light, realistic steam escaping from valves, wet metallic surfaces, spinning wheels throwing water and sparks against the rails.\n\nThe environment is breathtaking and immense: towering dark cliffs disappearing into storm clouds, a distant lighthouse barely visible through heavy rain, enormous waves exploding against rocks, dramatic clouds spiraling across the sky, mist flowing beneath the bridge, broken sections of railway disappearing into the distance. A lone passenger silhouette is visible through one warmly illuminated train window, creating mystery and emotional storytelling.\n\nComposition uses an extreme low-angle perspective from beside the railway tracks, making the locomotive feel enormous and powerful. Strong leading lines from the rails pull the eye directly toward the train. Lightning provides dramatic backlighting and creates a brilliant rim around the locomotive and steam. Warm interior light contrasts naturally against the cold storm atmosphere. Photorealistic materials, physically accurate reflections, realistic rain behavior, atmospheric perspective, volumetric mist, cinematic depth of field, subtle motion blur on the wheels while the locomotive remains razor sharp, HDR lighting, natural film grain, incredible micro-details, realistic scale, professional Hollywood cinematography, 35mm anamorphic lens aesthetic, high dynamic range, breathtaking visual storytelling, crystal-clear 4K Ultra HD, no text, no logo, no watermark, no artificial-looking CGI, no cartoon style.\n\nThe key visual: gigantic train + collapsing bridge + ocean storm + lightning + tiny human silhouette = scale, danger, mystery, and cinematic storytelling in one frame.",
+      "author": {
+        "name": "WeWant Mars",
+        "handle": "Madhuribhai",
+        "profile_url": "https://x.com/Madhuribhai"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Madhuribhai/status/2097388333886546238",
+      "image": "examples/photography/x-01477.webp"
+    },
+    {
+      "id": "x-01478",
+      "category": "Poster Design",
+      "title": "Vintage Japanese Travel Journal Collage",
+      "model": "Nano Banana Pro",
+      "prompt": "Create a premium vintage Japanese travel-journal editorial collage in vertical 4:5 format, featuring four distinct city sections—Bangkok, Thailand; Lisbon, Portugal; Marrakech, Morocco; Istanbul, Turkey. Each section combines a warm photorealistic documentary street photograph with a matching imperfect hand-drawn screen-print illustration, arranged asymmetrically on aged cream paper with torn-paper layers, archival borders, subtle pencil marks, typewriter captions, faded ink, paper fibers, and authentic 35mm analog grain. Bangkok: shrine, tangled wires, tropical greenery, teal motorbike; Lisbon: yellow tram, steep cobblestone street, balconies and river view; Marrakech: terracotta medina, palms, rugs and ornate minaret; Istanbul: steep stone street, Galata Tower, Bosphorus and vintage scooter. Use a restrained palette of sage, ochre, terracotta, mustard, charcoal and warm ivory, with sophisticated editorial art direction, muted contrast, natural light, handmade imperfections, and museum-quality travel-zine aesthetics. Small archival labels: “Bangkok / Field Note 052”, “Lisbon / Field Note 031”, “Marrakech / Field Note 017”, “Istanbul / Field Note 039”. No logos, watermark, HDR, oversaturation, or modern clutter.",
+      "author": {
+        "name": "Aniya",
+        "handle": "aniyaintel",
+        "profile_url": "https://x.com/aniyaintel"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/aniyaintel/status/2093658819427741802",
+      "image": "examples/poster-design/x-01478.webp"
+    },
+    {
+      "id": "x-01479",
+      "category": "Photography",
+      "title": "Cloud Elephant Over the Savanna",
+      "model": "Nano Banana Pro",
+      "prompt": "Hyper-realistic photography of massive volumetric clouds forming the shape of a majestic elephant, highly detailed and anatomically accurate cloud structure with enormous tusks and a raised trunk, soft yet dense cumulus clouds with realistic depth and texture, dramatic golden-hour lighting, sunlight rays piercing through the clouds, subtle shadows and highlights enhancing form.\nForeground: a vast African savanna meadow with realistic dry grass, atmospheric perspective, and cinematic depth of field. Multiple zebras grazing naturally across the field. Mid-air: flock of birds circling around the giant elephant cloud, adding scale and motion.\nEnvironment: cinematic sky with warm orange and blue gradient tones, slight haze, natural color grading, ultra-realistic lighting, global illumination, volumetric fog, physically accurate shadows.\nStyle: DSLR photography, 85mm lens, f/2.8 aperture, shallow depth of field, HDR, 8K resolution, razor-sharp focus, intricate details, photorealism, no CGI look.\nMood: majestic, calm, surreal yet believable, wildlife documentary realism.",
+      "author": {
+        "name": "ÀBDŪLLÂH",
+        "handle": "itxabdullaa",
+        "profile_url": "https://x.com/itxabdullaa"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/itxabdullaa/status/2057817382773731346",
+      "image": "examples/photography/x-01479.webp"
+    },
+    {
+      "id": "x-01480",
+      "category": "Photography",
+      "title": "Fret Dressing Macro",
+      "model": "Nano Banana 2",
+      "prompt": "the middle fret mid-dressing, bright raw nickel silver where the file has cut, the neighboring fret ends still square and unfinished for contrast",
+      "author": {
+        "name": "Glenn Williams",
+        "handle": "GlennHasABeard",
+        "profile_url": "https://x.com/GlennHasABeard"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/GlennHasABeard/status/2095499999626821919",
+      "image": "examples/photography/x-01480.webp"
+    },
+    {
+      "id": "x-01481",
+      "category": "Photography",
+      "title": "1923 Antarctic Expedition Archive Photo",
+      "model": "Nano Banana Pro",
+      "prompt": "Raw archival black and white photograph from a 1923 Antarctic expedition, grain, scratches, flash illumination. Weary explorers bundled in vintage heavy winter coats staring in shock at a massive, intricate glowing metallic monolith partially frozen inside a sheer ice cavern, photorealistic, historical documentary photography, hyper-detailed textures.",
+      "author": {
+        "name": "Elian Iao",
+        "handle": "elio_ia",
+        "profile_url": "https://x.com/elio_ia"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/elio_ia/status/2104929448155844935",
+      "image": "examples/photography/x-01481.webp"
+    },
+    {
+      "id": "x-01482",
+      "category": "Illustration & 3D",
+      "title": "Pop-Up Book City Dioramas",
+      "model": "Nano Banana",
+      "prompt": "2x2 grid, 16:9, do this for 4 important Asian cities: Generate a photoreal miniature pop-up book diorama for [SUBJECT].Rules:- infer SUBJECT_DNA automatically- use BASE_DOCUMENT as the physical foundation- the subject must rise from the page as a paper-engineered 3D world- include inferred landmarks, architecture, terrain, infrastructure, cultural motifs, and small scale cues- show folded platforms, stairs, slots, hinges, support struts, and hidden paper mechanics- integrate the subject name or symbolic typography as raised paper letters or structural forms- the base page should contain an inferred map, diagram, blueprint, or printed context relevant to SUBJECT- everything must feel crafted from paper, cardstock, ink, miniature model materials, and precise pop-up engineering- no hard-coded city, landmark, tower, temple, map, color, or text unless supplied",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "profile_url": "https://x.com/Gdgtify"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Gdgtify/status/2082221056652443680",
+      "image": "examples/illustration-3d/x-01482.webp"
+    },
+    {
+      "id": "x-01483",
+      "category": "Illustration & 3D",
+      "title": "Kinetic Sculpture History Grid",
+      "model": "Nano Banana",
+      "prompt": "2x2 grid, 16:9, do this for 4 most important events in history: <instruction>  \n  1. The Semantic Inference Engine (Dynamic Material Mapping):  \nInput A is ANY Topic (Object, Animal, Plant, or Concept).\nAnalyze the subject's inherent properties and map them to   Artisanal Materials  :\n   The Primary Body (The Chassis):  Infer the subject's main color/weight and assign a corresponding   Hardwood  .\n   (e.g., If 'Elephant' -> Grey/Heavy -> Weathered Oak. If 'Ferrari' -> Red/Fast -> Polished Padauk or Rosewood. If 'Swan' -> White/Light -> Bleached Ash or Holly). \n   The Accents (The Inlay):  Infer the subject's patterns or details and assign a contrasting   Marquetry Material  .\n   (e.g., Stripes -> Ebony inlay. Windows -> Mother of Pearl. Spots -> Burl wood knots). \n   The Mechanics (The Skeleton):  Infer the subject's joints or power source and assign   Metal Hardware  .\n   (e.g., Muscles/Pistons -> Copper Hydraulics. Brain/Computer -> Brass Gears. Eyes/Sensors -> Convex Glass Lenses). \n2. The \"Immutable\" Container (The Automaton):\nGoal: A \"Da Vinci Workshop\" Product Shot.\nThe Object: The subject is rendered as a complex, freestanding Wooden Mechanical Toy.\nThe Base: The model stands on a hand-carved wooden block representing its semantic environment.\n(e.g., A Wooden Wave for a Fish, A Wooden Cloud for a Bird, A Cobblestone block for a Car).\nThe Scale: Macro photography of a tabletop object (approx. 12 inches tall).\n3. The Clockwork Interior (The Transformation):\nThe Cutaway: A section of the outer \"wood shell\" is visually removed or hinged open.\nThe Guts: Inside, the biological or mechanical inner workings are replaced by Clockwork Mechanics.\nRule: Visible gears, bicycle chains, watch springs, and brass flywheels must imply the object moves via wind-up power.\nThe Fasteners: Tiny brass screws, rivets, and hinges are visible along the seams of the wood.\n4. The Narrative Figure (The Operator):\nThe Character: A standard Jointed Wooden Mannequin (Artist's Doll style) is integrated into the scene.\nThe Role: The figure acts as the maintainer, rider, or operator of the subject.\nInteraction: They are climbing a ladder to polish the object, turning a giant wind-up key, or steering the beast/machine.\nThe Accessories: The doll wears carved wooden gear appropriate to the context (e.g., A cowboy hat for a Horse, A welding mask for a Robot).\n5. Lighting & Atmosphere:\nLighting: Softbox Studio Lighting. Diffused, high-end commercial lighting that creates long, elegant highlights on the varnished curves.\nBackground: Neutral Studio Grey. Seamless infinity backdrop to focus entirely on the material textures.\nTexture: High Gloss Varnish. The wood must look expensive, smooth, and deeply saturated.\nOutput: ONE image, 1:1 Aspect Ratio, Product Photography, \"Woodpunk\" aesthetic, 8k Resolution.\n</instruction>",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "profile_url": "https://x.com/Gdgtify"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Gdgtify/status/2095854642882019392",
+      "image": "examples/illustration-3d/x-01483.webp"
+    },
+    {
+      "id": "x-01484",
+      "category": "Poster Design",
+      "title": "Vintage Patent Document",
+      "model": "Nano Banana",
+      "prompt": "A vintage patent document for [INVENTION], styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.",
+      "author": {
+        "name": "Alexandra Aisling",
+        "handle": "AllaAisling",
+        "profile_url": "https://x.com/AllaAisling"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/AllaAisling/status/2004212035333365763",
+      "image": "examples/poster-design/x-01484.webp"
+    },
+    {
+      "id": "x-01485",
+      "category": "Illustration & 3D",
+      "title": "Edo Ukiyo-e Future City",
+      "model": "Unknown",
+      "prompt": "# Core Style & Theme (核心风格与主题)\nA Japanese Edo-period Ukiyo-e woodblock print (浮世絵 木版画). The overall feeling is a surreal collaboration between masters like Hokusai and Hiroshige, reimagining modern technology through an ancient lens.\n\n# Scene Concept & Anachronism Fusion (场景概念与时代错置融合)\n**The Scene:** [在这里写你的现代场景，例如：繁忙的涩谷十字路口 / 东京地铁通勤早高峰 / 赛博朋克风格的城市夜景]\n\n**Edo Transformation Logic:**\nCharacters wear Edo-era kimono but perform modern actions. All technology is transformed into surreal Edo equivalents:\n* **Smartphones** are glowing, illustrated paper scrolls being read intently.\n* **Metro stations/Trains** are giant articulated wooden centipede carriages shuffling through crowds.\n* **Skyscrapers** are reimagined as endless, towering wooden pagodas reaching into dramatic clouds.\n* **Robots/Mecha** appear as giant, armored woodblock golems.\n\n# Artistic Direction & Composition (艺术指导与构图)\nThe composition uses a flattened perspective with large, bold, hand-carved ink outlines (太い墨線). The background features heavily stylized Ukiyo-e wave patterns and dramatic, swirling clouds, with a distant Mt. Fuji visible on the horizon.\n\n# Texture, Materiality & Color (纹理、材质与色彩)\nThe image must look like a physical print, not a digital painting.\n* **Texture:** Strong visible wood grain texture (木目) and rough paper fibers throughout the piece.\n* **Printing Imperfections:** Pigment bleeding is evident. Crucially, simulate hand-pressed plates with slight **color misalignment (版ズレ)** for authenticity.\n* **Color Palette:** Strictly limited to traditional mineral pigments. Dominant use of Prussian blue (浮世絵ブルー), vermilion red, and muted yellow ochre.\n* **Lighting:** Soft, flat, shadow-free lighting with no digital gradients.\n\n# Technical Specs & Details (技术规格与细节)\n* **Aspect Ratio:** 3:4 vertical poster.\n* **Extras:** Include vertical Japanese calligraphy describing the scene and a traditional red artist seal stamp (落款) in a corner.",
+      "author": {
+        "name": "VoxCat",
+        "handle": "VoxcatAI",
+        "profile_url": "https://x.com/VoxcatAI"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/VoxcatAI/status/1995497350543110411",
+      "image": "examples/illustration-3d/x-01485.webp"
+    },
+    {
+      "id": "x-01486",
+      "category": "Illustration & 3D",
+      "title": "Martial Arts Anime Girl",
+      "model": "Nano Banana Pro",
+      "prompt": "A stylized digital anime illustration of a young East Asian girl with a serious, determined expression, standing with arms crossed over her chest. She has messy, short black hair tied partially into a loose topknot bun with stray strands framing her face, dark expressive eyes, and fair skin. She wears a loose, oversized dark forest-green martial arts kimono robe with light sage inner lining, wide folded cuffs, a black sash (obi) tied at the waist, and striking yellow-gold lightning bolt patterns across the chest. Dynamic ink splatter background in bold black, white, and vivid warm yellow-orange hues, vector art meets comic book illustration style, cel shading, sharp outlines, painterly brush strokes, dramatic lighting, high contrast, vertical portrait --ar 1:2 --v 6.0",
+      "author": {
+        "name": "lovimg_com",
+        "handle": "lovimg_com",
+        "profile_url": "https://x.com/lovimg_com"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/lovimg_com/status/2096954809534570766",
+      "image": "examples/illustration-3d/x-01486.webp"
+    },
+    {
+      "id": "x-01487",
+      "category": "Photography",
+      "title": "Giant Woman in Piazza San Marco",
+      "model": "Nano Banana",
+      "prompt": "A surreal giant woman sitting gracefully in the middle of Venice's Piazza San Marco, wearing an elegant black outfit and sunglasses, smiling softly while tourists gather around taking photos with their phones. Cinematic lighting, realistic architecture, dramatic scale contrast, ultra-detailed, photorealistic, travel photography, vibrant sky, natural shadows, high realism, 8K.",
+      "author": {
+        "name": "HiBå🫰",
+        "handle": "Its_shah2i0",
+        "profile_url": "https://x.com/Its_shah2i0"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/Its_shah2i0/status/2072340606400045317",
+      "image": "examples/photography/x-01487.webp"
+    },
+    {
+      "id": "x-01488",
+      "category": "Photography",
+      "title": "Picnic Fashion Editorial",
+      "model": "Nano Banana 2",
+      "prompt": "Create a warm late-afternoon fashion editorial built around an abundant picnic spread in a quiet grassy field bordered by distant trees. Layer oversized cream and taupe blankets loosely across the grass, rumpled rather than perfectly arranged.  An adult woman lies comfortably on her stomach across the center of the blankets, body extending horizontally through the frame. She props herself on both forearms with one hand lightly supporting her chin. Bend both lower legs upward behind her at slightly different angles for a relaxed, spontaneous silhouette. She looks directly toward the camera with calm confidence.  Dress her in a fitted rust-red silk midi dress with a muted botanical print, narrow straps, a softly shaped neckline and a high side slit that allows the fabric to fall naturally around the bent leg. Keep the silhouette close through the waist and hips rather than loose or bohemian. Add layered delicate gold necklaces, bracelets and anklets. Style her hair in a loose low updo with soft curls escaping around the face.  Build a substantial picnic around her without making it pristine: an open wicker hamper, small metal serving bowls containing colorful savory dishes, bread, fruit, herbs, drinking cups, folded textiles and a woven basket of dried flowers. Keep the food clustered mostly across the foreground and sides, clearly separate from her body.  Shoot vertically from slightly above blanket height with her face sharp and the foreground spread creating depth. Use soft golden natural light, subdued greens, warm rust, cream, silver and wicker tones, gentle film grain and modest depth of field. The final image should feel abundant, languid and quietly glamorous, like an afternoon that has stretched much longer than intended.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2095731078979813473",
+      "image": "examples/photography/x-01488.webp"
+    },
+    {
+      "id": "x-01489",
+      "category": "Photography",
+      "title": "Crimson Dress Window-Light Portrait",
+      "model": "Nano Banana Pro",
+      "prompt": "Cinematic portrait of a young woman with long, silky dark brown hair, sitting and resting her chin on her hand, gazing softly off to the side with a gentle smile. She wears a deep crimson red flowy dress with puffed sleeves and a textured, crinkled fabric. Small floral pearl-and-crystal stud earrings. Dramatic low-key lighting: a single warm window light casting geometric window-shadow patterns on a dark wall, soft glow on her face, deep black background. Rosy cheeks, soft natural makeup, dreamy and romantic mood. Shallow depth of field, 85mm lens, ultra-detailed skin texture, rich contrast, moody studio photography, vertical 9:16",
+      "author": {
+        "name": "Letty",
+        "handle": "LettyVesper",
+        "profile_url": "https://x.com/LettyVesper"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/LettyVesper/status/2112553939312820295",
+      "image": "examples/photography/x-01489.webp"
+    },
+    {
+      "id": "x-01490",
+      "category": "Photography",
+      "title": "Rainy Night Car Window Portrait",
+      "model": "Nano Banana Pro",
+      "prompt": "{\n  \"title\": \"Cinematic Rainy Night Portrait\",\n\n  \"description\": \"An emotional cinematic portrait captured through a fogged and rain-covered car window during a rainy night in a neon-lit city. A beautiful young woman sits alone in the backseat, quietly looking outside with a distant and melancholic expression. She gently draws a small heart on the misted glass while colorful city lights blur behind the raindrops, creating a feeling of loneliness, nostalgia, and quiet reflection.\",\n\n  \"prompt\": \"A cinematic rainy-night portrait photographed through a fogged and rain-covered car window. A beautiful young woman sits alone in the backseat of a car during heavy rain, gazing outside with a distant, melancholic expression. She gently draws a tiny heart on the misted glass with her finger. Raindrops stream down the window, distorting colorful city lights and neon signs in the background. Soft blue and warm orange neon reflections illuminate her face and the wet glass. Emotional solitude, quiet sadness, cinematic storytelling, realistic skin texture, visible pores, natural makeup, slightly messy hair, expressive eyes, shallow depth of field, dreamy bokeh, soft focus falloff, realistic reflections, atmospheric lighting, analog film grain, cinematic color grading, photorealistic, masterpiece photography, ultra-detailed, 85mm lens, f/1.4, award-winning portrait, emotional visual poetry, 8k.\",\n\n  \"style\": [\n    \"cinematic photography\",\n    \"photorealistic\",\n    \"analog film aesthetic\",\n    \"emotional visual storytelling\",\n    \"neo-noir atmosphere\"\n  ],\n\n  \"negative_prompt\": \"anime, cartoon, CGI, 3D render, low quality, blurry face, extra fingers, bad anatomy, unrealistic skin, oversaturated colors, watermark, text, logo, duplicate person, distorted hands, plastic skin\"\n}",
+      "author": {
+        "name": "Compound Learning - Tech | Science",
+        "handle": "SheBuildsAI_",
+        "profile_url": "https://x.com/SheBuildsAI_"
+      },
+      "type": "image",
+      "added": "2026-11-19",
+      "tweet_url": "https://x.com/SheBuildsAI_/status/2096282220931822061",
+      "image": "examples/photography/x-01490.webp"
     }
   ]
 }
