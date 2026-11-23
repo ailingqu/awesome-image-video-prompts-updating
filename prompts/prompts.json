@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "description": "A continuously-updated, original collection of image & video prompts. Prompts are refined in-house and every preview image is generated with vinano.ai.",
     "render_provider": "vinano.ai",
-    "count": 2141,
+    "count": 2151,
     "by_category": {
-      "Photography": 654,
-      "Illustration & 3D": 434,
-      "Product & Brand": 403,
-      "Food & Drink": 197,
-      "Poster Design": 249,
-      "UI & Graphic": 181,
-      "Video": 23
+      "Photography": 655,
+      "Illustration & 3D": 435,
+      "Product & Brand": 404,
+      "Food & Drink": 199,
+      "Poster Design": 250,
+      "UI & Graphic": 183,
+      "Video": 25
     },
-    "updated": "2026-11-19",
+    "updated": "2026-11-23",
     "license": "CC BY 4.0"
   },
   "prompts": [
@@ -25146,6 +25146,130 @@
       "origin": "account",
       "video": "videos/vn-02150.mp4",
       "duration": 5.0
+    },
+    {
+      "id": "vn-02151",
+      "title": "Swiss-Style Jazz Night Poster",
+      "category": "Poster Design",
+      "type": "image",
+      "engine": "Nano Banana Pro",
+      "keywords": [],
+      "prompt": "A Swiss International Style poster for a late-night jazz series: a huge abstract saxophone silhouette built from overlapping circles and diagonal bars, strict modular grid, flush-left Helvetica-like type. Headline \"JAZZ AFTER MIDNIGHT\" set vertically along the left edge, small lines of event details \"Fridays · 23:30 · Hall 4\" at the bottom right, and a tiny \"ViNano\" credit. Palette of mustard yellow, cobalt blue and black on warm off-white paper, slight offset-print misregistration.",
+      "image": "images/poster-design/vn-02151.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02152",
+      "title": "Glassmorphism Weather Widgets",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A set of six home-screen weather widgets for an app named \"ViNano Weather\", arranged on a soft blurred aurora-colored wallpaper: a large widget with current temperature 18°, partly cloudy icon and hourly forecast strip, a medium 5-day forecast widget, a small air-quality ring, a sunrise/sunset arc, a rain probability bar chart and a wind compass. Frosted glass cards with subtle borders, rounded corners, clean SF-style typography, crisp readable numbers, consistent icon set.",
+      "image": "images/ui-graphic/vn-02152.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02153",
+      "title": "Matcha Brewing Step Guide",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "An illustrated step-by-step guide titled \"How to Whisk Matcha\" laid out as a vertical recipe card with five numbered steps: sift 2 g of matcha into a bowl, add 70 ml of 80°C water, whisk in a quick W-motion for 20 seconds, check for fine foam, serve. Each step has a small flat vector illustration of the bamboo whisk, bowl and kettle, short captions in clean sans-serif, soft matcha green and cream palette, thin dividers, a tiny \"ViNano\" footer.",
+      "image": "images/ui-graphic/vn-02153.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02154",
+      "title": "Burnt Basque Cheesecake Slice",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Nano Banana 2.1",
+      "keywords": [],
+      "prompt": "Close-up food photograph of a single slice of burnt Basque cheesecake on a speckled stoneware plate, deeply caramelized almost-black top, creamy molten center slowly sagging, crinkled parchment edges, a small fork with a bite taken. Linen napkin and a cup of black coffee softly out of focus, low side light from a window, warm neutral tones, shallow depth of field, editorial bakery style.",
+      "image": "images/food-drink/vn-02154.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02155",
+      "title": "Night Market Rice Cake Stall",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A night street-food scene: a wide shallow iron pan of glossy red spicy rice cakes and fish cakes bubbling in thick sauce under a bare bulb, steam rising, skewers of fried snacks lined up at the front, a vendor's gloved hand stirring with a long ladle. Shot at eye level with a 35mm lens, rich saturated reds and warm tungsten light against a dark blurred alley, droplets of sauce glistening, documentary food photography.",
+      "image": "images/food-drink/vn-02155.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02156",
+      "title": "Floating Island Greenhouse",
+      "category": "Illustration & 3D",
+      "type": "image",
+      "engine": "Grok Imagine Image",
+      "keywords": [],
+      "prompt": "An isometric 3D render of a small floating rock island carrying a Victorian glass greenhouse full of lush tropical plants, a tiny waterfall spilling off one edge into clouds, a winding stone path, a wooden bench and a little watering can. Soft pastel sky, gentle global illumination, clay-like matte materials, crisp miniature details, a small wooden signpost reading \"ViNano\".",
+      "image": "images/illustration-3d/vn-02156.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02157",
+      "title": "Retro Mechanical Keyboard Hero",
+      "category": "Product & Brand",
+      "type": "image",
+      "engine": "MiniMax H3 Image",
+      "keywords": [],
+      "prompt": "A hero product photo of a compact 75% mechanical keyboard with an aluminum case in sage green, cream and orange keycaps, a single orange escape key engraved \"ViNano\", a coiled cable curling off to the side. Shot from a low three-quarter angle on a light concrete desk, soft studio key light with a gentle rim highlight, a ceramic mug and a small succulent blurred in the background, crisp detail on the legends and machining.",
+      "image": "images/product-brand/vn-02157.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02158",
+      "title": "Misty Pine Forest at Dawn",
+      "category": "Photography",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A landscape photograph of a dense pine forest on a hillside at dawn, thick layers of mist drifting between the trees, the first golden sunbeams cutting diagonally through the fog, a narrow dirt trail leading into the haze. Telephoto compression, muted greens and soft gold highlights, quiet atmospheric mood, fine detail in the needles, natural color grading.",
+      "image": "images/photography/vn-02158.webp",
+      "added": "2026-11-23",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02159",
+      "title": "Paper Crane Takes Flight",
+      "category": "Video",
+      "type": "video",
+      "engine": "Grok Imagine",
+      "keywords": [],
+      "prompt": "Macro shot on a wooden desk: a folded paper crane slowly flaps its paper wings, lifts off and glides toward a sunlit window while the camera orbits smoothly around it. Warm morning light, dust motes in the air, shallow depth of field, gentle whimsical mood.",
+      "image": "images/video/vn-02159.webp",
+      "added": "2026-11-23",
+      "origin": "daily",
+      "video": "videos/vn-02159.mp4",
+      "duration": 6.0
+    },
+    {
+      "id": "vn-02160",
+      "title": "Balloons Over the Canyon",
+      "category": "Video",
+      "type": "video",
+      "engine": "Veo 3.1 Fast",
+      "keywords": [],
+      "prompt": "A drone rises slowly beside a cluster of colorful hot air balloons drifting over a red sandstone canyon at sunrise, burners flaring orange, long shadows across the rock formations below. The camera climbs and tilts down to reveal the winding river in the valley. Cinematic, golden light, soft roar of the burners and wind.",
+      "image": "images/video/vn-02160.webp",
+      "added": "2026-11-23",
+      "origin": "daily",
+      "video": "videos/vn-02160.mp4",
+      "duration": 7.9
     }
   ]
 }

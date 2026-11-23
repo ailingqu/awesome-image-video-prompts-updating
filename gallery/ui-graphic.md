@@ -1,4 +1,4 @@
-# UI & Graphic prompts — 181 with previews
+# UI & Graphic prompts — 183 with previews
 
 [← Back to README](../README.md) · Page 1 / 2: **1** · [2](./ui-graphic-2.md)
 

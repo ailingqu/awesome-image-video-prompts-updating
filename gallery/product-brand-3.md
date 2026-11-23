@@ -1,4 +1,4 @@
-# Product & Brand prompts — 403 with previews
+# Product & Brand prompts — 404 with previews
 
 [← Back to README](../README.md) · Page 3 / 4: [1](./product-brand.md) · [2](./product-brand-2.md) · **3** · [4](./product-brand-4.md)
 

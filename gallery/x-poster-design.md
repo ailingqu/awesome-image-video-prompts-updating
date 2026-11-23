@@ -1,4 +1,4 @@
-# Poster Design — 135 community examples
+# Poster Design — 141 community examples
 
 [← Back to Community Examples](../EXAMPLES.md) · Page 1 / 2: **1** · [2](./x-poster-design-2.md)
 

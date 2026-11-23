@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "source": "X and the web (community, credited)",
     "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
-    "count": 1481,
+    "count": 1526,
     "by_category": {
-      "Photography": 534,
-      "Illustration & 3D": 372,
+      "Photography": 548,
+      "Illustration & 3D": 383,
       "Product & Brand": 216,
       "Food & Drink": 154,
-      "Poster Design": 135,
-      "UI & Graphic": 48,
-      "Video": 22
+      "Poster Design": 141,
+      "UI & Graphic": 49,
+      "Video": 35
     },
-    "updated": "2026-11-19"
+    "updated": "2026-11-23"
   },
   "examples": [
     {
@@ -20834,6 +20834,726 @@
       "added": "2026-11-19",
       "tweet_url": "https://x.com/SheBuildsAI_/status/2096282220931822061",
       "image": "examples/photography/x-01490.webp"
+    },
+    {
+      "id": "x-01491",
+      "category": "Video",
+      "title": "Rainy Seoul Breakfast ASMR",
+      "model": "Seedance 2.0",
+      "prompt": "Create a 15-second ultra-photorealistic cinematic 16:9 lifestyle video set in a cozy Seoul apartment during a rainy early morning. A beautiful young Korean woman with long dark hair, wearing an oversized comfortable sweatshirt, prepares a delicious breakfast sandwich beside a large rain-covered kitchen window.\n\nBegin with atmospheric shots of quiet Seoul streets, misty buildings and raindrops sliding down the glass. Transition to detailed close-ups of her hands spreading butter on fresh bread, frying an egg, slicing tomatoes and layering lettuce, cheese and egg. Toast the sandwich until golden and crispy, then slice it diagonally, revealing the delicious filling.\n\nShe carries the sandwich to the window, sits comfortably with a steaming cup of coffee and takes a slow, satisfying bite. Capture her subtle smile as she watches the rainy city outside.\n\n**Visuals:** Authentic Korean apartment, soft blue-grey dawn lighting, warm kitchen ambience, beautiful food cinematography, natural skin textures, shallow depth of field, smooth camera movements and realistic human motion.\n\n**Audio:** Immersive ASMR of rainfall, frying egg, knife chopping, bread crunching, coffee pouring and gentle eating sounds. No dialogue, no background music, no subtitles. Maintain consistent character appearance and cinematic continuity throughout.",
+      "author": {
+        "name": "Ahmad Faraz",
+        "handle": "iamahmedfaraz66",
+        "profile_url": "https://x.com/iamahmedfaraz66"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/iamahmedfaraz66/status/2124518482918486393",
+      "image": "examples/video/x-01491.webp"
+    },
+    {
+      "id": "x-01492",
+      "category": "Video",
+      "title": "Torch Against the Wolf Pack",
+      "model": "Seedance 2.0",
+      "prompt": "Create a cinematic 3D animated fantasy adventure scene in a dark, mysterious forest at dusk. A brave young medieval woman holding a burning torch is protecting a small blonde girl from a pack of aggressive grey wolves. The wolves slowly surround them, growling, showing their sharp teeth and preparing to attack. The woman holds the child close with one arm and raises the flaming torch with the other hand to scare away the wolves.\n\nShow dramatic action sequences with wolves running, jumping and approaching from different directions. The woman courageously steps backward while protecting the frightened child. Add realistic torch flames, glowing embers, smoke, wind moving their clothes and hair, and dense pine trees in the background.\n\nUse cinematic camera movements, dramatic close-ups, wide-angle forest shots, low-angle wolf shots and smooth transitions. Highly detailed 3D animated characters, realistic facial expressions, professional fantasy movie animation, atmospheric blue lighting, dramatic shadows, ultra-detailed environment, 4K quality, 16:9 widescreen.\n\nMaintain consistent character appearances throughout the video. Make the action suspenseful, emotional and engaging. End with a mysterious cliffhanger showing the wolves surrounding the woman and child.",
+      "author": {
+        "name": "Ali",
+        "handle": "CodesWithAli",
+        "profile_url": "https://x.com/CodesWithAli"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/CodesWithAli/status/2124166885826871631",
+      "image": "examples/video/x-01492.webp"
+    },
+    {
+      "id": "x-01493",
+      "category": "Video",
+      "title": "Norse Wood Carving Serpent",
+      "model": "Seedance 2.0",
+      "prompt": "Animated Norse wood carving relief, weathered oak grain, carved grooves and interlacing knotwork that slides and reweaves as things move, faded red ochre and black paint, raking firelight casting deep shadows. Color grade: warm oak brown, faded red ochre, black, firelight amber.\n\nSUBJECT: A colossal world serpent coiled in knotwork around the earth, a fierce carved head biting its own tail. A longship with round shields, a dragon prow and a crew of warriors at the oars.\n\nSHOT 1 (0 to 3s): Wide shot, firelight flickers across the carving and the serpent's knotwork body begins to slide and reweave itself around the earth.\n\nSHOT 2 (3 to 6s): Medium shot, 35mm lens, the longship rows across carved waves, warriors straining at their oars, the dragon prow rising and falling.\n\nSHOT 3 (6 to 9s): Close-up, 85mm lens, the serpent's carved jaw slowly releases its own tail, wood creaking and splintering, its eye a deep groove glowing red.\n\nSHOT 4 (9 to 12s): Low angle wide shot, 20mm lens, the serpent's head rises out of the carved sea beside the longship, coils lifting in a tidal wave of grooved water.\n\nSHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the warriors raise their shields together, the serpent coils back around the earth and bites its tail again, and the runes around the border glow.\n\nAUDIO: Crackling hearth fire, creaking wood, oar strokes and a rowing chant, carved wood grinding and splintering, a deep hissing roar, shields clashing, frame drum and throat singing.",
+      "author": {
+        "name": "Alexandra Aisling",
+        "handle": "AllaAisling",
+        "profile_url": "https://x.com/AllaAisling"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/AllaAisling/status/2124278684710482420",
+      "image": "examples/video/x-01493.webp"
+    },
+    {
+      "id": "x-01494",
+      "category": "Video",
+      "title": "Lightning Queen in the Castle",
+      "model": "Seedance 2.0",
+      "prompt": "A powerful fantasy queen warrior with long silver-white hair and a magnificent golden crown stands fearlessly inside a massive ancient royal castle. She wears elegant black and silver battle armor with glowing blue magical energy surrounding her hands. Behind her, dozens of mysterious dark armored warriors with glowing electric-blue eyes surround the royal courtyard. Suddenly, the queen raises her hands and unleashes an enormous wave of blue lightning magic. The entire castle trembles as powerful electrical energy spreads across the battlefield. Dark storm clouds gather above the kingdom, lightning strikes the castle towers, and magical energy illuminates the night sky. Epic fantasy atmosphere, breathtaking cinematic camera movements, realistic lightning effects, ultra-detailed 3D CGI, dramatic lighting, 4K movie quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/draavenai/status/2124422089490973066",
+      "image": "examples/video/x-01494.webp"
+    },
+    {
+      "id": "x-01495",
+      "category": "Video",
+      "title": "Miniature Village House Build",
+      "model": "Seedance 2.0",
+      "prompt": "Watch a tiny Pakistani village house transform into a masterpiece through incredible miniature craftsmanship, satisfying DIY construction, and stunning cinematic timelapse visuals!",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2124073828410429573",
+      "image": "examples/video/x-01495.webp"
+    },
+    {
+      "id": "x-01496",
+      "category": "Video",
+      "title": "Rose-Gold Headphones Product Ad",
+      "model": "Seedance 2.0",
+      "prompt": "Create a luxurious cinematic 3D product advertisement featuring elegant rose-gold pink over-ear wireless headphones. Begin with a close-up shot showing the headphones' premium design, then smoothly reveal their internal components with a futuristic holographic disassembly effect. Add glowing blue energy particles and magical light trails as the components assemble back together. Transition into beautiful rotating product shots from multiple angles, highlighting the ear cushions, headband, and sleek finish. Soft blush-pink studio background, glossy reflective floor, sparkling particles, elegant lighting, ultra-realistic materials, smooth camera movements, premium commercial aesthetic, 4K quality.",
+      "author": {
+        "name": "Rubi",
+        "handle": "AIwithRubii",
+        "profile_url": "https://x.com/AIwithRubii"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/AIwithRubii/status/2124412528348586165",
+      "image": "examples/video/x-01496.webp"
+    },
+    {
+      "id": "x-01497",
+      "category": "Video",
+      "title": "Warrior and Child in the Wolf Forest",
+      "model": "Seedance 2.0",
+      "prompt": "A cinematic dark fantasy adventure in a mysterious ancient forest at night. A brave young female warrior with long brown hair, wearing a dark green medieval cloak, protects a frightened little child from a pack of terrifying grey wolves. She holds a burning torch in one hand while standing fearlessly between the child and the approaching wolves. The wolves surround them in the foggy forest, their glowing eyes watching every movement. The warrior raises her torch, creating a magical circle of fire around them. Suddenly, the wolves leap forward as she prepares to defend the child. Dramatic moonlight, dense forest mist, emotional storytelling, detailed character expressions, cinematic camera angles, realistic fire effects, dark fantasy animation, ultra-detailed 3D visuals, 4K quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/draavenai/status/2124003994762903950",
+      "image": "examples/video/x-01497.webp"
+    },
+    {
+      "id": "x-01498",
+      "category": "Video",
+      "title": "Black Ribbed Perfume Commercial",
+      "model": "Seedance 2.0",
+      "prompt": "Create a cinematic luxury perfume commercial featuring a sophisticated black ribbed glass perfume bottle with elegant gold detailing. Begin with a dramatic splash of crystal-clear water surrounding the bottle, followed by swirling atmospheric smoke. Show an extreme macro close-up highlighting the bottle's glossy ribbed texture, gold accents, and delicate water droplets. Transition into a warm luxury interior with soft golden lighting, then create a spectacular golden liquid splash rising around the bottle in slow motion. Finish with the perfume bottle standing elegantly against a warm champagne-gold background. Ultra-realistic product photography, premium fragrance advertisement, dramatic lighting, fluid motion, 4K cinematic quality, refined luxury aesthetic. Keep the bottle design consistent throughout.",
+      "author": {
+        "name": "Rubi",
+        "handle": "AIwithRubii",
+        "profile_url": "https://x.com/AIwithRubii"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/AIwithRubii/status/2123825895358279903",
+      "image": "examples/video/x-01498.webp"
+    },
+    {
+      "id": "x-01499",
+      "category": "Video",
+      "title": "Miniature Farmhouse Timelapse",
+      "model": "Seedance 2.0",
+      "prompt": "Discover amazing miniature village farmhouse construction, realistic DIY building, creative AI designs, and satisfying construction timelapses. Follow for incredible miniature transformations!",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2124168538713940303",
+      "image": "examples/video/x-01499.webp"
+    },
+    {
+      "id": "x-01500",
+      "category": "Video",
+      "title": "The Sorcerer Who Challenged Death",
+      "model": "PixVerse 6.0",
+      "prompt": "DURATION: 15 seconds | 16:9 widescreen\nSTYLE: Ultra-photorealistic Hollywood live-action dark fantasy, monumental supernatural warfare, ancient forbidden magic, breathtaking cinematic scale.\n\nMAIN CHARACTER:\nA legendary immortal sorcerer with long silver-black hair, piercing golden eyes, an ancient obsidian crown, and intricately engraved black-and-gold armor. Regal, fearless, commanding. Natural skin texture, realistic hair and weathered armor.\n\n0-3s | THE FINAL CHALLENGE:\nExtreme-wide aerial shot of a vast ancient battlefield covered in abandoned armor, swords, and shattered banners beneath storm clouds. The sorcerer stands alone facing Death, a towering spectral figure wearing an enormous dark cloak and holding a magnificent obsidian staff. Dramatic low-angle close-up reveals the sorcerer's unwavering golden eyes.\n\n3-6s | THE FORBIDDEN GATES:\nThe sorcerer raises both hands. Gigantic rotating golden runes illuminate the ground. An enormous ancient stone gateway emerges from the mist, its monumental doors opening to reveal a swirling realm of silver-blue celestial energy. The spectral guardian raises its staff as violet lightning fills the sky.\n\n6-10s | THE LEGION AWAKENS:\nSpectacular ground-level tracking shot. Thousands of magnificent spectral knights emerge through the gateway, wearing ancient translucent armor and carrying luminous swords. Enormous ghostly warhorses and colossal armored spectral guardians follow. The sorcerer levitates above the army, commanding their formation with one raised hand.\n\n10-15s | THE IMMORTAL KING:\nExtreme-wide cinematic shot. The spectral knights charge across the battlefield as the towering guardian unleashes a gigantic violet magical wave. The sorcerer counters with a colossal golden shield, creating an immense luminous shockwave. Final aerial pullback reveals the immortal sorcerer suspended above his vast spectral legion, the enormous gateway blazing behind him.\n\nCINEMATOGRAPHY:\nPremium large-format live-action realism, dramatic low angles, sweeping aerial tracking, expressive close-ups, weathered armor, realistic spectral translucency, volumetric fog, physically convincing magical light, cinematic gold-blue grading, monumental scale.\n\nAUDIO:\nDeep supernatural thunder, ancient stone gates rumbling, spectral cavalry, magical resonance, colossal energy impacts, powerful orchestral crescendo. No dialogue.\n\nCONTINUITY:\nOne immortal sorcerer, one towering spectral guardian, one ancient gateway, one spectral army. Consistent character design, magical colors, battlefield geography, and spectral effects.\n\nAVOID:\nGraphic violence, injuries, disturbing imagery, cartoon aesthetics, plastic CGI, distorted faces, extra limbs, duplicate characters, excessive neon, chaotic editing, text, logos, watermarks.",
+      "author": {
+        "name": "DeCat",
+        "handle": "DeCat2025",
+        "profile_url": "https://x.com/DeCat2025"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/DeCat2025/status/2123994151016443982",
+      "image": "examples/video/x-01500.webp"
+    },
+    {
+      "id": "x-01501",
+      "category": "Video",
+      "title": "Rooftop Storm Caller",
+      "model": "Seedance 2.0",
+      "prompt": "A cinematic superhero scene featuring a young man standing fearlessly on the rooftop of a traditional Asian building overlooking a breathtaking futuristic city at night. Dark storm clouds cover the sky as powerful lightning strikes directly into his raised hand. His hand glows with intense blue-white electrical energy, creating a spectacular lightning beam stretching from the sky to his fingertips. He then extends his arm toward the glowing city, releasing a powerful electric energy wave. Skyscrapers illuminate the night, dramatic thunderstorm effects, realistic lightning, cinematic camera movements, epic superhero atmosphere, ultra-realistic VFX, 4K quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/draavenai/status/2124165725124182182",
+      "image": "examples/video/x-01501.webp"
+    },
+    {
+      "id": "x-01502",
+      "category": "Video",
+      "title": "Canyon Wingsuit Drone Chase",
+      "model": "Wan 3.0",
+      "prompt": "Ultra-photorealistic Hollywood live-action. An intense, uninterrupted aerial chase through a spectacular alien jungle canyon. Towering cliffs, roaring waterfalls, ancient stone arches, explosive destruction and breathtaking speed.\n\nOne elite pilot in a black-and-orange wingsuit escapes downhill from two armed gray military drones.\n\nCHASE GEOGRAPHY:\nThe pilot always leads. Both drones pursue from behind, firing toward the pilot. Maintain this order in every shot. All subjects fly in the same downhill direction.\n\nSHOT 1 | 0–2.5s | SIDE PROFILE TRACKING\nThe pilot races left to right, clearly ahead of both pursuing drones. Explosive shots strike the cliff behind the pilot as all three dive through the canyon at extreme speed.\n\nSHOT 2 | 2.5–5s | FRONT TRACKING\nCamera faces the approaching pilot, with both drones visible farther behind. The pilot banks sharply around a colossal stone pillar. The drones follow the same curve, narrowly avoiding the rock.\n\nSHOT 3 | 5–7.5s | OVERHEAD DIVING ANGLE\nThe pilot leads the formation through a tight canyon bend. The drones pursue behind, firing continuously. Weapon impacts shatter the surrounding cliff, sending debris into the abyss.\n\nSHOT 4 | 7.5–10s | LOW SIDE TRACKING\nThe pilot streaks past a gigantic waterfall, skimming its roaring surface. Both drones follow through the spray. An explosion tears apart the waterfall's rocky edge behind the pilot.\n\nSHOT 5 | 10–12.5s | FIXED STONE-ARCH ANGLE\nThe pilot flies through a narrow natural stone arch first. The two larger drones follow but strike opposite sides of the opening. Both explode against the rock, scattering mechanical debris into the canyon.\n\nSHOT 6 | 12.5–15s | PARALLEL AERIAL TRACKING\nThe pilot escapes alone into a vast jungle valley, maintaining high-speed downhill flight. Far behind, smoke rises from the shattered drones. Hold the completed escape composition for the final two seconds.\n\nAUDIO:\nViolent rushing wind, drone engines, rapid weapon fire, roaring waterfall, explosive rock impacts and crushing drone collisions. No music, dialogue or narration.\n\nCONTINUITY:\nOne pilot, two drones. Same designs, same downhill route. The pilot remains ahead throughout. The waterfall precedes the stone arch. The pilot clears the arch before the drones collide.\n\nRESTRICTIONS:\nNo reversed pursuit, drones overtaking the pilot, duplicated subjects, changing designs, impossible flight, camera drift, zoom-out, famous faces or unfinished ending.\n\nKeep proportions. Keep style and features. Ratio 16:9.",
+      "author": {
+        "name": "DeCat",
+        "handle": "DeCat2025",
+        "profile_url": "https://x.com/DeCat2025"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/DeCat2025/status/2124446289387802965",
+      "image": "examples/video/x-01502.webp"
+    },
+    {
+      "id": "x-01503",
+      "category": "Video",
+      "title": "Phoenix Ride Over the Night Jungle",
+      "model": "Seedance 2.0",
+      "prompt": "A breathtaking cinematic fantasy adventure featuring a young male warrior riding a magnificent giant magical phoenix bird through a mysterious tropical jungle at night. The bird has enormous colorful wings with glowing turquoise, purple, and pink feathers, bright magical eyes, and a long elegant tail. The rider wears a dark fantasy outfit and holds tightly onto the bird as it flies above a glowing river surrounded by lush palm trees. Colorful magical fireworks explode across the night sky, illuminating the clouds and jungle. The phoenix performs spectacular aerial turns, spreading its giant wings as sparkling magical particles trail behind it. A beautiful full moon shines above the jungle. Smooth aerial camera tracking, breathtaking wide shots, realistic feather details, vibrant fantasy colors, cinematic lighting, ultra-detailed 3D CGI, 4K movie quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/draavenai/status/2124487194203304080",
+      "image": "examples/video/x-01503.webp"
+    },
+    {
+      "id": "x-01504",
+      "category": "Poster Design",
+      "title": "Hand-Drawn City Travel Print Template",
+      "model": "GPT Image 2.6",
+      "prompt": "INTERNATIONAL CITY TRAVEL ART PRINT COLLECTION\n\nCreate a charming, vintage-inspired travel poster featuring [CITY / COUNTRY], illustrated in a distinctive hand-drawn architectural doodle style.\n\nShowcase the city's most iconic landmarks, buildings, monuments, towers, bridges, and recognizable architectural details, arranged together in a dense yet balanced artistic composition. Incorporate a recognizable local element, such as a vintage car, tram, taxi, bicycle, or public transport, in the foreground.\n\nUse bold black ink outlines, intricate hand-drawn details, playful geometric patterns, and slightly imperfect sketch-like textures. Add the city name prominently within the illustration using creative hand-lettered typography.\n\nPresent the artwork inside a clean white poster border, surrounded by a vibrant solid-color background that complements the city's identity. Use a limited palette of black, warm white, and one or two bold accent colors.\n\nOverall aesthetic: Minimalist European travel illustration, retro souvenir poster, whimsical architectural line art, screen-print texture, playful composition, and premium collectible wall-art design.\n\nKeep the artwork visually cohesive, highly detailed, charming, and instantly recognizable as a celebration of the destination. Avoid photorealism, 3D effects, gradients, and unnecessary decorative elements.",
+      "author": {
+        "name": "Kami AI",
+        "handle": "Aiwithkami",
+        "profile_url": "https://x.com/Aiwithkami"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/Aiwithkami/status/2124401464932184540",
+      "image": "examples/poster-design/x-01504.webp"
+    },
+    {
+      "id": "x-01505",
+      "category": "Poster Design",
+      "title": "Zebra in the Fingerprint Tunnel",
+      "model": "GPT Image 2.6 Sunburst",
+      "prompt": "High-contrast black-and-white conceptual artwork, tall 9:16 vertical composition, mixed-media graphic style. Full bleed edge to edge, no frame, no border, no lettering.\nBACKGROUND: a rich matte black surface with a fine pebbled leather grain and subtle diagonal texture, deepening to pure black at the corners and edges.\nFINGERPRINT: one enormous white fingerprint fills the frame as the dominant graphic element, its outline a wide oval, slightly tapering toward the top. It is drawn not as solid lines but as hundreds of broken dashed strokes and short parallel bars with softly rounded ends, hand-painted with slight thickness variation, some strokes irregular and chipped. The ridges sweep in long concentric arches and whorls, curving up over the crown and down both sides, with a dense tight cluster of concentric rings in the centre.\nTUNNEL: dead centre, the fingerprint ridges part to form a glowing opening — a soft luminous white corridor receding into the distance, its walls a smooth radiant gradient of blurred white and pale grey, brightest at the far end, dissolving into a bright misty haze that halos the centre of the print.\nZEBRA: inside that opening walks a single zebra, seen from directly behind, moving away from the viewer toward the light. Its body is compact and symmetrical, coat a crisp pattern of black and white vertical stripes, a dark mane standing up in a short brush between two rounded ears, a long thin tail hanging straight down the middle of its back, hindquarters rounded and hind hooves faintly visible in the haze. Its silhouette is sharp and dark against the glowing tunnel, its stripes echoing the ridges of the fingerprint around it.\nLIGHT: soft white backlight pouring out from the tunnel mouth onto the zebra, rim-lighting its ears and flanks, a gentle glow bleeding into the surrounding ridges.\nPALETTE: pure black, charcoal, soft white, pearl grey. Graphic poster feel, minimalist, surreal.",
+      "author": {
+        "name": "Viki",
+        "handle": "churvikv",
+        "profile_url": "https://x.com/churvikv"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/churvikv/status/2123819465796206817",
+      "image": "examples/poster-design/x-01505.webp"
+    },
+    {
+      "id": "x-01506",
+      "category": "Illustration & 3D",
+      "title": "Dragon Fruit Botanical Plate",
+      "model": "GPT Image 2.6",
+      "prompt": "A highly detailed scientific botanical study of dragon fruit (Selenicereus undatus), illustrated in the style of 19th-century natural history journals. Delicate antique ink linework, exquisite hand-painted watercolor, natural pigments, vivid magenta-pink dragon fruits with curved green bracts, whole mature fruits attached to climbing cactus stems, sliced dragon fruit revealing luminous white flesh densely scattered with tiny black seeds, detailed anatomical cross-sections, magnified seed morphology, spectacular large white night-blooming cactus flowers with golden stamens, green three-ribbed cactus stems and small spines, fine botanical leader lines, elegant handwritten Latin specimen labels in sepia ink, refined scientific plate arrangement, antique scholarly aesthetic, pristine white background, hyper-detailed museum-quality natural history illustration, 4:5 aspect ratio.",
+      "author": {
+        "name": "kold Coffee",
+        "handle": "sipteaandcoffee",
+        "profile_url": "https://x.com/sipteaandcoffee"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/sipteaandcoffee/status/2123882892279349442",
+      "image": "examples/illustration-3d/x-01506.webp"
+    },
+    {
+      "id": "x-01507",
+      "category": "Illustration & 3D",
+      "title": "Impressionist Night Owl",
+      "model": "",
+      "prompt": "an impressionistic painting featuring a central owl perched on a branch at night. the owl has soft light cream chest feathers, brown patterned wings, and striking yellow orange eyes. it rests on a brown twig amidst a dense background of blue bushes and branches. rich texture is created using thick paint application, giving a luminous, starry night atmosphere to the dark blue backdrop.",
+      "author": {
+        "name": "Beanie Blossom",
+        "handle": "BeanieBlossom",
+        "profile_url": "https://x.com/BeanieBlossom"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/BeanieBlossom/status/2124427686403854735",
+      "image": "examples/illustration-3d/x-01507.webp"
+    },
+    {
+      "id": "x-01508",
+      "category": "Illustration & 3D",
+      "title": "Tiny Chefs in a Strawberry",
+      "model": "GPT Image 2.6 Flare",
+      "prompt": "Tiny chefs preparing an elaborate dinner inside a giant red strawberry.\n\nStyle: whimsical handcrafted 3D",
+      "author": {
+        "name": "Alexandra Aisling",
+        "handle": "AllaAisling",
+        "profile_url": "https://x.com/AllaAisling"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/AllaAisling/status/2124477494719881479",
+      "image": "examples/illustration-3d/x-01508.webp"
+    },
+    {
+      "id": "x-01509",
+      "category": "Photography",
+      "title": "Bougainvillea Ladder Editorial",
+      "model": "Nano Banana 2",
+      "prompt": "fashion editorial in a narrow Greek island alley at harsh midday, with chalk-white stone walls, a weathered cobalt door, and an enormous fuchsia bougainvillea spilling overhead.\n\nAn adult woman stands midway up a paint-marked wooden ladder, framed from just below the knee upward so she remains dominant while the flowers press tightly around the top and sides of the image.\n\nShe wears an blue poplin halter dress with a close sculpted waist, broad open back, and a short softly structured skirt, paired with dark brown leather sandals and small hammered-gold earrings. Style her hair in a compact low twist with an irregular side part, leaving the neck and shoulders clear.\n\nOne hand steadies the ladder while the other holds a small pair of garden shears beside a freshly cut bougainvillea branch. Loose petals cling to one shoulder and scatter across the stone below. She turns down toward the camera with a slightly breathless, amused expression, as if interrupted halfway through the task.\n\nPhotograph from close below ladder height, slightly off-axis, with the cobalt doorway cutting into one edge of the frame and dense flowers filling the opposite side.\n\nHard Mediterranean sun creates sharp leaf-and-flower shadows across the white wall, her bare shoulders, and the dress. Preserve sun-faded paint, limewashed stone, dry petals, cotton structure, worn ladder wood, natural skin, and restrained film grain.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2123997330747850918",
+      "image": "examples/photography/x-01509.webp"
+    },
+    {
+      "id": "x-01510",
+      "category": "Photography",
+      "title": "White Roses Golden-Hour Film Portrait",
+      "model": "Nano Banana 2",
+      "prompt": "A raw-style photo with a vintage film effect and added grain. The woman stands relaxed, leaning her back against a wall during golden hour. In both hands, she holds a bouquet of huge white roses, more than 30 flowers. She presses it against her chest. Her long, wavy hair falls slightly over her face, creating a natural, unposed look. Part of her face is illuminated by sunbeams, giving the image the warm and soft lighting characteristic of golden hour. The woman looks at the camera. She is wearing a short dark denim shirt dress with long, wide sleeves; the buttons on the chest are fastened all the way to the hem of the dress; black nylon tights and high black boots. The background is minimalist, helping focus attention on her appearance and the atmosphere. Y2K style. Format 9:16.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2124337084575932832",
+      "image": "examples/photography/x-01510.webp"
+    },
+    {
+      "id": "x-01511",
+      "category": "Photography",
+      "title": "Autumn Park Bench Editorial",
+      "model": "Nano Banana 2",
+      "prompt": "A smiling woman with reddish-brown hair styled in a half-updo sits on a weathered park bench.  Subject: A young woman with fair skin and warm brown eyes, featuring a bright smile and soft bangs framing her face.  Clothing: She wears a sleek black satin slip dress with thin spaghetti straps and grey suede high-heeled pumps.  Action: She is seated with one leg crossed over the other, leaning back casually against the bench while holding a woven clutch purse in one hand.  Environment: The setting is an outdoor park during autumn, featuring a stone balustrade behind her and a ground covered in fallen brown leaves.  Objects: A tall glass of champagne sits on the wooden bench next to her.  Lighting: Soft natural sunlight filters through the trees, creating a gentle glow and highlighting the satin texture of her dress.  Camera: The shot is framed as a medium view from a slightly low angle, emphasizing her posture against the background foliage.  Style Details: The image has a polished, high-fashion editorial aesthetic with a shallow depth of field that blurs the green hedge in the background.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2124525816759677391",
+      "image": "examples/photography/x-01511.webp"
+    },
+    {
+      "id": "x-01512",
+      "category": "Photography",
+      "title": "Red Marble Elevator Fashion Shot",
+      "model": "Nano Banana 2",
+      "prompt": "A fashion-forward woman stands confidently in front of a red elevator with marble walls.  Subject: A woman with short dark hair and bold black lipstick, wearing a metallic green mini dress with a deep V-neckline and lace-up front detail.  Clothing: She wears a fluffy light blue faux fur coat draped over her shoulders, purple fishnet stockings on one leg, and red platform boots. A chunky silver necklace adorns her neck.  Action: She stands with hands behind her back, looking directly at the camera with a serious expression.  Environment: The setting is an elegant elevator lobby with red marble walls, a red carpet with geometric patterns, and an elevator panel visible to the side.  Camera: Medium full-body shot centered on the subject, framed symmetrically within the elevator doorway.  Lighting: Warm ambient lighting highlights the metallic sheen of the dress and soft texture of the fur coat, casting gentle shadows behind the subject.  Style Details: High-fashion editorial aesthetic with rich color contrast between green, blue, red, and gold tones; polished studio photography quality.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2124359718840021220",
+      "image": "examples/photography/x-01512.webp"
+    },
+    {
+      "id": "x-01513",
+      "category": "Photography",
+      "title": "Oxblood Velvet Suit Campaign",
+      "model": "Seedream 5.0 Pro",
+      "prompt": "Create a breathtaking, ultra-photorealistic, billion-dollar luxury fashion campaign featuring an exceptionally handsome young man with thick, naturally textured black hair, a perfectly sculpted beard, captivating eyes and an effortlessly powerful masculine presence.\n\n**THE SIGNATURE LOOK:** A breathtaking custom-designed deep oxblood wine-red velvet double-breasted suit, perfectly tailored with sharp architectural shoulders, paired with a luxurious black silk shirt, subtly unbuttoned collar, an elegant black luxury watch and sophisticated silver rings. Every element must communicate exclusivity, confidence and elite fashion.\n\n**THE ICONIC POSE:** The man stands at the centre of a magnificent grand architectural staircase, one hand casually resting inside his trouser pocket, the other adjusting his suit cuff. His shoulders are naturally positioned, chin slightly raised, looking directly into the camera with an intense, composed expression. His presence should feel commanding, effortless and unforgettable.\n\n**THE ENVIRONMENT:** A spectacular modern royal palace interior featuring enormous burgundy marble columns, magnificent golden chandeliers, deep wine-red velvet architectural details and polished reflective marble flooring. Behind him, an enormous sculptural arch creates a dramatic cinematic frame around his silhouette.\n\n**CINEMATIC LIGHTING:** Rich crimson illumination from the architectural background, warm champagne-gold highlights from the chandeliers, beautifully controlled shadows across his face and a delicate red rim light defining his silhouette. Realistic skin tones must remain natural.\n\n**CAMERA DIRECTION:** Captured from a slightly low camera angle using an 85mm professional portrait lens, cinematic three-quarter body composition, extraordinary depth, razor-sharp facial focus and perfectly balanced architectural symmetry.\n\n**COLOUR MASTERPIECE:** Deep oxblood, royal burgundy, sophisticated black and restrained champagne gold. Absolutely no neon green, no excessive saturation.\n\n**FINAL AESTHETIC:** International luxury fashion-house campaign, royal sophistication meets modern celebrity attitude, world-class editorial photography, extraordinary realism, lifelike skin texture, realistic hands, intricate velvet details, 8K ultra-high definition.\n\nThe image must feel like an exclusive campaign photographed for one of the world's most prestigious luxury fashion houses. Visually unforgettable, sophisticated, powerful and genuinely photographic.\n\nNO TEXT. NO LOGOS. NO WATERMARKS. NO CARTOON EFFECTS. NO PLASTIC SKIN. NO CHEAP AI AESTHETICS.",
+      "author": {
+        "name": "Aaqib ali",
+        "handle": "AaqibVx",
+        "profile_url": "https://x.com/AaqibVx"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/AaqibVx/status/2124491385902657815",
+      "image": "examples/photography/x-01513.webp"
+    },
+    {
+      "id": "x-01514",
+      "category": "Illustration & 3D",
+      "title": "Deadpan Cat and Fish Photocopy Art",
+      "model": "",
+      "prompt": "Create ONE original vertical 9:16 artwork, from scratch. A high-chroma color photocopy collage with large uninterrupted near-white paper, saturated selectively overprinted pigments, mottled grain and tonal breakup only in the ink, tiny patches of missing ink, light registration drift, and realistic animal eyes/texture grounded in a funny deadpan gesture. Two or three saturated colors; no 3D, no sleek vector, no flat cartoon, no beige tint. Treat the picture and paper as one continuous composition with no header/footer separated from the artwork. Set exactly two small typographic annotations within the specified naturally empty white area: a quiet very small sans-serif English line (roughly 20–31% canvas width, not title size), with an even smaller clear Simplified Chinese line 0.65 as large directly below aligned on the same margin. Tiny but clean correct letters, black ink, about 7% margin from edges. Do not add any other type, page mark, index, page number, bar, rule, logo, watermarks, boxes or layout panels. The joke should read first in the image, and the small line then invites a second thought. All artwork, including text, made in this single generation.\n\n01 揣手猫与鱼\nArt: Slightly elevated side view: a winter-furred orange cat sits low and right on the bunched cobalt-blue corner of a winter quilt with its two front paws tucked deep under its chest, both paws completely hidden; it looks calmly sideways at one small, bright vermilion fish, swimming in the white paper air near its nose. Only one fish, no tank. Dramatic white space above.\nAnnotation position: upper-left white, both lines left aligned.\nExact English annotation (omit quotes): \"NOT EVERY FISH IS URGENT.\"\nExact tiny Chinese annotation (omit quotes): \"鱼也分轻重缓急\"",
+      "author": {
+        "name": "虎小象",
+        "handle": "hx831126",
+        "profile_url": "https://x.com/hx831126"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/hx831126/status/2124477388608164286",
+      "image": "examples/illustration-3d/x-01514.webp"
+    },
+    {
+      "id": "x-01515",
+      "category": "Photography",
+      "title": "Sunlit Orange Beauty Portrait",
+      "model": "Nano Banana 2",
+      "prompt": "Beauty fashion portrait in aesthetic sunlit glow / modern minimal glam / warm editorial. Warm, sensual, confident woman with natural appeal. Close-up (crop to chest). Accent on eyes, cheekbones, and skin texture. Neutral light background. Minimalism without unnecessary details. Model leans her head on her hand, creating a soft diagonal in the frame. Head slightly tilted to the side. One hand supports the head. Eyes looking directly at the camera - deep, calm, magnetic. Lips relaxed, naturally closed. Soft but confident pose. Hair loose, light natural texture. Part of the hair tucked behind the ear, part falling freely along the face. Soft side or slightly offset parting. Natural styling. Tight-fitting long-sleeve in a bright orange shade. Smooth fabric. Minimalist gold hoop earrings. Modern minimalism with a bright color accent. Glow editorial makeup: warm blending on eyes, emphasized lashes, light face sculpting, pronounced highlighter on cheekbones, nude lips with a soft satin finish. Warm directional light. Soft shadows. Light emphasizes skin glow, cheekbone volume, and fabric texture. Moderate contrast, sunny, editorial-level. Clean warm color correction. Accent on skin glow, orange saturation, and natural texture. Without aggressive retouching. Premium beauty campaign finish.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2124133231779832177",
+      "image": "examples/photography/x-01515.webp"
+    },
+    {
+      "id": "x-01516",
+      "category": "Photography",
+      "title": "Cobblestone Street Style Pose",
+      "model": "Nano Banana 2",
+      "prompt": "A stylish woman posing confidently in the middle of a cobblestone street while holding a coffee cup and adjusting her shoe.  Subject: A young woman with long wavy brown hair featuring bangs, wearing dark sunglasses and displaying a confident expression.  Clothing: She wears a black oversized blazer over a white collared shirt with a black tie, paired with black shorts and distinctive two-tone black and white pointed-toe heels.  Action: She stands in a dynamic pose with one leg raised high to adjust her shoe while holding a white coffee cup in her other hand.  Environment: An urban street scene featuring a cobblestone road, a black luxury car parked behind her, and a building facade with large columns and a sign reading  LOVE .  Camera: Eye-level perspective capturing the full body shot with a shallow depth of field that keeps the subject sharp while slightly blurring the background.  Lighting: Natural daylight providing soft, even illumination across the scene without harsh shadows.  Style Details: High-fashion editorial aesthetic with a polished urban street style vibe and realistic rendering quality.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2124495614482473235",
+      "image": "examples/photography/x-01516.webp"
+    },
+    {
+      "id": "x-01517",
+      "category": "Photography",
+      "title": "Cloud Barber Surreal Editorial",
+      "model": "GPT Image 2.6",
+      "prompt": "Cloud Barber｜超現實高訂攝影 × 巨物尺度 × 複雜物理交互\n\nA spectacular, playful yet sophisticated surreal high-fashion editorial photograph, blending 1960s retro fashion photography, monumental-scale surrealism, cinematic wide-angle perspective, and intricate physical interactions.\n\nOn a vividly saturated emerald-green hill beneath an immense cobalt-blue sky, an oversized cherry-red vintage barber chair stands like a surreal sculptural monument. Seated inside is an enormous, exquisitely detailed living cumulus cloud, billowing far above the chair, wearing a flowing mint-green satin barber cape.\n\nBeside the chair stands an elegant adult female fashion model with a perfectly sculpted glossy black retro bob, wearing a fitted pale-lavender short-sleeved blouse, a deep-purple pencil skirt, and immaculate white knee-high leather boots.\n\nCapture the exact split second of an impossible haircut.\n\nWith one hand, the model delicately lifts a long, semi-transparent strand of cloud between her fingers. With the other, she closes a pair of polished silver scissors precisely through the floating strand. Her fingers, scissors, and the delicate cloud fibers form a visually convincing point of contact.\n\nThe freshly severed cloud fragment curls and separates, breaking into hundreds of delicate wisps of varying sizes. Some drift through the sunlight, some spiral gently around the chair, while others settle onto the vivid grass like freshly cut hair.\n\nA consistent breeze subtly lifts the edges of the mint satin cape, bends the surrounding grass, and carries the cloud fragments in a coherent direction. The model’s posture responds naturally to the action, her focused expression contrasting with the absurdity of the scene.\n\nThe giant cloud exhibits extraordinary volumetric complexity: luminous semi-translucent edges, intricate wispy filaments, dense cotton-like interiors, soft internal shadow gradients, delicate light scattering, and realistic atmospheric depth. Its silhouette remains monumental, sculptural, and immediately recognizable.\n\nThe barber chair features rich lacquered red leather, polished chrome armrests, subtle wear, intricate mechanical components, and convincing reflections. The cape has elegant flowing folds, realistic fabric tension, and soft specular highlights.\n\nComposition: A dramatic ground-level 24mm wide-angle fashion photograph. The enormous cloud dominates the upper-middle composition, the model creates an elegant diagonal gesture toward the cutting point, and the red chair anchors the scene. A few large cloud fragments float close to the lens, creating layered foreground, middle-ground, and background depth.\n\nThe blue sky occupies a generous portion of the frame, preserving a striking minimalist graphic silhouette. The landscape remains clean and uncluttered.\n\nLighting: Brilliant late-morning sunlight, subtle direct-flash fill, realistic contact shadows, luminous cloud edges, finely controlled highlights, and coherent reflections across every surface.\n\nVisual aesthetic: Premium analog fashion editorial, vivid yet sophisticated color separation, subtle Kodak Ektar-style film grain, tactile photographic realism, precise surreal art direction, playful visual irony, and exceptional material detail.\n\nThe final image should feel like an extraordinary real-world fashion photograph documenting an impossible event, with sophisticated visual storytelling and astonishing physical coherence.\n\n3:4 vertical composition. No text, no logos, no borders.",
+      "author": {
+        "name": "DeepBlue深藍",
+        "handle": "DeepBlueX0",
+        "profile_url": "https://x.com/DeepBlueX0"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/DeepBlueX0/status/2124351549480866153",
+      "image": "examples/photography/x-01517.webp"
+    },
+    {
+      "id": "x-01518",
+      "category": "Photography",
+      "title": "One Object, Three Realms",
+      "model": "GPT Image 2.6",
+      "prompt": "《一物三藏》｜自然標本 × 跨媒介三相轉譯 × 東方實驗藝術攝影。\n\n每張獨立選擇一種具有鮮明形態與紋理的自然原物，從植物、花果、菌類、貝殼、羽毛、礦石、化石或其他自然標本中自由抽取。\n\n圍繞這件自然原物，自由選擇一種藝術工藝與一件人工器物，利用原物的形態、紋理、色彩或結構，創造出人意料的跨媒介關聯。\n\n可以探索接觸顯影、影子補形、輪廓接續、材料轉化、平面與立體互換、光學錯覺、時間留痕，以及更多自行發明的視覺機關。讓自然原物的本相、跨媒介留下的留相，以及令人意外的幻相形成巧妙互動，觀眾第一眼看懂主角，第二眼發現令人驚喜的細節。\n\n每張自由設計三相關係、材料、工藝、構圖、觀看方式與場景。鼓勵詩意、幽默、荒誕和意外發現，讓創意自然融入可信的實體世界。\n\n融合東方極簡美學與當代實驗藝術攝影。真實 iPhone 原相機質感，自然光、準確曝光、乾淨暗部、低噪點、低 HDR、柔和真實的材料紋理。構圖疏朗，主次分明，適當留白，保持清爽通透的視覺質感。\n\n9:16 直式獨立單圖，每張分別生成。左下深藍色實心圓點，後接白色極細字體「DeepBlue」。\n\nn=9",
+      "author": {
+        "name": "DeepBlue深藍",
+        "handle": "DeepBlueX0",
+        "profile_url": "https://x.com/DeepBlueX0"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/DeepBlueX0/status/2124676146642276799",
+      "image": "examples/photography/x-01518.webp"
+    },
+    {
+      "id": "x-01519",
+      "category": "Illustration & 3D",
+      "title": "Barn Owl and Moonlit Castle",
+      "model": "Seedream 5.5",
+      "prompt": "A detailed, high-fantasy digital stop-motion style illustration featuring a majestic barn owl with bright amber eyes perched on a mossy, gnarled tree branch in the foreground. The owl is the central focus, surrounded by a dark, atmospheric forest setting during autumn. The forest floor is dotted with glowing, bioluminescent mushrooms and scattered orange maple leaves. In the background, a mysterious, gothic-style castle looms under a large, luminous full moon in a misty, dark blue sky. To the left, a weathered tombstone with a skull carving stands near a wrought-iron fence and a glowing lantern, enhancing the eerie, magical, and autumnal mood of the scene. The lighting is moody and cinematic, with soft glows emanating from the mushrooms and the distant castle windows.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/heathergreen/status/2124488074713260248",
+      "image": "examples/illustration-3d/x-01519.webp"
+    },
+    {
+      "id": "x-01520",
+      "category": "Illustration & 3D",
+      "title": "Eastern Fairyland Spirit Creatures",
+      "model": "GPT Image 2.6",
+      "prompt": "《萬物有靈》｜極致東方仙境美學 × 古典山水造境 × 靈物共生 × 電影級幻想攝影。\n\n每張獨立創造一處宏大、空靈、生機盎然的東方山水仙境。\n\n自由選擇具有東方古典氣韻的宮殿、寺觀、樓閣、水榭或其他古建築，將其融入高山、峽谷、湖泊、雲海與繁茂自然之中。建築與山石、古樹、水流自然共生，形成壯麗而富有詩意的天地景觀。\n\n【萬物有靈】\n\n每張自由選擇具有東方文化意象的靈性生物，例如仙鶴、白鹿、靈鳥、錦鯉、蝴蝶，以及麒麟、青鸞等神話靈獸。\n\n讓牠們以自然、生動且富有詩意的方式出現在山林、古建築與雲水之間。自由設計飛翔、回望、棲息、飲水、嬉戲、穿梭或彼此感應的瞬間，使生命活動與場景形成有趣的內在聯繫。\n\n【草木生機】\n\n古松、蘭草、竹林、藤蔓、荷花、山花、苔蘚及其他東方植物自然生長，依照不同氣候、地形與季節形成豐富而有節奏的生態景觀。\n\n細風吹動枝葉，花瓣飄落，露珠閃爍，水面浮現漣漪，遠處飛鳥掠過雲層，整個仙境彷彿正在呼吸。\n\n【仙境造境】\n\n融合宋代山水畫的留白、三遠法、虛實相生與古典園林借景，形成宏大、空靈而具有深度的空間。\n\n晨曦、柔和天光、山嵐、薄霧與水汽在建築、山林及靈物之間自然流動。微妙的逆光與空氣透視營造仙氣縹緲的氛圍，兼具真實自然的生命感與令人神往的超現實氣息。\n\n每張自由探索不同的建築、靈物、植物、構圖、季節、光色與視覺敘事。讓畫面具有一個清晰的生命焦點，其他元素自然融入環境，形成豐富而和諧的整體。\n\n極致東方美學，細膩真實的材質，自然光影，清雅色彩，靈動而有氣韻。具有電影級景觀攝影的真實感、古典山水的意境與仙境幻想的生命力。\n\n9:16 竪幅構圖，每張分別生成。左下角低調放置深藍實心圓點#0B3D91 與白色自然手寫體「DeepBlue」署名。\n\nn=6",
+      "author": {
+        "name": "DeepBlue深藍",
+        "handle": "DeepBlueX0",
+        "profile_url": "https://x.com/DeepBlueX0"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/DeepBlueX0/status/2124381286584422423",
+      "image": "examples/illustration-3d/x-01520.webp"
+    },
+    {
+      "id": "x-01521",
+      "category": "Photography",
+      "title": "Rigid-to-Soft Material Sculpture Template",
+      "model": "GPT Image",
+      "prompt": "Create a square surreal fine-art studio photograph of ONE recognizable [OBJECT]. Its upper portion is made of [RIGID MATERIAL], transforming from one visible transition point into [SOFT MATERIAL] that flows down onto [SURFACE].\n\nExample: an ivory ceramic chess knight whose lower neck becomes flowing ivory silk on a charcoal chessboard.\n\nPreserve one continuous object and a readable material transition. Deep burgundy background, soft side light, controlled rim light, tactile surfaces and realistic contact shadows. No other chess pieces, people, brands or headline. Intentional impossible AI artwork. Small handwritten Ksa8Turky at bottom.",
+      "author": {
+        "name": "‏Turky",
+        "handle": "ksa8Turky",
+        "profile_url": "https://x.com/ksa8Turky"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/ksa8Turky/status/2124272644769915045",
+      "image": "examples/photography/x-01521.webp"
+    },
+    {
+      "id": "x-01522",
+      "category": "Photography",
+      "title": "Object Unspooling Into a Landscape",
+      "model": "GPT Image",
+      "prompt": "Create a square surreal fine-art photograph of ONE unbranded [FAMILIAR OBJECT] in [ENVIRONMENT]. ONE continuous [EXTENDING COMPONENT] emerges from it and gradually becomes [NEW FORM], preserving a coherent uninterrupted path.\n\nExample: a black vintage audio cassette on desert dunes, its glossy brown magnetic tape unspooling into a narrow asphalt road toward the foreground.\n\nKeep the recognizable housing intact and the material transition visible. Tactile surfaces, peach twilight, cool distant hills, realistic contact shadows and clear thumbnail composition. One object, one path, no people or existing brands. Intentional AI artwork, not a functional-product claim. Small handwritten Ksa8Turky at bottom.",
+      "author": {
+        "name": "‏Turky",
+        "handle": "ksa8Turky",
+        "profile_url": "https://x.com/ksa8Turky"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/ksa8Turky/status/2124642834187784292",
+      "image": "examples/photography/x-01522.webp"
+    },
+    {
+      "id": "x-01523",
+      "category": "UI & Graphic",
+      "title": "Hand-Lettered Chalkboard Cafe Menu",
+      "model": "GPT Image 2.6 Sunburst",
+      "prompt": "A cafe menu written on a large dark chalkboard hanging on a brick wall. The chalkboard is framed in weathered wood. At the top, a hand-lettered title in white chalk: \"MORNING MENU\". Below the title, a hand-drawn wavy chalk line. Then a list of eight items, each on its own line, written in white chalk with slight natural unevenness in letter size and spacing, as if hand-lettered, with the item name left-aligned and the price right-aligned:\n\"Espresso - 3.50\"\n\"Flat White - 4.20\"\n\"Cappuccino - 4.00\"\n\"Pour Over - 4.80\"\n\"Cold Brew - 4.50\"\n\"Almond Croissant - 3.90\"\n\"Banana Bread - 3.60\"\n\"Seasonal Scone - 3.80\"\nBelow the list, a small line in a different handwriting style: \"Oat milk +0.50\". A few decorative chalk flourishes in the corners. All text appears exactly once, verbatim, no duplicate text, no invented items, no extra words. Chalk dust visible on the board surface, soft cafe lighting from the side, warm and slightly dim.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2123941784585990611",
+      "image": "examples/ui-graphic/x-01523.webp"
+    },
+    {
+      "id": "x-01524",
+      "category": "Illustration & 3D",
+      "title": "Stylized 3D Grandma Portrait",
+      "model": "Seedream 5.5",
+      "prompt": "Highly detailed stylized 3D portrait of an old woman with fluffy white hair, oversized fuzzy-framed glasses, expressive wrinkled face, pearl stud earring, chunky blue knit sweater, plain bright blue background, cinematic lighting, high quality",
+      "author": {
+        "name": "mohammad seymari",
+        "handle": "mseymari_",
+        "profile_url": "https://x.com/mseymari_"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/mseymari_/status/2124054959041794332",
+      "image": "examples/illustration-3d/x-01524.webp"
+    },
+    {
+      "id": "x-01525",
+      "category": "Poster Design",
+      "title": "Pont du Gard Minimalist Poster",
+      "model": "GPT Image 2.6 Flare",
+      "prompt": "Create one ultra-minimalist 2:3 vertical architectural travel poster of the Pont du Gard near Vers-Pont-du-Gard, France. Preserve the recognizable stacked tiers of Roman stone arches, but simplify them into clean repeated arch shapes and solid rectangular foundations. Treat the aqueduct as a flat geometric illustration with subtle matte print grain, not a photograph or a raised paper model.\n\nPlace the bridge across the lower-middle of a pale cool-gray page. A large burnt-orange semicircle behind the upper arches acts as a low sun. Simple angled riverbanks and a narrow cobalt river band support the structure. Keep the arches visually legible at thumbnail size and avoid intricate masonry. No people, foliage or vehicles.\n\nUse a restricted palette of cool gray, sand, burnt orange, cobalt and charcoal. The architecture is sand-colored; cobalt belongs only to the river; orange is reserved for the sun. Use crisp solid color blocks with no gradients, controlled negative space and no decorative border.\n\nAt the top set \"PONT DU GARD\" in large geometric sans-serif capitals. At the bottom set \"FRANCE\" in smaller widely spaced capitals. These are the only words: no design-school name, brand, logo, watermark or invented exhibition credit. Keep the composition balanced and clearly readable as a modernist architectural graphic.",
+      "author": {
+        "name": "Alyssa",
+        "handle": "Alyssa4aicreate",
+        "profile_url": "https://x.com/Alyssa4aicreate"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/Alyssa4aicreate/status/2124252164352610526",
+      "image": "examples/poster-design/x-01525.webp"
+    },
+    {
+      "id": "x-01526",
+      "category": "Photography",
+      "title": "Cherry-Blossom Rooftop Hanfu Couple",
+      "model": "GPT Image",
+      "prompt": "Photorealistic cinematic Chinese fantasy romance, a playful couple in ornate pink and black hanfu, laughing together on a cherry-blossom rooftop at sunset. Romantic candid pose, flowing silk, drifting petals, magical atmosphere, breathtaking details. For Eternal Love, For Eternal Fate.",
+      "author": {
+        "name": "sayangmu 😘",
+        "handle": "regmlar",
+        "profile_url": "https://x.com/regmlar"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/regmlar/status/2124573961497481665",
+      "image": "examples/photography/x-01526.webp"
+    },
+    {
+      "id": "x-01527",
+      "category": "Photography",
+      "title": "Hair-Veiled Cinematic Close-Up",
+      "model": "Seedream 5.0 Pro",
+      "prompt": "9：16 一位成年东亚女性的电影感近距离人像特写，黑色中长发自然凌乱地垂落在脸侧，大量发丝遮住一侧眼睛和部分面部，头部微微向侧面倾斜，脸颊轻靠近肩膀，视线安静地看向镜头侧方，神情慵懒、克制、若有所思。 极近距离构图，以脸部和头发为视觉中心，画面只保留部分肩颈与上半身，人物并非正对镜头，略带侧脸角度，鼻梁、嘴唇和下颌线被暖光勾勒出来。自然精致的五官，柔和肤质，保留真实皮肤纹理与细微毛孔，淡妆，柔和眼妆，自然睫毛，微微湿润有光泽的红润嘴唇。 穿着简约的深色针织或柔软质感服装，肩部附近隐约出现一小部分暗红色布料，服装不作为画面主体，重点突出脸部、发丝与光影。 室内靠窗环境，傍晚金色阳光从人物侧后方照入，强烈而柔和的暖色侧逆光，发丝边缘形成金黄色轮廓光，部分阳光穿过头发洒在脸颊、鼻尖和嘴唇上，背景是一片柔和的奶油橙色窗边光斑，明暗反差明显，脸部部分区域沉入柔和阴影。 cinematic portrait photography, intimate close-up, warm golden hour sunlight, soft backlight, rim light on hair, shallow depth of field, dreamy atmosphere, natural skin texture, subtle film grain, analog film look, soft highlight bloom, creamy bokeh, gentle halation, low contrast shadows, muted warm color grading, realistic photography, emotional portrait, delicate facial details, imperfect loose hair strands, candid moment, editorial photography, 85mm lens look, f/1.4, extremely shallow depth of field, focus on eyes and lips, soft foreground blur, vertical composition, high-end cinematic still, natural and understated beauty, no artificial studio lighting, no plastic skin, no over-retouching",
+      "author": {
+        "name": "lrsoy_",
+        "handle": "lrsoy_",
+        "profile_url": "https://x.com/lrsoy_"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/lrsoy_/status/2124470864502763793",
+      "image": "examples/photography/x-01527.webp"
+    },
+    {
+      "id": "x-01528",
+      "category": "Poster Design",
+      "title": "Risograph Daily Calendar Card",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的复古孔版印刷（risograph）风日签卡片，整张卡片印在微微泛灰的米白厚纸上，四周留一圈纸边，纸面有细小纤维、油墨颗粒和网点，颜色之间有一点点套色错位。卡片上半部是一大块带粗黑手绘边框的橙红色色块，边框线条有点抖，像马克笔画的。色块最上方是一个超大的英文月份单词，胖胖的手绘大写字母，柠檬黄填色加粗黑描边，字母挤满一整行。色块中间是一个大大的卡通主角，粗黑描边、黑色平涂加少量柠檬黄和橙色填色，主角身后有一圈柠檬黄的轮廓光边，像贴纸一样把它从橙红底上托出来，表情夸张、有点搞怪，像 70 年代复古漫画里的角色；主角四周散落三四颗黑色的四角星。卡片下半部是米白纸底，正中是一个超大的日期数字，黑色粗体手绘数字，带一点柠檬黄的错位投影；数字下面是一行中等大小的黑色手写大写英文短句。整张只用橙红、柠檬黄、黑和米白纸四种颜色，线条粗，颜色饱和。卡片上只允许出现主体里指定的三处文字：月份单词、日期数字、一行短句，必须逐字照写、拼写正确、字母不多不少；不要日历格子、星期、签名、作者名、logo、品牌和其他任何字母或数字。\n\nNew subject:\n【主体】月份单词：「NOVEMBER」。日期数字：「21」。短句：「HELLO WEEKEND」。主角：一只胖乎乎的柴犬，柠檬黄和橙色的毛，眼睛笑成两道弯，吐着舌头，举起一只前爪打招呼。全图只有这三处文字。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124075903554928681",
+      "image": "examples/poster-design/x-01528.webp"
+    },
+    {
+      "id": "x-01529",
+      "category": "Illustration & 3D",
+      "title": "Bande Dessinée Alien Desert",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的 70–80 年代法式科幻漫画（bande dessinée）风格插画，干净利落的黑色钢笔线稿加平涂上色，像漫画画册里的一整页单幅大图。线条细而肯定、粗细变化克制，阴影用细密的平行排线和点描表现，不用渐变喷枪；颜色是一块块平涂的水彩感色面，边界清楚，只在高光和发光物周围留一点白。画面是一片辽阔的异星沙漠，从近景一直铺到很低的地平线：近景是大片明亮的金黄色沙地，沙面有几道弧形的沙纹和一串小脚印；中景散落着形状奇怪的蘑菇状岩石、低矮的外星植物和巨大的风化石柱；画面上方三分之一以上是大面积干净的天青色天空，几乎不画云，留出大块空白。画面里有一个很小的人物，穿着带兜帽的长袍，背对或侧对观众，独自走在沙地上，人物小到只占画面很小一块，用一块饱和的颜色把他从金黄沙地上点出来。远处有一件巨大的、神秘的异物作为视觉焦点，周围有一圈细线画出的放射光芒。光线是高处来的明亮日光，沙地上有清晰的蓝紫色投影。色彩：金黄和赭橙的沙地、天青色天空、紫褐色和砖红的岩石，加一两处饱和的点缀色。气氛辽阔、寂静、神秘，带一点探险感。画面里不要任何文字、对话框、署名、签名、落款和水印。\n\nNew subject:\n【主体】远处焦点是一个悬浮在半空中的巨大石环，石环表面是风化的灰紫色岩石，刻着一圈简单的几何凹纹，环中间透出一圈淡金色的光；石环正下方的沙地上投着一个椭圆形的影子。中景是几根被风吹斜的细高石柱和几株珊瑚一样的橙红色植物。近景走着一个穿青绿色兜帽长袍、拄着长杖的小人，正朝石环走去。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124475198217007333",
+      "image": "examples/illustration-3d/x-01529.webp"
+    },
+    {
+      "id": "x-01530",
+      "category": "Illustration & 3D",
+      "title": "Two-Color Print Coffee Cup Lake",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的双色丝网版画风概念插画，只用湖青色和朱红色两种油墨，再加米白色纸底，像手工套印的杂志插图：湖青色有深浅三四个层次，大量用密集的同心细线、像刻刀刻出来的平行线条去表现纹理和水波，线条之间露出一丝丝纸白；朱红色只用在主体里指定的几个点睛小东西上，红色是平涂，边缘带一点油墨颗粒，有一点点套色错位。机位是正上方垂直俯视：一个日常生活里的圆形物件占满画面大部分，被画面边缘裁掉一角，露出外面的米白纸底。这个物件自己的圆形纹路在画面里慢慢变成了一片风景，同心圆既是物件的纹理，也是水面的涟漪或者地面的纹路，物件和风景之间没有边界。风景里只有几个很小的东西在动，小东西用朱红色点缀，带一点白色高光，下面投出一点深青色的小影子。整体安静、巧妙、带一点幽默。不要文字、数字、字母、品牌、logo、签名和水印。\n\nNew subject:\n【主体】一杯咖啡，从正上方看，外圈是一圈米白的陶瓷杯沿，旁边露出一点杯把；杯里的液面变成一片湖青色的小湖，表面的一圈圈同心纹就是湖面的涟漪，湖心一条朱红色的小划艇，船上一个小人在划桨，船后拖出一道 V 形的白色水纹。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124044391329522044",
+      "image": "examples/illustration-3d/x-01530.webp"
+    },
+    {
+      "id": "x-01531",
+      "category": "Poster Design",
+      "title": "Flat Geometric Autumn Hike Panels",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的扁平几何插画海报，像复古丝网印刷的度假海报，纸面有细微颗粒和一点做旧，所有颜色都是不透明的平涂色块，没有渐变、没有描边、没有立体阴影。整张画面被几条干脆的横竖直线切成清清楚楚的五六块格子，像拼布或一页拼贴，有方格也有一两块边缘是大弧线或波浪线的面板，每块格子背景色不同、画的内容互相独立，不是一张连续的风景：有的面板是暖橙底，有的是芥末黄底，有的是米白底，有一两块是湖青和深海军蓝。每块面板里只放一两个和主题有关的简化图形，图形像剪纸剪出来的扁平剪影，圆润、几何化，大小对比明显，有的图形会跨过面板边界；空白处零散点缀小圆点、小星星、四角星和米白色的细波浪线，像装饰碎花。色彩严格限制为暖橙、芥末黄、米白、湖青、深海军蓝，外加一点墨绿给植物，暖色占六成以上，冷色面板压住画面。光感是白天那种明亮、暖洋洋的感觉，但不画真实光影。整体轻快、热闹、松弛。画面里的人只画成没有五官的小剪影；不要文字、字母、数字、签名和水印。\n\nNew subject:\n【主体】主题是秋天去爬山。面板里分别放：层层叠叠的三角形山峰，最高的山顶插着一面小三角旗；一排圆锥形的墨绿松树；一个鼓鼓的登山背包和一双登山靴；一条之字形往上绕的米白色山路，路上一个背包的小剪影；天空那块面板里一个圆太阳和两朵扁扁的云。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2123998701295489519",
+      "image": "examples/poster-design/x-01531.webp"
+    },
+    {
+      "id": "x-01532",
+      "category": "Illustration & 3D",
+      "title": "Rainy Night Bus Shelter Anime Background",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的日系动画电影背景美术风格画面，手绘数字绘画质感，像动画里一个安静的空镜。深夜下着雨，一条无人的街角，画面主体是一小块亮着暖光的东西，放在画面中间偏一侧，占画面不到三分之一，其余大部分沉在深蓝青色的夜色里。近景是大片被雨打湿的旧石板路面，石板缝里积着水，地面像镜子一样拉出长长的、被雨点打碎的橘黄色倒影和一点冷青色倒影，地上零星散落着几片橘红色的落叶。中景和远景是沉在雨雾里的低矮老房子、电线杆和几根交错的电线，远处有几盏模糊的小路灯，颜色被雾吃掉一半。细细的雨丝斜着落下，在暖光附近看得最清楚，光源周围有一层柔和的光晕和水汽。光：唯一的主光是那一小块东西发出的暖橘黄光，色温很暖，只照亮它周围一小圈地面；其余是冷蓝青的环境光，暖冷对比明显但整体压得很暗。色彩：深靛蓝、蓝青、墨绿占大部分，暖橘黄只占一小块，点缀几片橘红落叶。质感是柔和的笔刷和细腻的光晕，边缘略软，不是照片。气氛安静、潮湿、适合深夜一个人看，街上没有人，或者只有一个很小很远的背影。画面里不要任何可读文字、招牌字、汉字、英文、数字、logo、签名和水印，所有招牌和标签都是空白或模糊色块。\n\nNew subject:\n【主体】那一小块亮着的东西是路边一个老式公交站棚：铁皮小顶棚、两根细柱子、一张空着的长木椅，棚顶下面亮着一根暖黄的灯管，棚子侧面是一块发着柔光的空白灯箱，灯箱里只有模糊的暖色块，没有字；雨水顺着棚檐滴成一排水线。站棚里没有人，长椅上放着一把被遗忘的透明雨伞。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124504580876837193",
+      "image": "examples/illustration-3d/x-01532.webp"
+    },
+    {
+      "id": "x-01533",
+      "category": "Poster Design",
+      "title": "Swiss Retro Travel Poster Huangshan",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的 70 年代瑞士国际主义风格复古旅行海报，像一张旧印刷品被扫描下来。画面上面约四分之三是一张风景照片，照片被处理成偏冷的紫灰蓝色调，暗部发紫、亮部泛米黄，像褪色的印刷照片，整张照片上覆着一层细密的斜向印刷网线和纸张颗粒。照片里最主要的那座山或景物正好被一个巨大的半透明砖红色正圆压住，圆形像透明色片叠印在照片上，圆里面的景物还看得清，被染成暖红棕色，圆的边缘干净。海报下方约四分之一是一条泛旧的米黄色纸底横带，横带和照片交界处，照片底部压着一行超大号、字间很紧的粗体无衬线大写英文地名标题，字是灰米色，几乎和海报一样宽。标题下面的米黄横带里，只在左侧有一行小号黑色无衬线大写英文短句，在右下角有一个小号黑色编号；横带里其余地方留白，只用两三条细细的黑色横线分隔，再放一个小小的砖红色实心方块作为装饰，方块里什么都没有。整张只用紫灰蓝、米黄、砖红、灰米和黑几种颜色，印刷颗粒均匀。海报上只允许出现主体里指定的三处文字：大标题地名、一行小字、一个编号，必须逐字照写、拼写正确、字母不多不少；不要成段的小字、说明文字栏、乱码字、国旗、十字、航空公司或任何品牌标志、logo、签名和水印。\n\nNew subject:\n【主体】风景照片：花岗岩山峰从云海里冒出来，最高的那座峰顶尖尖的，峰顶崖边斜伸出几棵造型奇特的松树，下面是翻滚的白色云海。半透明砖红色圆压住最高的那座峰和松树。大标题：「HUANGSHAN」。一行小字：「SEA OF CLOUDS」。编号：「No.01」。全图只有这三处文字。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124437182425518275",
+      "image": "examples/poster-design/x-01533.webp"
+    },
+    {
+      "id": "x-01534",
+      "category": "Photography",
+      "title": "Lighthouse Giant in the Fog",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的超现实主义概念摄影，像一张真实拍下的胶片照片。画面正中是一座又高又窄、正面平视的老建筑或大物件，它的整体轮廓被做成一件巨人穿着的长袍：上方收成一个高领口，两边是削下来的肩线，两条宽大的袖子顺着建筑两侧垂下来，袖口处各伸出一只比例巨大、非常写实的人手，手指自然微曲，皮肤有真实的褶皱和血色；领口上方是巨人的头，但头只是一截没有五官、没有脸的光滑圆柱，和建筑同一种材质。注意不是给建筑披了一块布：建筑的外墙本身就是这件长袍，墙面平直、硬挺，窗户和结构排列整齐、透视端正，只有两侧袖子和衣摆的外缘是一层很薄、略透的布边；建筑本身的材质、窗户、栏杆、斑驳的水渍和锈迹全都保留，像一件衣服的花纹印在巨人身上，衣摆一直延伸到画面底部被裁掉。背景是一整片均匀的雾天灰白天空，没有地平线、没有别的建筑，雾气让建筑边缘稍稍发软。光线是阴天柔和的漫射光，没有明显方向和硬阴影，整体色调低饱和、偏冷的灰白和水泥灰，唯一的暖色是建筑上零星几扇亮着橘黄色暖灯的窗户，暖灯在冷灰里很跳。质感是中画幅胶片：细细的颗粒、略微褪色的对比、真实的混凝土和金属表面细节。构图对称、居中，建筑占画面高度的九成，四周留一点雾；画面满幅，没有胶片边框、黑边、白边或片孔。气氛安静、怪诞、有点孤独。画面里不要文字、招牌、标志、数字、签名和水印。\n\nNew subject:\n【主体】这座建筑是一座海边的老灯塔：白漆圆柱塔身已经斑驳发灰，一道道锈水痕往下流，塔身上下错落着几扇小方窗，其中三扇亮着橘黄暖灯，中段有一圈生锈的铁栏杆环廊像一条腰带；领口上方的圆柱头是灯塔顶上的玻璃灯室，玻璃里透出一点暖黄的光。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124407068438450466",
+      "image": "examples/photography/x-01534.webp"
+    },
+    {
+      "id": "x-01535",
+      "category": "Illustration & 3D",
+      "title": "Stargazing From a Lantern Boat",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的安静夜景插画，像手绘动画的背景画，用细细的深色线条勾边，再用平涂和柔和的笔刷上色，带一点纸面颗粒。画面上方三分之二是深海军蓝的夜空，铺满大大小小的星星，一条淡淡的银河从中间斜着穿过，天边和画面左侧贴着几缕深色的薄云。地平线压得很低，天边留一条很淡的暮色，从橙粉慢慢过渡到深蓝。画面下方三分之一是前景，近处被一处暖黄色的小光源照亮，暖光只照到主体附近的一小片，越往外越暗，融进夜色里。主体在画面中下部偏右，一个很小的人背对着我们，安静地坐在高一点的地方仰头看星星，没有面部细节。整体只有深蓝、暗青和一点暖黄，冷暖对比柔和，安静、松弛，适合深夜慢慢看。不要文字、签名和水印。\n\nNew subject:\n【主体】一个人坐在一条停在平静湖面上的小木船船头，船尾挂着一盏亮着的煤油灯，暖黄的灯光落在船身和近处的水面上；湖面像镜子一样倒映着满天星星和银河，远处是一圈低矮的黑色山影。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-23",
+      "tweet_url": "https://x.com/static_stare/status/2124142635577442667",
+      "image": "examples/illustration-3d/x-01535.webp"
     }
   ]
 }
