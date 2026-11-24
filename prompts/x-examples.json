@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "source": "X and the web (community, credited)",
     "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
-    "count": 1526,
+    "count": 1567,
     "by_category": {
-      "Photography": 548,
-      "Illustration & 3D": 383,
+      "Photography": 556,
+      "Illustration & 3D": 393,
       "Product & Brand": 216,
       "Food & Drink": 154,
-      "Poster Design": 141,
+      "Poster Design": 148,
       "UI & Graphic": 49,
-      "Video": 35
+      "Video": 51
     },
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   "examples": [
     {
@@ -21554,6 +21554,662 @@
       "added": "2026-11-23",
       "tweet_url": "https://x.com/static_stare/status/2124142635577442667",
       "image": "examples/illustration-3d/x-01535.webp"
+    },
+    {
+      "id": "x-01536",
+      "category": "Illustration & 3D",
+      "title": "Cute Watercolor Travel Postcard Template",
+      "model": "GPT Image 2.6",
+      "prompt": "Create an exceptionally cute, charming and minimalist illustrated travel postcard featuring [CITY], [COUNTRY].\nART STYLE & COMPOSITION\nA clean, bright white postcard background with a delicate hand-drawn illustration of 4–6 iconic landmarks arranged side by side along a simple horizontal baseline.\nInclude the most recognisable architectural landmarks of the destination, illustrated in a playful, slightly imperfect sketch style with fine black outlines, soft pastel watercolour fills and charming architectural details.\nKeep the landmarks simple, recognisable, colourful and beautifully balanced, almost like a little illustrated travel diary.\nCOLOUR PALETTE\nUse gentle, cheerful pastel shades inspired by the destination. Soft lavender, peach, butter yellow, powder blue, blush pink and muted coral. Every city should have its own distinctive colour combination.\nTYPOGRAPHY\nAt the top, write:\nA LITTLE POSTCARD FROM\nAt the bottom, feature the city name in beautiful flowing handwritten script.\nTHE LITTLE THOUGHT — SIGNATURE DETAIL\nPlace one tiny handwritten sentence in a bottom corner, almost like a personal travel journal note.\n\nKeep this thought small, subtle and intimate.\nFINAL LOOK\nAiry composition, generous white negative space, delicate imperfect ink lines, soft pastel illustrations, whimsical charm and a lovely handmade postcard aesthetic.\nVertical 4:5 format. Elegant, cute, minimal, nostalgic and timeless.\nNo realistic photography, no heavy backgrounds, no excessive decorations, no unnecessary flowers, no clutter, no 3D effects.",
+      "author": {
+        "name": "simeon-sanai",
+        "handle": "Naiknelofar788",
+        "profile_url": "https://x.com/Naiknelofar788"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Naiknelofar788/status/2124723328414048351",
+      "image": "examples/illustration-3d/x-01536.webp"
+    },
+    {
+      "id": "x-01537",
+      "category": "Illustration & 3D",
+      "title": "Architectural Travel Sketch Collage Template",
+      "model": "GPT Image 2.6",
+      "prompt": "Create an exquisite hand-illustrated architectural travel sketch collage featuring the most iconic landmarks of [CITY], [COUNTRY].\n\n1. COMPOSITION\n\nArrange 5–7 separate landmark illustrations across a spacious, pure white background. Each landmark should appear as an independent hand-drawn vignette, distributed organically like a beautiful page from an artist’s travel journal.\n\nVary the scale, angle and perspective of each illustration. Leave generous white space between the sketches.\n\n2. LANDMARKS WITH THEIR NAMES\n\nInclude these specific locations, accurately illustrated and individually labelled:\n\n[LANDMARK 1] — [NAME]\nWrite the correct landmark name directly beneath or beside each illustration in elegant, delicate handwritten lettering.\n\n3. ILLUSTRATION STYLE\n\nFine architectural pen sketches combined with loose watercolor washes.\n\nUse delicate black and grey outlines, subtle pencil strokes, soft imperfect ink details and gentle watercolor fills.\n\nCapture authentic architectural details, distinctive silhouettes, surrounding gardens, fountains, streets and geographical features.\n\n4. COLOUR PALETTE\n\nUse a sophisticated destination-inspired palette. Muted terracotta, warm beige, dusty sage green, faded blue, soft ochre and subtle rose.\n\nColours should look naturally brushed onto textured paper rather than digitally filled.\n\n5. SPECIAL DETAILS\n\nInclude one small cultural symbol or iconic emblem associated with the destination.\n\nAt the top, write the city name in elegant vintage calligraphy.\n\nAdd a tiny handwritten travel-inspired phrase near the bottom.\n\n6. FINAL PRESENTATION\n\nAn elegant illustrated travel atlas page, museum-quality architectural sketchbook, vintage European travel journal aesthetic, delicate watercolor and ink technique.\n\nLandscape 3:2 composition, clean white background, sophisticated artistic balance, beautiful negative space.\n\nNo photographs, no 3D rendering, no heavy borders, no clutter, no incorrect landmark architecture.\n\nEnsure every landmark label is correctly spelled and clearly readable.",
+      "author": {
+        "name": "simeon-sanai",
+        "handle": "Naiknelofar788",
+        "profile_url": "https://x.com/Naiknelofar788"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Naiknelofar788/status/2124843499841548545",
+      "image": "examples/illustration-3d/x-01537.webp"
+    },
+    {
+      "id": "x-01538",
+      "category": "Poster Design",
+      "title": "Giant Shuttlecock Badminton Fashion Ad",
+      "model": "GPT Image 2.6",
+      "prompt": "BADMINTON | AVANT-GARDE SPORTS FASHION ADVERTISING CAMPAIGN\n\nCreate an extraordinary, high-end avant-garde sports fashion advertisement that blends professional badminton, surrealist sculpture and luxury editorial photography. The central element is a gigantic badminton shuttlecock, dramatically enlarged and designed as a monumental sculptural installation, resembling an oversized piece of contemporary designer furniture.\n\n1. ATHLETE & POSE\n\nFeature a female professional badminton athlete casually reclining across the curved surface of the enormous shuttlecock. Her pose should feel effortless, confident and fashion-forward, with one arm naturally supporting her upper body and her legs positioned elegantly across the sculpture. Maintain realistic human proportions, natural body positioning and authentic athletic posture. She wears a stylish professional badminton outfit consisting of a modern sports jersey, black athletic shorts, white sports socks and premium badminton court shoes. Her overall appearance should communicate the confidence and elegance of a luxury sportswear campaign.\n\n2. SHUTTLECOCK SCULPTURE\n\nMake the oversized badminton shuttlecock the dominant architectural feature of the composition. Its rounded cork head should have a refined, slightly textured surface, while its large white feathered structure should extend outward in a dramatic, sculptural arrangement. Incorporate realistic feather details, subtle shadows and carefully crafted proportions. The athlete should appear naturally integrated into the sculpture, as though reclining on an extraordinary piece of contemporary furniture.\n\n3. TYPOGRAPHY & GRAPHIC DESIGN\n\nPosition the enormous word \"BADMINTON\" prominently across the upper background in bold, oversized, condensed uppercase typography. Use a warm ivory or cream-white color with a powerful editorial presence. The lettering should be clean, sharp and highly legible, creating a strong visual identity without competing with the athlete. Include a small, subtle badminton shuttlecock graphic near the typography as a complementary design detail.\n\n4. ENVIRONMENT & BACKGROUND\n\nSet the entire composition inside a sophisticated deep burnt-green studio with a rich forest-green backdrop. The environment should feel like a premium advertising photography studio rather than a conventional badminton court. Use a highly polished, glossy mirrored floor that produces beautiful reflections of the athlete, shuttlecock sculpture and studio lighting. Keep the background minimal and uncluttered to emphasize the monumental installation.\n\n5. LIGHTING & VISUAL AESTHETICS\n\nUse cinematic studio lighting with carefully controlled highlights, soft directional shadows and subtle reflections. Illuminate the white shuttlecock sculpture to emphasize its textures and three-dimensional structure while maintaining beautiful skin tones and realistic fabric details. Introduce subtle atmospheric depth and sophisticated color grading for a polished luxury campaign appearance.\n\n6. FINAL ART DIRECTION\n\nThe final image should resemble an internationally recognized luxury sportswear advertising campaign, combining avant-garde fashion photography, monumental product sculpture, surreal creative direction and contemporary graphic design. Maintain exceptional photorealism, precise anatomy, realistic materials, sophisticated composition and professional commercial photography quality.\n\nOUTPUT: Square 1:1 aspect ratio, full-body athlete, oversized sculptural shuttlecock, dominant BADMINTON typography, balanced editorial composition, ultra-detailed textures, cinematic lighting, premium advertising finish. No watermark, no unnecessary objects, no distorted anatomy or artificial-looking details.",
+      "author": {
+        "name": "Saul Goodman",
+        "handle": "Goodmanprotocol",
+        "profile_url": "https://x.com/Goodmanprotocol"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2124756790143488011",
+      "image": "examples/poster-design/x-01538.webp"
+    },
+    {
+      "id": "x-01539",
+      "category": "Illustration & 3D",
+      "title": "Celtic Forest Queen with White Stag",
+      "model": "Unknown",
+      "prompt": "Cinematic ultra-photorealistic fantasy portrait, vertical 9:16. A beautiful, regal Celtic forest queen with long flowing copper-red hair woven into elaborate braids adorned with silver leaves, wearing an emerald-green velvet gown and cloak embroidered with intricate golden Celtic knotwork, an elegant silver circlet, and turquoise gemstone jewelry. She stands confidently beside a majestic white stag with enormous luminous golden antlers and delicate glowing spiral markings across its fur. She holds an ancient wooden staff crowned with radiant blue and violet crystals. An enchanted ancient oak forest surrounds them, with moss-covered standing stones, glowing mushrooms, a cascading waterfall, silver moonlight filtering through branches, and drifting magical mist. Their expressions convey quiet courage, wisdom, unity with nature, and unwavering inner strength. Rich emerald, cyan, silver, and warm gold palette, dramatic cinematic lighting, volumetric moonbeams, intricate realistic textures, mystical atmosphere, 8K fantasy realism. Elegant gold calligraphy reading “Infinitumoris” near the bottom.",
+      "author": {
+        "name": "The Core",
+        "handle": "TheCore1724808",
+        "profile_url": "https://x.com/TheCore1724808"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/TheCore1724808/status/2124959183628009874",
+      "image": "examples/illustration-3d/x-01539.webp"
+    },
+    {
+      "id": "x-01540",
+      "category": "Photography",
+      "title": "One Object, Three Forms Nature Specimen",
+      "model": "GPT Image",
+      "prompt": "《一物三藏》｜自然标本 × 跨媒介三相转译 × 东方实验艺术摄影。每张独立选择一种具有鲜明形态与纹理的自然原物，从植物、花果、菌类、贝壳、羽毛、矿石、化石或其他自然标本中自由抽取。围绕这件自然原物，自由选择一种艺术工艺与一件人工器物，利用原物的形态、纹理、色彩或结构，创造出人意料的跨媒介关联。可以探索接触显影、影子补形、轮廓接续、材料转化、平面与立体互换、光学错觉、时间留痕。让自然原物的本相、跨媒介留下的留相，以及令人意外的幻相形成巧妙互动，观众第一眼看懂主角，第二眼发现令人惊喜的细节。每张自由设计三相关系、材料、工艺、构图、观看方式与场景。鼓励诗意、幽默、荒诞和意外发现，让创意自然融入可信的实体世界。融合东方极简美学与当代实验艺术摄影。真实 iPhone 原相机质感，自然光、准确曝光、干净暗部、低噪点、低 HDR、柔和真实的材料纹理。构图疏朗，主次分明，适当留白，保持清爽通透的视觉质感。9:16 直式独立单图，每张分别生成。",
+      "author": {
+        "name": "章鱼8̃爪铺🐙",
+        "handle": "octopusaia",
+        "profile_url": "https://x.com/octopusaia"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/octopusaia/status/2124823021395595334",
+      "image": "examples/photography/x-01540.webp"
+    },
+    {
+      "id": "x-01541",
+      "category": "Photography",
+      "title": "Idyllic European Countryside Landscape",
+      "model": "GPT Image 2.6 Sunburst",
+      "prompt": "A picturesque European countryside landscape in a 1:1 square composition, featuring expansive, vivid, saturated green rolling fields and meadows dotted with wildflowers. In the midground, a charming rustic stone cottage with a pitched slate roof and wooden shutters nestles beside a cluster of leafy oak trees along a winding dirt path. Far in the distance, a grand, weathered stone bridge with tall rounded arches spans across a lush valley. Above, a bright, vibrant blue sky stretches high with scattered, fluffy white cumulus clouds. Bathed in crisp, bright natural sunlight, the scene evokes an idyllic, peaceful mood with rich, saturated colors, sharp details, and balanced depth from the grassy foreground to the distant horizon.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2124791472793002466",
+      "image": "examples/photography/x-01541.webp"
+    },
+    {
+      "id": "x-01542",
+      "category": "Photography",
+      "title": "Aerial Mountain Valley Flyover Still",
+      "model": "GPT Image 2.6 Sunburst",
+      "prompt": "A cinematic aerial flyover shot, 16:9 aspect ratio, over a vast mountain valley. The camera looks down at a steep angle, layered ridges receding into haze, a river winding through the valley floor far below. Pine forests darken the slopes, patches of snow on the highest peaks. Late afternoon sunlight rakes across the terrain, casting long shadows in the folds of the land. Photorealistic, natural light, high detail.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2124707415811911699",
+      "image": "examples/photography/x-01542.webp"
+    },
+    {
+      "id": "x-01543",
+      "category": "Illustration & 3D",
+      "title": "Alien Salt Plain with Chrome Towers",
+      "model": "GPT Image 2.5 Flare",
+      "prompt": "A vast, windswept salt plain on an alien world stretches beneath a bruised dusk sky, where Ralph McQuarrie-inspired angular white-and-chrome towers rise from the ground like geometric crystals, their surfaces catching the last light; in the foreground, a lone robed figure stands beside a sleek, bubble-canopied landspeeder, both rendered with cinematic depth, atmospheric haze, and photorealistic digital painting texture.",
+      "author": {
+        "name": "Yeti Images",
+        "handle": "Yeti_Images",
+        "profile_url": "https://x.com/Yeti_Images"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Yeti_Images/status/2125024098094878909",
+      "image": "examples/illustration-3d/x-01543.webp"
+    },
+    {
+      "id": "x-01544",
+      "category": "Illustration & 3D",
+      "title": "Silver Spacecraft Beside a Ringed Gas Giant",
+      "model": "Grok Imagine Image",
+      "prompt": "A lone silver spacecraft glides through an immense, star-studded void, dwarfed by the glowing arcs of a massive gas-giant ringed planet and a swirling violet nebula whose tendrils of light bathe the scene in dramatic cosmic radiance.",
+      "author": {
+        "name": "Yeti Images",
+        "handle": "Yeti_Images",
+        "profile_url": "https://x.com/Yeti_Images"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Yeti_Images/status/2124657935980601356",
+      "image": "examples/illustration-3d/x-01544.webp"
+    },
+    {
+      "id": "x-01546",
+      "category": "Illustration & 3D",
+      "title": "White City Growing in a Canyon",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的明亮奇幻概念场景插画，像动画电影的背景美术，数字绘画，大块平涂加柔和渐变，边缘干净，不是线稿也不是照片。机位在峡谷里偏高处，往上、往深处看：画面是一道又深又窄的峡谷，两侧近景是高耸的浅色岩壁，被画面左右边缘裁掉，岩壁上挂着一簇簇鲜绿的灌木和垂藤；从中景到远景，一座由许多白色方块房子、拱门、塔楼和石阶层层堆起来的城，沿着峡谷两侧一路长到画面顶部，房子之间用白色石拱桥连起来；峡谷底部是一条清澈发亮的碧蓝色水道，从前景向深处蜿蜒，浅处能看见水底的浅色石头和白色水花。画面上方露出一条明亮的天蓝色天空，远处有一座淡到发白的大山影子。光是接近正午的强烈阳光，从左上方照进来，白墙亮面几乎发白，阴面是带一点蓝紫的冷色，阳光在水面和墙上落下柔和的亮斑，空气里有一层薄薄的蓝白色雾气，让远景越来越淡。整体只用白、天蓝、碧蓝青、鲜嫩草绿和少量暖赭石（屋顶瓦片和岩石暗部），高明度、低反差、干净通透。建筑细节多，但统一成白色体块；人物极小，只是桥上或台阶上几个小人影点。气氛开阔、清爽，像中午眯着眼看到一座城。画面里不要任何文字、标志、签名和水印。\n\nNew subject:\n【主体】白城沿着一道多级大瀑布的两侧层层往上长，瀑布从城中央最高处分三四层落下，每层都落进一个碧蓝色的水潭，最下面汇成峡谷底的水道；一座细长的白色石拱桥正好横跨在瀑布中段，桥上有两个很小的人影，几只白鸟从水雾里飞过。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/static_stare/status/2124724169980215638",
+      "image": "examples/illustration-3d/x-01546.webp"
+    },
+    {
+      "id": "x-01547",
+      "category": "Poster Design",
+      "title": "Stylized Country Travel Poster Collage",
+      "model": "GPT Image 2.6",
+      "prompt": "Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: \"LOST IN [country]\". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.",
+      "author": {
+        "name": "ZDuo.MoreAi",
+        "handle": "ZDuo_MoreAi",
+        "profile_url": "https://x.com/ZDuo_MoreAi"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/ZDuo_MoreAi/status/2124764888480543222",
+      "image": "examples/poster-design/x-01547.webp"
+    },
+    {
+      "id": "x-01548",
+      "category": "Photography",
+      "title": "Edwardian Tea Salon Time Traveller",
+      "model": "Nano Banana 2.1",
+      "prompt": "A candid everyday colour photograph inside an Edwardian tea salon around 1905, taken from a seated guest's eye height across the room and slightly off level. Walking in down the aisle between the tables comes a time traveller, a Northern European woman in her early twenties with long straight platinum-blonde hair, light skin, natural modern makeup and small gold hoop earrings, small rectangular sunglasses pushed up on her head, an oversized cream puffer jacket hanging open over a fitted black top, wide-leg light-blue jeans and chunky white sneakers, a phone in her right hand and a takeaway iced coffee in a clear plastic cup with a straw in her left, her eyes down on the phone screen and her stride loose and unbothered. Around her the room has stopped. At the table to her left two ladies in high-collared long dresses of lilac and dove grey under large feathered hats hold their teacups halted mid-air by the handles, mouths open, and behind them a moustached gentleman in a frock coat and waistcoat sits bolt upright with his cup frozen at his chin. At the table to her right a lady in an ivory high-collared gown and a broad feathered hat and a moustached gentleman in a dark frock coat both twist round in their chairs, eyebrows high and eyes wide. In the near foreground at the right a waiter in a long white apron holds a silver tray level, his shoulder cut by the frame edge, his head turned toward her and his jaw slack. Every face is natural and individual and every hand rests naturally on a cup, a saucer or the tray. Tall arched windows along the left wall rise to the ceiling and let soft warm daylight fall across the room from the left, laying gentle shadows to the right of each chair and figure. Potted palms stand between the windows, white tablecloths carry silver tea services and tiered cake stands of small cakes, the walls are dark wood panelling and the floor is a patterned carpet of deep red and gold. The period room and its people are fully real and rendered in the same natural full colour as she is, so the difference between the eras lives only in clothes, hair and posture: everyone of 1905 rigid and turned toward her, she the only person in motion.",
+      "author": {
+        "name": "AI Art Alley",
+        "handle": "aiartalley",
+        "profile_url": "https://x.com/aiartalley"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/aiartalley/status/2124880820208914677",
+      "image": "examples/photography/x-01548.webp"
+    },
+    {
+      "id": "x-01549",
+      "category": "Poster Design",
+      "title": "Ribbed Glass Typography Poster",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的极简瑞士风字体海报，像一张印好的海报被正面平拍下来。底色是带细微颗粒的浅灰白纸面。海报正前方贴着立了一整面长虹玻璃（竖条纹棱镜玻璃），玻璃的竖条纹从上到下等宽排列，每条大约是画面宽度的十分之一，条纹交界处有细细的浅灰高光线。海报中部到下部是一句超大号的黑色粗体无衬线英文大写短句，分成两行，第一行靠左、第二行靠右错开，字大到几乎撑满版面宽度；这些大字是隔着长虹玻璃看到的，所以每一条玻璃里的字都被横向错位、拉宽和模糊，有的条纹里字还算清楚，有的条纹里糊成一片灰，字的边缘带一点点青蓝和橙红的色散彩边，像真实的光学折射，不是简单的整体模糊。大字后面放着主体指定的一个彩色几何色块，也隔着玻璃被折射成一条条竖向的彩色光晕，这是全图唯一的颜色。海报顶部有一条细黑横线，横线上方左侧是一行小号黑色无衬线英文大写短句，清晰锐利；海报底部有一条细黑横线，横线下方右侧是一个小号黑色编号，清晰锐利。光是均匀柔和的棚拍光，玻璃表面有极轻的反光。整张只用浅灰白、黑、中灰和主体指定的一个强调色。海报上只允许出现主体里指定的三处文字：大字短句、顶部一行小字、右下编号，必须逐字照写、拼写正确、字母不多不少；不要其他小字、说明栏、日期、网址、署名、logo、品牌和水印。\n\nNew subject:\n【主体】大字短句两行：第一行「SLOW」，第二行「DOWN」。顶部一行小字：「NOTES ON TIME」。右下编号：「No.01」。大字后面的彩色色块：一个很大的橙红色正圆，位置在画面中间偏右。全图只有这三处文字。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/static_stare/status/2124799205839606209",
+      "image": "examples/poster-design/x-01549.webp"
+    },
+    {
+      "id": "x-01550",
+      "category": "Photography",
+      "title": "Bioluminescent Shore Long Exposure",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的夜景风光摄影，像在没有月亮的深夜用相机长曝光拍下的真实照片，画面有轻微的高感光噪点。整张画面沉在深海军蓝和接近黑色的暗部里，唯一的亮光来自水里的生物荧光：浪花、水花或被扰动的水面发出电光一样的亮青蓝色光，越靠近浪尖和被扰动的地方越亮，接近白青色，再向外散成无数细小的蓝色光点，像撒了一层碎星。发光的水从画面前景斜着向远处铺开，形成一道弯曲的引导线，水里的光点在长曝光下略带拖尾，水和岸、水和物体交界的边缘是一圈最亮的荧光描边。其余地方几乎全黑：天空从深蓝渐变到墨黑，只有稀疏的小星点和几团被微光勾出轮廓的暗云，不要银河，不要月亮；远处的陆地、树和礁石只剩黑色剪影。前景近处的沙地、石头或木头被荧光照出一点冷蓝色的反光细节。整体只有黑、深海军蓝、电光青蓝和极少量白青高光，没有暖色。低机位，留出大面积暗部，安静、空旷，像只听得到水声。画面里不要人、不要人造灯光，不要文字、签名和水印。\n\nNew subject:\n【主体】一条没人的小木划艇停在浅湾里，用一根绳子系在水里的木桩上，船底一圈的水发着蓝光，船桨搁在船舷上；远处是一道黑色的低矮岬角。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/static_stare/status/2124868443916865688",
+      "image": "examples/photography/x-01550.webp"
+    },
+    {
+      "id": "x-01551",
+      "category": "Illustration & 3D",
+      "title": "Colossal Remains Above a Sea of Clouds",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的史诗奇幻概念绘景（matte painting），数字厚涂，笔触柔和但看得出画笔肌理，远处有很重的大气透视。画面左侧中景是一座被云海包围的雪山山坡，山坡上半埋着一具巨大到不合常理的遗骸（由主体决定），尺度比山还大，一部分被积雪和碎石盖住，一部分没进翻滚的云雾里，表面有风化的裂纹和积雪。画面中间远处是一座孤零零的尖顶雪山，从云海里冒出来。画面右下前景是一块深色的岩石悬崖边，悬崖上站着一个很小的人和一只动物（由主体决定），背对或侧对画面，望着那具遗骸，人只占画面高度的十分之一左右，用来对比尺度。天空是黄昏的柔和渐变：上方是灰蓝和雾紫，地平线附近是粉橘和淡金，右上角挂着一轮被薄云遮住一半的苍白大月亮；一群很小的黑色飞鸟绕着遗骸最高处盘旋。光从画面右后方低低地照过来，遗骸和山坡朝光的一面染成粉橘暖色，背光面和云海是冷冷的蓝紫灰。整体色彩：雾紫、灰蓝、粉橘、淡金、雪白，前景是深石板色，冷暖对比柔和。气氛辽阔、安静、有一点肃穆，像旅人在很远的地方看见一段很古老的东西。不要人类骷髅、不要血腥和血迹，画面里不要文字、签名和水印。\n\nNew subject:\n【主体】遗骸是一具巨大的鲸鱼骨架，横躺在山坡上，长长的脊椎和一根根弯弧形的肋骨像一排拱门从雪里拱出来，巨大的头骨朝着山顶。前景悬崖上是一个披着长斗篷、拄着长杖的旅人，身边一只长毛山羊。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/static_stare/status/2124836246702985363",
+      "image": "examples/illustration-3d/x-01551.webp"
+    },
+    {
+      "id": "x-01552",
+      "category": "Illustration & 3D",
+      "title": "Pixel Art Room in Afternoon Light",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的像素画（pixel art），像 16-bit 复古游戏里一张安静的室内场景背景，像素方块清楚可见，边缘是硬硬的方格阶梯，没有平滑抗锯齿，也没有写实笔触。画面是一个高大的室内空间，一侧是一扇几乎从地面通到画面顶部的高窗（窗的样子由主体决定），窗外是下午偏晚的强烈逆光，窗外的天和树被曝成一片奶白、浅蓝和亮橙色的像素光斑；阳光从窗口斜着涌进来，把屋里一部分照成浓烈的橙金色，另一部分沉在深棕、暗紫和墨蓝的阴影里，明暗反差很大。光柱里飘着很多一个像素大小的金色光点和灰尘。屋里堆满小物件（由主体决定），全用像素小块概括，暗处的物件只剩剪影和几颗高光像素。画面下部是一块被阳光照亮的地面，亮带像一条长长的橙黄色光斑，前景边缘压一点深色家具剪影，拉出景深。屋里只有一个很小的人，坐着或安静地做事，人物只有十几个像素高，看不清脸。整体限色：橙金、琥珀、奶白高光、深棕、暗紫、墨蓝，暖色压过冷色。气氛安静、暖，像下午三点多一个人待着不想动。画面里不要任何可读文字、数字、标志、签名和水印。\n\nNew subject:\n【主体】一间老钟表修理铺，高窗是一扇上面带圆拱的木格窗；墙上挂满大大小小的挂钟和摆钟，表盘上只有小点没有数字；靠窗一张堆满齿轮和小工具的工作台，台上一盏小台灯，一个人坐在工作台前低头修表，脚边趴着一只橘猫。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/static_stare/status/2124768993529741761",
+      "image": "examples/illustration-3d/x-01552.webp"
+    },
+    {
+      "id": "x-01553",
+      "category": "Illustration & 3D",
+      "title": "Minimalist Black Ink Illustration Template",
+      "model": "GPT Image",
+      "prompt": "A minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black shapes, minimal activity-related props, elegant hand-drawn aesthetic, contemporary editorial illustration, generous negative space, no shading, monochrome ink on a clean white background",
+      "author": {
+        "name": "章鱼8̃爪铺🐙",
+        "handle": "octopusaia",
+        "profile_url": "https://x.com/octopusaia"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/octopusaia/status/2124942135468466328",
+      "image": "examples/illustration-3d/x-01553.webp"
+    },
+    {
+      "id": "x-01554",
+      "category": "Poster Design",
+      "title": "Mother-of-Pearl Lacquer Box Exhibition Poster",
+      "model": "GPT Image 2.5 Flare",
+      "prompt": "请创作一张九比十六竖版、具有专业设计工作室水准的当代东方文化艺术展览海报。\n\n展览主题：夜潮嵌光。中文主标题：螺钿夜匣。英文主标题：NIGHT LACQUER。核心艺术对象是一只完全虚构的长方形黑漆螺钿匣，匣盖微微掀开，盖面用螺钿镶出一弯冷白新月和几道细碎浪纹，匣身侧面露出细密的漆层断面，没有文字、纹章或可辨认的器物款识。\n\n字体表现：画面左侧重叠两枚巨大的几何感汉字「夜匣」，笔画粗实，部分笔划被漆匣遮挡或从匣盖后方穿过；右侧以细长的纵向粗宋体排布展览主题，字距疏朗。不出现机构名、商标或网址。\n\n背景为深海青与近黑的漆色，局部有螺钿特有的蓝绿虹彩。构图平稳，留出足够的边缘留白，印刷质感清晰，文字必须逐字正确。不出现真实人物、摄影写真、三维渲染或水印。",
+      "author": {
+        "name": "Andy",
+        "handle": "Andy4aicreate",
+        "profile_url": "https://x.com/Andy4aicreate"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Andy4aicreate/status/2124934011592085845",
+      "image": "examples/poster-design/x-01554.webp"
+    },
+    {
+      "id": "x-01555",
+      "category": "Illustration & 3D",
+      "title": "Hedgehog, Egret and Snail Picture Book Page",
+      "model": "GPT Image 2.6",
+      "prompt": "绘制一张竖版 3:4 的原创儿童绘本插画。用透明水彩和深褐色细墨线画在暖象牙色水彩纸上。线条有轻重，偶尔断开。颜色自然铺开，在砖缝、叶缘和轮廓转角处留少量积色和水痕。用几根短排线顺着背刺和羽毛的方向画出结构，明亮处露出纸底。\n\n画面明快、温暖，像一页能单独讲清一个动作的绘本。主色用植物绿、赭黄、陶砖红和浅天蓝。每页挑两三种主色，按场景调轻重。近处的笔触清楚，远处用较淡的水彩收住。道具和植物靠画面边缘生长，角色的脸、爪尖和关键物件之间留出干净的空隙。\n\n角色靠轮廓和动作辨认。刺猬矮胖，赭黄的脸、深褐色的背刺、短爪和黑圆鼻子。白鹭身体修长，白翅、细黑腿、长黄嘴，脖子能弯出夸张的 S 形。蜗牛最小，灰橄榄色的软身、两根细触角和一只深色螺旋壳。表情有一点认真过头的可爱，用视线、歪头和姿势把笑点画出来。\n\n一页只画一个主要动作。连页沿用同一批角色的轮廓、比例和关键道具，用全景、低视角、局部特写轮换讲故事。排除光滑的矢量轮廓、塑料光泽、厚重油画质感和满页均匀的细节。\n\n本页场景｜[地点、时间、两三样关键物件]\n本页动作｜[谁正在做什么，另一个角色怎么反应]\n本页镜头｜[全景／低视角／特写／俯视]\n\n在画面一处浅色留白写下“[本页短句]”。用偏深褐的中文手写细墨线，加一对小小的手画双引号。整行排稳，单字内部保留轻微的弯折、挤压和不齐的收笔。在本页最重要的小物旁画一颗细线四角星。",
+      "author": {
+        "name": "Levi 卧云",
+        "handle": "Leviwoyun",
+        "profile_url": "https://x.com/Leviwoyun"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Leviwoyun/status/2125060880778104908",
+      "image": "examples/illustration-3d/x-01555.webp"
+    },
+    {
+      "id": "x-01556",
+      "category": "Photography",
+      "title": "Backlit Candid Portrait with Flowers",
+      "model": "Seedream 5.0 Pro",
+      "prompt": "一位年轻成年亚洲女性，长黑发自然披散，在强烈逆光下快速回头，头发被风吹起并随着动作向四周飞散，几缕发丝横过脸颊和眼睛，人物微微侧身回望镜头，神情自然、朦胧、略带疏离感。 她怀里抱着一束柔和的浅粉色、奶油白色鲜花和绿色枝叶，花束靠近胸前，穿浅色无袖或细肩带上衣，肩部和手臂被阳光照亮。 拍摄瞬间存在明显运动模糊，人物脸部不是完全锐利，五官轻微拖影，发丝因为快速移动形成柔和光轨，整体像真实相机抓拍到的瞬间。 强烈阳光从人物后上方照射，头发边缘形成非常明亮的金白色轮廓光，部分高光轻微过曝，产生明显 halation、光晕和泛白效果，画面边缘柔软。背景是昏暗的室内或半室外旧建筑环境，细节模糊、偏暗，与人物头发上的强光形成巨大明暗反差。 vintage candid portrait, photorealistic adult Asian woman, long black hair blowing in the wind, turning her head quickly, holding a bouquet of soft pink and cream flowers, strong backlight, glowing hair rim light, blown highlights, motion blur, slight camera shake, soft focus, dreamy overexposure, halation, shallow depth of field, spontaneous snapshot, analog photography, 35mm film look, low fidelity beauty, nostalgic atmosphere, imperfect photography, subtle film grain, warm faded tones, vertical composition",
+      "author": {
+        "name": "lrsoy_",
+        "handle": "lrsoy_",
+        "profile_url": "https://x.com/lrsoy_"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/lrsoy_/status/2124417124622069772",
+      "image": "examples/photography/x-01556.webp"
+    },
+    {
+      "id": "x-01557",
+      "category": "Photography",
+      "title": "Golden Backlit Hair at a Seaside Park",
+      "model": "GPT Image 2.6",
+      "prompt": "9:16竖版，超写实自然人像摄影，日系夏日胶片风格。\n\n夏日黄昏的海边公园，一位二十多岁的清秀东亚女生坐在海边步道旁，深棕色及腰长发，自然蓬松，几缕碎发轻轻垂落脸颊。五官精致但自然，脸型柔和，眼神清澈，带着淡淡的羞涩微笑，气质干净温柔，具有真实生活中的少女感，避免千篇一律的AI网红脸。\n\n皮肤白皙通透，保留真实毛孔、细小雀斑、自然肤色变化与细微瑕疵，面部有真实的光影起伏，不磨皮，不使用美颜滤镜，呈现自然健康的皮肤质感。\n\n身穿米白色修身针织无袖背心与浅蓝色牛仔短裤，衣料柔软自然，布料纹理清晰，整体穿搭清爽简约。\n\n人物自然坐在海边低矮石阶上，身体微微侧向镜头，上半身轻轻前倾，肩膀自然放松，双臂自然垂落，双手轻轻放在膝盖附近，不向镜头伸展。姿态松弛随意，仿佛朋友在散步时不经意拍下的一张照片。肩膀、手臂和躯干保持真实协调的人体比例，手臂长度正常，关节弯曲符合自然人体结构。\n\n温暖明亮的夕阳从人物身后左侧斜射而来，形成通透柔和的金色逆光。阳光穿过蓬松的长发，让每一缕发丝边缘都泛起细腻明亮的金色光晕，形成自然的发丝轮廓光。微风轻轻吹起长发，发梢在夕阳中闪闪发亮，部分细碎发丝呈现半透明的金色质感。\n\n人物肩颈与身体边缘被柔和的夕阳勾勒，面部受到自然环境反射光照亮，明暗过渡细腻真实。阳光充足而通透，局部高光自然溢出，形成轻微过曝的胶片质感，但人物面部细节保持清晰，不出现大面积死白。\n\n采用朋友随手抓拍的摄影视角，镜头距离人物约1.5米，略微低机位，适度广角，轻微倾斜构图。画面具有自然的空间透视感，但不使用夸张的超广角畸变。人物头部、肩膀、手臂与身体比例真实协调。\n\n背景是夕阳笼罩的海边步道、树荫和波光粼粼的海面，远处隐约可见柔和的海岸线。阳光穿过树叶，在地面和人物周围形成细碎的金色光斑，背景自然虚化，呈现温暖而宁静的夏日氛围。\n\n整体采用日系复古胶片摄影质感，暖金色高光、低饱和奶油色调、柔和低对比、细腻胶卷颗粒、轻微镜头眩光与自然高光溢出。画面带有淡淡的朦胧感和轻微运动模糊，但人物眼睛、五官及皮肤纹理保持清晰。\n\n真实手机随手拍质感，自然随性，没有刻意设计的构图感，没有商业摄影的精致摆拍感。画面温暖、轻盈、通透，充满夏日傍晚的空气感与生活气息。\n\n避免AI网红脸、塑料皮肤、过度磨皮、夸张发光特效、人工棚拍光效、过度锐化、肢体畸形、手臂异常弯曲、手臂过长、近距离透视放大、夸张自拍姿势及不自然的人体比例。",
+      "author": {
+        "name": "Adam也叫吉米",
+        "handle": "Adam38363368936",
+        "profile_url": "https://x.com/Adam38363368936"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Adam38363368936/status/2124865921491841350",
+      "image": "examples/photography/x-01557.webp"
+    },
+    {
+      "id": "x-01558",
+      "category": "Poster Design",
+      "title": "Ransom-Note Collage Quote Poster",
+      "model": "Nano Banana 2.1",
+      "prompt": "A high-contrast, black-and-white graphic design featuring a ransom-note aesthetic. The text \"I'm just trying to have a nice day despite knowing facts and information\" is composed of individual words cut from various newspapers and magazines, featuring diverse serif and sans-serif fonts. Each word is mounted on small, slightly misaligned white paper scraps, which are then attached to a dark, distressed, and textured black background. Small pieces of translucent adhesive tape are visible on the corners of several paper scraps, adding to the DIY, collage-style composition. The overall image has a gritty, grainy, and weathered appearance.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/heathergreen/status/2124321978911711493",
+      "image": "examples/poster-design/x-01558.webp"
+    },
+    {
+      "id": "x-01559",
+      "category": "Poster Design",
+      "title": "Punk Ransom-Note Typography Poster",
+      "model": "Nano Banana 2.1",
+      "prompt": "A high-contrast, black-and-white punk rock aesthetic poster featuring the text \"WHY BE DIFFICULT IF YOU CAN BE IMPOSSIBLE\" arranged in a ransom-note style. The letters are cut from various magazines and newspapers, featuring different serif and sans-serif fonts, pasted onto a dark, textured background. The composition is surrounded by scattered paper scraps, masking tape strips, hand-drawn anarchy symbols, and star doodles, creating a chaotic, DIY collage look with a gritty, distressed paper texture.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/heathergreen/status/2124684359680630949",
+      "image": "examples/poster-design/x-01559.webp"
+    },
+    {
+      "id": "x-01561",
+      "category": "Photography",
+      "title": "Fashion Portrait with Knee in Foreground",
+      "model": "Seedream 5.0 Pro",
+      "prompt": "画幅比例为9：16 一位年轻成年亚洲女性，黑色锁骨发，发丝被微风吹起，几缕碎发自然凌乱，面部精致但保留真实感，清透底妆，淡橘棕色眼妆，柔和眉形，唇色自然偏珊瑚粉，皮肤细腻、带轻微毛孔与真实肤理。 她穿着黑色修身针织长袖上衣，佩戴小巧金色耳坠，坐在简洁室内空间中，一条腿自然抬起靠近镜头，制造前景透视和轻微压缩感。人物看向镜头，神情安静冷淡中带一点松弛感，像抓拍到的时尚人像。 浅灰白背景，极简布景，柔和棚拍主灯配合一点窗边自然光质感，头发边缘有细微轮廓光，画面干净但不过分商业修图。加入少量呼吸感细节：微微不完全对称的发丝、轻微下颌阴影、真实皮肤质感、眼神自然不过度锐利。 realistic editorial portrait, authentic beauty photography, minimal studio scene, black knit top, wind-swept hair, soft natural-studio mixed lighting, subtle skin pores, clean grey-white backdrop, seated close portrait, knee in foreground, slight low angle, elegant but realistic, high-end magazine portrait, not over-retouched, photorealistic, detailed hair strands, calm expression",
+      "author": {
+        "name": "lrsoy_",
+        "handle": "lrsoy_",
+        "profile_url": "https://x.com/lrsoy_"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/lrsoy_/status/2124381772314239384",
+      "image": "examples/photography/x-01561.webp"
+    },
+    {
+      "id": "x-01562",
+      "category": "Video",
+      "title": "Miniature Mansion DIY Build Timelapse",
+      "model": "Seedance 2.0",
+      "prompt": "Watch a stunning miniature two-story luxury mansion come to life through realistic DIY construction, satisfying building timelapses, creative craftsmanship, and cinematic architectural details.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2124834716192747660",
+      "image": "examples/video/x-01562.webp"
+    },
+    {
+      "id": "x-01563",
+      "category": "Video",
+      "title": "Dark Sorcerer Versus Shadow Demon",
+      "model": "Seedance 2.0",
+      "prompt": "A powerful dark fantasy sorcerer wearing magnificent black and silver dragon armor stands in the middle of a burning battlefield. His armor features glowing orange dragon patterns, and he holds a mysterious floating black-and-orange magical energy orb in his hand. Behind him, a gigantic terrifying shadow demon with multiple arms emerges from dark storm clouds, surrounded by blazing flames. An army of brave warriors prepares to face the enormous monster. The sorcerer raises his hand, releasing powerful dark magical energy as fire and smoke swirl around him. Epic fantasy atmosphere, dramatic lightning, cinematic camera movements, highly detailed armor, realistic fire effects, spectacular supernatural visual effects, ultra-realistic 3D CGI, 4K movie quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/draavenai/status/2124796323593424900",
+      "image": "examples/video/x-01563.webp"
+    },
+    {
+      "id": "x-01564",
+      "category": "Video",
+      "title": "Temple Courtyard Duel with a Horned Demon",
+      "model": "Seedance 2.0",
+      "prompt": "A breathtaking cinematic dark fantasy battle in an ancient Chinese temple courtyard during a stormy night. A fearless young warrior wearing dark bronze armor and a flowing red cape faces a gigantic terrifying demon warrior with massive curved horns and heavy golden armor. The young warrior holds a powerful wooden staff before transforming it into a blazing magical orange sword. The enormous horned demon charges forward, shaking the stone courtyard with every step. The warrior leaps into the air and launches a spectacular flaming sword attack. Sparks fly, magical energy fills the battlefield, and both warriors clash in an epic showdown. Dramatic slow motion, dynamic camera angles, realistic character movements, detailed armor, cinematic lighting, ultra-realistic 3D CGI, Hollywood fantasy movie style, 4K quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/draavenai/status/2125058589333295234",
+      "image": "examples/video/x-01564.webp"
+    },
+    {
+      "id": "x-01565",
+      "category": "Video",
+      "title": "Blue Lightning Sword Versus Tentacle Monster",
+      "model": "Seedance 2.0",
+      "prompt": "A breathtaking cinematic fantasy battle between a fearless young warrior and a gigantic terrifying red monster in a destroyed wasteland. The warrior wears a simple dark outfit and wields a massive sword glowing with intense electric blue energy. The enormous monster has multiple powerful tentacles, glowing red eyes, and dark armored skin. The warrior charges forward at incredible speed, swinging his energy sword and releasing powerful blue lightning waves. Massive rocks and debris fly through the air as the monster attacks with its giant tentacles. Epic aerial shots, dynamic camera movements, realistic motion, spectacular energy effects, dramatic lighting, ultra-detailed 3D CGI, Hollywood action movie style, 4K cinematic quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/draavenai/status/2123786562139984156",
+      "image": "examples/video/x-01565.webp"
+    },
+    {
+      "id": "x-01566",
+      "category": "Video",
+      "title": "Dragon Riders Battle Over Frozen Peaks",
+      "model": "Seedance 2.0",
+      "prompt": "Epic cinematic fantasy scene of two powerful dragon riders battling in the skies above a frozen mountain kingdom. Massive dark dragons with glowing orange eyes fly through storm clouds, their wings cutting through icy winds. Two armored warriors clash in midair, wielding glowing fiery swords. Lightning flashes across the sky as dragons unleash blazing fire, illuminating the snowy mountains and dark clouds. Dramatic camera movements, realistic dragon scales, detailed medieval armor, cinematic slow motion, volumetric fog, intense atmosphere, ultra-realistic CGI, IMAX quality, dark fantasy movie aesthetic, 4K, seamless action, breathtaking visual effects.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/draavenai/status/2123036871651704840",
+      "image": "examples/video/x-01566.webp"
+    },
+    {
+      "id": "x-01567",
+      "category": "Video",
+      "title": "Valley Flyover from a Still Frame",
+      "model": "Grok Imagine",
+      "prompt": "Image Prompt (GPT Image 2.6 Sunburst):\nA cinematic aerial flyover shot, 16:9 aspect ratio, over a vast mountain valley. The camera looks down at a steep angle, layered ridges receding into haze, a river winding through the valley floor far below. Pine forests darken the slopes, patches of snow on the highest peaks. Late afternoon sunlight rakes across the terrain, casting long shadows in the folds of the land. Photorealistic, natural light, high detail.\n\nVideo Prompt (Grok Imagine):\nThe camera glides forward smoothly over the valley, the ridges and river passing below. Haze drifts between the peaks. Shadows shift slowly as the light changes. Epic orchestral music swells, strings and brass building gradually.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2124706881923060021",
+      "image": "examples/video/x-01567.webp"
+    },
+    {
+      "id": "x-01568",
+      "category": "Video",
+      "title": "Close-Quarters Fight in a Print Shop",
+      "model": "Seedance 2.0",
+      "prompt": "生成一段15秒、16:9横屏的写实电影级动作短片，直接根据文字生成。\n\n【核心要求】\n高密度、快节奏、连续近身格斗，像顶级动作电影里最燃的一段打戏。第一帧就在交手中，没有片头、走路、对峙或摆造型。全片不使用慢动作，所有动作都是实时速度。每个镜头约1.5秒，只完成一个清楚的攻防，并能看到击中后的结果。镜头之间动作紧密衔接，上一个动作的结果就是下一个动作的开始，全片没有停顿。\n\n【人物】\n男主：约30岁的成年东亚男性，短黑发，面容硬朗，身材精壮。穿黑色长袖衬衫、深灰工装裤、黑色工作靴，袖口卷起，没有武器。\n对手：一名高大成年男性，光头，手臂有工业风纹身，穿深色工装背心、黑色长袖衫、厚重工作靴，右手握一根金属管。\n全片只有这两个人，长相、服装和武器始终保持一致。\n\n【场景】\n深夜印刷厂，机器已经停机，冷白顶灯照亮大型印刷机、堆纸台、金属托盘和传送带。地面有纸张碎屑，空气中有细微粉尘，远处通风设备低鸣。全片都在同一台印刷机旁，机器、堆纸台、传送带和两人的位置前后连贯。\n\n【分镜】\n镜头1（0–1.5秒）：侧面中景。对手用金属管横扫男主下盘，男主抬脚躲过，金属管砸中金属托盘。\n镜头2（1.5–3秒）：手持跟拍。对手用金属管顶端戳中男主腹部，男主后退撞向堆纸台。\n镜头3（3–4.5秒）：中景。男主闪开对手砸击，用肘击打中对手肋部。\n镜头4（4.5–6秒）：中景。对手抓住男主把他后背撞向印刷机机身。\n镜头5（6–7.5秒）：侧面中景。对手再次挥管，男主抓住金属管中段。\n镜头6（7.5–9秒）：近景。男主踹对手膝盖并扭转金属管，对手松手，金属管滚到堆纸台旁。\n镜头7（9–10.5秒）：中景。对手挥拳，男主格开后连续短拳打中他胸口。\n镜头8（10.5–12秒）：中景。对手扑来抱摔，男主顺势压住他的头颈。\n镜头9（12–13.5秒）：稍宽中景。男主把对手甩向印刷机机身，对手撞后倒地。\n镜头10（13.5–15秒）：男主面部近景，冷白顶灯照在脸上，脸上有灰和擦伤，喘着粗气，眼神狠厉盯着倒地对手，画面直接结束。\n\n【动作与摄影】\n写实电影质感，冷白工业灯光、金属印刷机、纸张碎屑、粉尘和机械空间层次，人物脸部清楚。每一拳、每一脚都要先接触目标，再出现身体受力、后退或失衡，不能打空气，也不能没碰到就提前倒下。动作贴身凶狠，借用印刷机、堆纸台、传送带和金属托盘发力，被打会疼、会失衡，不是无敌。撞击瞬间可以有轻微镜头震动，但必须看清谁打中了谁。人物左右位置在相邻镜头之间保持一致，不瞬移，不穿模，不增加多余的手或武器。金属管脱手后留在堆纸台旁，没有人再捡起它。不使用空翻、飞踢或超能力，不出现血腥特写。镜头集中在动作上，不刻意特写身体部位。\n\n【声音】\n印刷厂空旷回响，通风设备低鸣。金属管砸托盘、戳腹部、撞印刷机、金属管落地、击打、摔地、纸张碎屑飞起的声音都和画面准确同步。从第一秒开始就是紧张、快速、鼓点密集的动作配乐；男主被撞印刷机时音乐短暂压低，反转后节奏重新爆发，在最后撞机倒地时达到最强，结尾留下喘息和通风声。\n无对白，无旁白，无字幕，无文字，无水印。",
+      "author": {
+        "name": "Adam也叫吉米",
+        "handle": "Adam38363368936",
+        "profile_url": "https://x.com/Adam38363368936"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Adam38363368936/status/2123742353709998574",
+      "image": "examples/video/x-01568.webp"
+    },
+    {
+      "id": "x-01569",
+      "category": "Video",
+      "title": "Chain Fight Inside an Old Train Carriage",
+      "model": "Seedance 2.0",
+      "prompt": "生成一段15秒、16:9横屏的写实电影级动作短片，直接根据文字生成。\n\n【核心要求】\n高密度、快节奏、连续近身格斗，像顶级动作电影里最燃的一段打戏。第一帧就在交手中，没有片头、走路、对峙或摆造型。全片不使用慢动作，所有动作都是实时速度。每个镜头约1.5秒，只完成一个清楚的攻防，并能看到击中后的结果。镜头之间动作紧密衔接，上一个动作的结果就是下一个动作的开始，全片没有停顿。\n\n【人物】\n女主：约27岁的成年东亚女性，黑色长发扎成马尾，眼神锋利，身材匀称有力量。穿深棕短皮夹克、黑色针织衫、深色工装裤、黑色高帮靴，没有武器。\n对手：一名高大成年男性，短发，穿旧黑色皮夹克、深灰连帽衫、深色长裤，右手握一根铁链。\n全片只有这两个人，长相、服装和武器始终保持一致。女主全程没有被摔倒在地。\n\n【场景】\n停在站台的老式火车车厢内部，窗外是傍晚昏黄光线，车厢座椅为深绿色皮革，金属扶手有磨损，地面有灰尘和零散纸箱。全片都在同一排座椅附近，座椅、扶手、纸箱和两人的位置前后连贯。\n\n【分镜】\n镜头1（0–1.5秒）：侧面中景。对手挥动铁链横扫，女主低头躲过，铁链抽中座椅靠背。\n镜头2（1.5–3秒）：手持跟拍。对手用铁链末端甩中女主肩侧，女主弯腰后退，重心稳住，没有倒地。\n镜头3（3–4.5秒）：中景。女主闪开对手撞击，用后肘打中对手肋部，对手明显吃痛缩身。\n镜头4（4.5–6秒）：中景。对手抓住女主把她顶向金属扶手，女主侧腰受力，踉跄一下，但双脚始终踩地，没有倒地。\n镜头5（6–7.5秒）：侧面中景。对手再次挥链，女主抓住铁链中段，两人互相角力拉扯。\n镜头6（7.5–9秒）：近景。女主突然松链并踹对手膝盖，对手重心失衡，铁链落到座椅旁，不再被捡起。\n镜头7（9–10.5秒）：中景。对手挥拳，女主格开后连续短拳打中对手腹部，对手接连后退。\n镜头8（10.5–12秒）：中景。对手向前猛扑试图抱摔女主，女主立刻侧胯卸力，前臂压住对手肩颈，顺势控制对手重心，女主双脚始终不离地。\n镜头9（12–13.5秒）：稍宽中景。女主借对手前冲惯性，将对手甩向座椅扶手，对手撞击扶手后重重倒地，不再站起。\n镜头10（13.5–15秒）：女主面部近景，昏黄窗光斜照脸上，脸上有灰和擦伤，胸口起伏，眼神冰冷盯着倒地对手，画面直接结束。\n\n【动作与摄影】\n写实电影质感，老式车厢的昏黄窗光、深绿皮革座椅、磨损金属扶手，暗部保留细节，人物脸部清楚。每一拳、每一脚都要先接触目标，再出现身体受力、后退或失衡，不能打空气，也不能没碰到就提前倒下。女主动作利落凶狠，借力打力，被击打会疼、会踉跄，但全程没有摔倒。撞击瞬间可以有轻微镜头震动，但必须看清谁打中了谁。人物左右位置在相邻镜头之间保持一致，不瞬移，不穿模，不增加多余的手或武器。铁链脱手后留在座椅旁，没有人再捡起它。不使用空翻、飞踢或超能力，不出现血腥特写。镜头集中在动作上，不刻意特写身体部位。\n\n【声音】\n老式车厢空旷回响，远处站台环境声低弱。铁链抽座椅、撞扶手、铁链落地、击打、摔地、纸箱翻倒的声音都和画面准确同步。从第一秒开始就是紧张、快速、鼓点密集的动作配乐；女主被撞扶手时音乐短暂压低，反转后节奏重新爆发，在最后撞扶手倒地时达到最强，结尾留下喘息和金属轻响。\n无对白，无旁白，无字幕，无文字，无水印。",
+      "author": {
+        "name": "Adam也叫吉米",
+        "handle": "Adam38363368936",
+        "profile_url": "https://x.com/Adam38363368936"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Adam38363368936/status/2123082060323754024",
+      "image": "examples/video/x-01569.webp"
+    },
+    {
+      "id": "x-01570",
+      "category": "Video",
+      "title": "Silent Samurai in a Rainy Village",
+      "model": "Seedance 2.0",
+      "prompt": "Create a cinematic, ultra-realistic 3D Japanese Samurai warrior video, 20 seconds long, vertical 9:16 format.\n\nScene 1: A mysterious samurai wearing a traditional black outfit and a wide straw hat stands silently in an ancient Japanese wooden village during a rainy evening.\n\nScene 2: Slowly move the camera closer as the samurai walks through a narrow wooden corridor. Cinematic close-up of his intense eyes, showing courage and determination.\n\nScene 3: Suddenly, he hears an enemy approaching. He quickly turns around, grabs his katana sword and takes a powerful fighting stance.\n\nScene 4: Show an epic slow-motion sword draw with dramatic camera movement, flying rain droplets, and realistic cloth physics.\n\nScene 5: End with the samurai standing confidently, holding his sword, with dramatic cinematic lighting.\n\nStyle: Hyper-realistic 3D animation, Japanese historical atmosphere, dark moody lighting, detailed textures, dramatic storytelling, professional movie cinematography, smooth transitions, 4K quality.",
+      "author": {
+        "name": "Ali",
+        "handle": "CodesWithAli",
+        "profile_url": "https://x.com/CodesWithAli"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/CodesWithAli/status/2123125816213299296",
+      "image": "examples/video/x-01570.webp"
+    },
+    {
+      "id": "x-01571",
+      "category": "Video",
+      "title": "Fighter Jet Transforms into a Robot",
+      "model": "Seedance 2.5",
+      "prompt": "A futuristic fighter jet transforms into a giant metallic robot mid-air above a busy city, with glowing blue engines, explosive mechanical movements, cinematic camera angles action.",
+      "author": {
+        "name": "Tuseef",
+        "handle": "Aiwithtuseef",
+        "profile_url": "https://x.com/Aiwithtuseef"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Aiwithtuseef/status/2122942272350409192",
+      "image": "examples/video/x-01571.webp"
+    },
+    {
+      "id": "x-01572",
+      "category": "Video",
+      "title": "Autumn Park Bench Romance",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 30-second cinematic Korean romance scene set in a beautiful autumn park during golden hour. A young Korean man wearing a black jacket sits alone on a wooden bench surrounded by golden autumn leaves, quietly waiting. Warm sunlight filters through the trees as a gentle breeze moves the fallen leaves. A young Korean woman wearing a beige coat approaches and sits beside him. They exchange shy smiles, share a quiet moment, and take a selfie together, smiling naturally. As the moment fades, the man notices her expression change and gently turns toward her, as if sensing something she cannot say. She looks down with a bittersweet smile while he watches her with concern.\n\nUse realistic Korean actors, subtle facial expressions, natural body movements, cinematic close-ups, slow camera movements, shallow depth of field, warm golden lighting, soft autumn colors, realistic skin texture, film-quality cinematography, emotional Korean drama atmosphere, and a gentle cinematic soundtrack.\n\nThe ending should feel beautiful, intimate, and slightly bittersweet, leaving the audience wondering what their story is. Ultra-realistic live-action, no artificial animation, no exaggerated expressions, no text, no watermark.",
+      "author": {
+        "name": "𝐍𝐚𝐯𝐞𝐞 𝐀𝐢",
+        "handle": "navi_Ai2",
+        "profile_url": "https://x.com/navi_Ai2"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/navi_Ai2/status/2123049897717035263",
+      "image": "examples/video/x-01572.webp"
+    },
+    {
+      "id": "x-01573",
+      "category": "Video",
+      "title": "Puppy Rescue from a Zombie Horde",
+      "model": "Seedance 2.5",
+      "prompt": "Create a 30-second ultra-realistic cinematic Korean superhero action video.\n\nA small adorable puppy is sitting on the roof of a red car in an empty parking lot at sunset. Several terrifying zombies with scary faces, dirty clothes, and zombie-like movements surround the car and try to attack and grab the helpless puppy.\n\nSuddenly, a powerful young Korean woman wearing a blue jacket and jeans rushes in to save the puppy. She possesses incredible superpowers, superhuman strength, and extraordinary jumping abilities. She fights the zombies with powerful punches, kicks, and spectacular flying jumps, defeating them one by one.\n\nThe zombies desperately try to reach the puppy, but the Korean girl protects it and fights them fearlessly. Finally, she defeats the zombies, picks up the frightened little puppy, and gently holds it in her arms.\n\nVisual style: Hollywood zombie action movie, photorealistic Korean actress, realistic zombie makeup, spectacular superhero stunts, cinematic golden-hour lighting, dynamic camera movements, dramatic slow motion, realistic physics, and high-quality 4K visuals.\n\nMaintain consistent character appearance throughout. Duration: exactly 30 seconds. Aspect ratio: 16:9. No text, subtitles, or watermark.",
+      "author": {
+        "name": "Wania",
+        "handle": "AIwithWania",
+        "profile_url": "https://x.com/AIwithWania"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/AIwithWania/status/2123028132223688868",
+      "image": "examples/video/x-01573.webp"
+    },
+    {
+      "id": "x-01575",
+      "category": "Video",
+      "title": "Salt Flat Sail Racer Chase",
+      "model": "Unknown",
+      "prompt": "The Salt Flat Phantom\n\nUltra-photorealistic Hollywood live-action science-fiction chase. Extreme speed, immense alien landscapes, physically believable wind forces, dramatic cinematic destruction and high-end practical-style visual effects.\n\nLOCATION:\nEndless brilliant-white alien salt flats under a dark turquoise storm sky. Strong crosswinds drive horizontal streams of salt dust across the ground. Ahead, a towering natural formation of brittle white salt crystal rises beside the racing route.\n\nHERO VEHICLE:\nExactly one futuristic wind-powered land racer. Low silver aerodynamic chassis, three large black wheels, exposed mechanical steering linkage and ONE tall articulated sail made of two connected dark graphite panels. A single adult pilot sits inside a transparent enclosed cockpit.\n\nThe wind-driven racer has NO jet engines or exhaust flames. Its sail is its primary propulsion system.\n\nPURSUERS:\nExactly TWO compact matte-black military hover skimmers with red sensor lights and forward precision weapons. They fly just above the salt surface, using visible downward thrusters.\n\nThe silver racer leads. Both black skimmers pursue from behind in the same direction.\n\nSHOT 1 | 0–2s | GROUND-LEVEL SIDE TRACKING ANGLE\nThe silver sail racer rockets across the blinding salt flats at astonishing speed. Its wheels carve thin tracks through the white crust. The enormous sail flexes under the crosswind. Two black military skimmers skim the surface behind it, firing brilliant red precision bolts that explode against the salt.\n\nSHOT 2 | 2–4s | HIGH THREE-QUARTER ANGLE\nThe racer cuts across a field of jagged salt ridges. The pilot steers through a narrow opening while both skimmers follow. Weapon impacts shatter enormous white crystal fragments beside the racer. Wind drives long plumes of salt dust diagonally across the battlefield.\n\nSHOT 3 | 4–6s | LOW FRONT THREE-QUARTER ANGLE\nA skimmer closes to the racer's right side and fires into the upper sail. A projectile punches through one graphite panel, leaving a visible damaged opening. The sail remains attached. The pilot struggles against the increased wind pressure as the vehicle shudders but continues forward.\n\nSHOT 4 | 6–8s | COCKPIT-SIDE MECHANICAL ANGLE\nThe pilot activates a large mechanical sail control. Hydraulic actuators rapidly rotate the entire articulated sail across the crosswind. The sail spills wind pressure and the racer's speed drops sharply. The chassis leans, and all three wheels remain firmly on the salt.\n\nSHOT 5 | 8–10s | LOW REAR THREE-QUARTER ANGLE\nThe leading military skimmer is still accelerating behind the slowing racer. Its pilotless guidance system reacts too late. The skimmer overshoots along the racer's right side. The second skimmer brakes and banks away. The first skimmer continues directly toward the towering salt crystal formation ahead.\n\nSHOT 6 | 10–12.5s | FIXED SALT-CRYSTAL SIDE ANGLE\nThe overshooting skimmer strikes the base of the towering salt formation at high speed. Its armored nose crumples, followed by a violent explosion. The giant crystal tower fractures and collapses across the route behind the escaping racer. The second skimmer pulls away from the falling debris and disappears behind the collapsing crystal wall.\n\nSHOT 7 | 12.5–15s | FIXED LOW WIDE THREE-QUARTER ANGLE\nThe silver wind racer continues safely beyond the collapsed crystal formation, its sail restored to a forward-driving angle. Behind it, an immense white wall of broken salt crystal blocks the pursuit route. One destroyed skimmer lies beneath the debris. The other remains hidden beyond the obstruction.\n\nBy 13 seconds, the collapse is complete. The racer continues steadily into the open salt desert. Hold this final victorious composition with no camera movement through the end.\n\nCAMERA AND PHYSICS:\nExactly seven distinct cinematic angles. Maintain consistent screen direction and clear geography. The racer never flies or jumps. Wind pressure drives its wheels along the surface. Rotating the sail spills wind and creates a sudden but believable reduction in speed. The faster hover skimmer overshoots due to its momentum. The crystal formation collapses only after the skimmer strikes its base.\n\nAUDIO:\nHowling crosswinds, high-frequency wind cutting across the sail, rapid rolling wheels, mechanical sail actuators, deep hover thrusters, sharp energy-weapon impacts, shattering salt crystal, heavy vehicle collision and immense crystalline collapse. No dialogue or narration.\n\nCONTINUITY:\nOne silver three-wheeled sail racer with one attached articulated sail throughout. Exactly two black pursuit skimmers. The right-side skimmer overshoots and crashes. The second skimmer avoids impact but is cut off by the collapse. Maintain the sail damage after the projectile strike, consistent vehicles, wind direction, lighting, positions and physical scale.\n\nRESTRICTIONS:\nNo ordinary cars, trucks, highways, aircraft wings, flying hero vehicle, duplicated sails, extra wheels, multiple pilots, extra skimmers, vehicle redesigns, teleportation, arbitrary explosions, impossible vehicle motion, repetitive shots, empty driving, camera drift, zoom-out, famous faces or public-figure likenesses.\n\nNo new action during the completed ending.\n\nKeep proportions. Keep style and features. Ratio 16:9.",
+      "author": {
+        "name": "DeCat",
+        "handle": "DeCat2025",
+        "profile_url": "https://x.com/DeCat2025"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/DeCat2025/status/2124347784614609262",
+      "image": "examples/video/x-01575.webp"
+    },
+    {
+      "id": "x-01576",
+      "category": "Video",
+      "title": "Drone Through an Overgrown Jungle Moon Base",
+      "model": "Kling 4.0",
+      "prompt": "A mysterious jungle moon covered with immense alien trees, dense mist and gigantic waterfalls. Deep within the vegetation stands an enormous abandoned futuristic research complex, its towering metallic structures slowly reclaimed by the surrounding forest. A solitary automated reconnaissance drone flies between the overgrown buildings while distant orbital ships cross the cloudy sky. The camera follows the drone toward a monumental sealed laboratory entrance. Atmospheric cinematic exploration, photorealistic",
+      "author": {
+        "name": "Alin",
+        "handle": "Alin_Reaper05",
+        "profile_url": "https://x.com/Alin_Reaper05"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Alin_Reaper05/status/2124425737499496926",
+      "image": "examples/video/x-01576.webp"
+    },
+    {
+      "id": "x-01577",
+      "category": "Video",
+      "title": "Descent Along a Galactic Senate Building",
+      "model": "Kling 4.0",
+      "prompt": "An enormous futuristic senate building towers over the capital of an advanced galactic civilization. Gigantic concentric architectural rings surround a magnificent central dome, with countless spacecraft navigating between elevated landing platforms. The camera begins above the building and slowly descends along its monumental exterior, revealing breathtaking details and illuminated ceremonial avenues. Golden-hour lighting, majestic cinematic visuals, photorealistic",
+      "author": {
+        "name": "Alin",
+        "handle": "Alin_Reaper05",
+        "profile_url": "https://x.com/Alin_Reaper05"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/Alin_Reaper05/status/2124845322430189718",
+      "image": "examples/video/x-01577.webp"
+    },
+    {
+      "id": "x-01578",
+      "category": "Poster Design",
+      "title": "Punk Ransom-Note Poster Template",
+      "model": "Nano Banana 2.1",
+      "prompt": "A high-contrast, black-and-white punk rock aesthetic poster featuring the text [insert message] arranged in a ransom-note style. The letters are cut from various magazines and newspapers, featuring different serif and sans-serif fonts, pasted onto a dark, textured background. The composition is surrounded by scattered paper scraps, masking tape strips, hand-drawn anarchy symbols, and star doodles, creating a chaotic, DIY collage look with a gritty, distressed paper texture.",
+      "author": {
+        "name": "Liz Roberts",
+        "handle": "CoopandKCmom",
+        "profile_url": "https://x.com/CoopandKCmom"
+      },
+      "type": "image",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/CoopandKCmom/status/2124727709351715301",
+      "image": "examples/poster-design/x-01578.webp"
+    },
+    {
+      "id": "x-01579",
+      "category": "Video",
+      "title": "Sword Strike on a Sunset Cliff",
+      "model": "Seedance 2.0",
+      "prompt": "A cinematic ancient Chinese fantasy warrior standing on a massive rocky cliff during a dramatic sunset. He wears an elegant black and golden embroidered battle robe with intricate dragon patterns and holds a long legendary sword. Dark mountains stretch across the horizon beneath a glowing orange and purple sky. The warrior slowly raises his sword as mysterious black smoke and magical dark energy swirl around his body. He performs a powerful sword strike, releasing a wave of supernatural energy that causes the surrounding rocks to crack and explode into flying debris. Dramatic close-up shots, dynamic camera movements, realistic fabric physics, detailed sword design, epic martial arts atmosphere, cinematic lighting, ultra-realistic 3D CGI, 4K fantasy movie quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-24",
+      "tweet_url": "https://x.com/draavenai/status/2123635495976788233",
+      "image": "examples/video/x-01579.webp"
     }
   ]
 }

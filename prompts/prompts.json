@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "description": "A continuously-updated, original collection of image & video prompts. Prompts are refined in-house and every preview image is generated with vinano.ai.",
     "render_provider": "vinano.ai",
-    "count": 2151,
+    "count": 2161,
     "by_category": {
-      "Photography": 655,
-      "Illustration & 3D": 435,
-      "Product & Brand": 404,
-      "Food & Drink": 199,
-      "Poster Design": 250,
-      "UI & Graphic": 183,
-      "Video": 25
+      "Photography": 656,
+      "Illustration & 3D": 436,
+      "Product & Brand": 405,
+      "Food & Drink": 201,
+      "Poster Design": 251,
+      "UI & Graphic": 185,
+      "Video": 27
     },
-    "updated": "2026-11-23",
+    "updated": "2026-11-24",
     "license": "CC BY 4.0"
   },
   "prompts": [
@@ -25270,6 +25270,130 @@
       "origin": "daily",
       "video": "videos/vn-02160.mp4",
       "duration": 7.9
+    },
+    {
+      "id": "vn-02161",
+      "title": "Coffee Origins Infographic Map",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "Nano Banana Pro",
+      "keywords": [],
+      "prompt": "An editorial infographic poster titled \"Where Coffee Grows\": a stylized flat world map with the coffee belt between the tropics shaded in warm brown, five labeled origin pins (Ethiopia, Colombia, Brazil, Vietnam, Indonesia) each with a tiny cup icon and a one-line flavor note such as \"floral & citrus\" or \"chocolate & nutty\". A small bar chart in the corner compares annual output, a legend strip runs along the bottom, clean geometric sans-serif labels, cream paper background, espresso and terracotta palette, a small \"ViNano\" footer credit.",
+      "image": "images/ui-graphic/vn-02161.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02162",
+      "title": "Plant Care App Dashboard",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A clean desktop dashboard UI for a houseplant care app called \"ViNano Garden\": a left sidebar with icons for Plants, Schedule, Light and Settings, a top row of three stat cards (7 plants, 2 need water today, humidity 54%), a grid of plant cards each with a soft photo-style thumbnail, name, watering countdown ring and sunlight icon, plus a weekly watering calendar on the right. Sage green and off-white palette, rounded 16px corners, subtle shadows, crisp legible text, modern product-design screenshot.",
+      "image": "images/ui-graphic/vn-02162.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02163",
+      "title": "Risograph Bike Festival Poster",
+      "category": "Poster Design",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A two-color risograph poster for a community cycling day: a bold illustration of three riders on vintage road bikes leaning into a curve, drawn with chunky shapes and halftone grain. Big hand-cut lettering \"RIDE THE CITY\" across the top, smaller lines \"Sunday · Riverside Loop · 20 km\" below, and a small \"ViNano\" mark in the corner. Fluorescent pink and teal inks overlapping on off-white paper, visible misregistration and ink texture.",
+      "image": "images/poster-design/vn-02163.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02164",
+      "title": "Steaming Ramen Bowl Overhead",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Nano Banana 2.1",
+      "keywords": [],
+      "prompt": "Overhead food photograph of a bowl of tonkotsu-style ramen on a dark wooden counter: creamy broth, springy noodles lifted slightly with chopsticks, two halves of a jammy soft-boiled egg, slices of torched pork, nori sheets, scallions and sesame seeds. Thin wisps of steam, a small dish of chili oil and a ceramic spoon beside the bowl, moody low-key lighting with a single warm highlight, rich textures, shallow depth of field.",
+      "image": "images/food-drink/vn-02164.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02165",
+      "title": "Winter Mulled Cider Still Life",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A cozy still life of two glass mugs of hot mulled cider on a rustic table, cinnamon sticks and star anise floating on top, orange slices studded with cloves, a scattering of red apples, pine sprigs and a knitted blanket edge. Soft window light from the left, fogged window with blurred snowfall behind, warm amber and deep red tones, gentle steam rising, seasonal lifestyle photography.",
+      "image": "images/food-drink/vn-02165.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02166",
+      "title": "Tiny Robot Ramen Cart",
+      "category": "Illustration & 3D",
+      "type": "image",
+      "engine": "Grok Imagine Image",
+      "keywords": [],
+      "prompt": "A cute 3D diorama of a small round robot running a night ramen cart on a cobblestone corner: glowing paper lanterns, a steaming pot, a tiny wooden bench with two cat customers slurping noodles, hand-painted menu board reading \"ViNano Ramen\". Soft toy-like materials, warm lantern glow against a deep blue night, tilt-shift miniature look, high detail.",
+      "image": "images/illustration-3d/vn-02166.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02167",
+      "title": "Minimal Ceramic Table Lamp",
+      "category": "Product & Brand",
+      "type": "image",
+      "engine": "MiniMax H3 Image",
+      "keywords": [],
+      "prompt": "Product photograph of a minimalist table lamp with a matte speckled ceramic base and a pleated linen shade, switched on and casting a warm pool of light on a walnut side table. A small stack of books and a ceramic cup beside it, a plain warm-grey wall behind, late-evening ambient light, soft shadows, a tiny engraved \"ViNano\" on the base, interior catalog style, crisp texture detail.",
+      "image": "images/product-brand/vn-02167.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02168",
+      "title": "Fishing Harbor in Blue Hour",
+      "category": "Photography",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A wide photograph of a small fishing harbor at blue hour: rows of weathered wooden boats moored along a stone quay, string lights on the masts reflecting in calm water, stacked nets and buoys in the foreground, colorful houses on the hillside with lit windows. Long exposure smooths the water, deep blue sky fading to violet near the horizon, natural color, fine detail.",
+      "image": "images/photography/vn-02168.webp",
+      "added": "2026-11-24",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02169",
+      "title": "Barista Pours Latte Art",
+      "category": "Video",
+      "type": "video",
+      "engine": "Veo 3.1 Lite",
+      "keywords": [],
+      "prompt": "Close-up slow dolly in over a ceramic cup as a barista's hands pour steamed milk into espresso, the white foam blooming into a perfect rosetta pattern. Warm cafe lighting, soft steam, shallow depth of field, gentle hiss of the milk and quiet cafe ambience.",
+      "image": "images/video/vn-02169.webp",
+      "added": "2026-11-24",
+      "origin": "daily",
+      "video": "videos/vn-02169.mp4",
+      "duration": 7.9
+    },
+    {
+      "id": "vn-02170",
+      "title": "Fox Running Through Snowy Forest",
+      "category": "Video",
+      "type": "video",
+      "engine": "Seedance 2.0 Mini",
+      "keywords": [],
+      "prompt": "A red fox trots through a snowy pine forest in the early morning; the camera tracks alongside it at a low angle as snow puffs up under its paws, then the fox pauses and looks back toward the lens. Soft golden backlight, falling snowflakes, cinematic wildlife documentary look.",
+      "image": "images/video/vn-02170.webp",
+      "added": "2026-11-24",
+      "origin": "daily",
+      "video": "videos/vn-02170.mp4",
+      "duration": 5.1
     }
   ]
 }
