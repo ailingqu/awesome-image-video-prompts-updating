@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "description": "A continuously-updated, original collection of image & video prompts. Prompts are refined in-house and every preview image is generated with vinano.ai.",
     "render_provider": "vinano.ai",
-    "count": 2161,
+    "count": 2171,
     "by_category": {
       "Photography": 656,
-      "Illustration & 3D": 436,
-      "Product & Brand": 405,
-      "Food & Drink": 201,
-      "Poster Design": 251,
-      "UI & Graphic": 185,
-      "Video": 27
+      "Illustration & 3D": 437,
+      "Product & Brand": 406,
+      "Food & Drink": 203,
+      "Poster Design": 252,
+      "UI & Graphic": 188,
+      "Video": 29
     },
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "license": "CC BY 4.0"
   },
   "prompts": [
@@ -25394,6 +25394,130 @@
       "origin": "daily",
       "video": "videos/vn-02170.mp4",
       "duration": 5.1
+    },
+    {
+      "id": "vn-02171",
+      "title": "Anatomy of a Bicycle Infographic",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "Nano Banana Pro",
+      "keywords": [],
+      "prompt": "A clean educational infographic poster titled \"Anatomy of a Bicycle\": a side-view flat illustration of a classic city bike in teal and mustard, with thin leader lines pointing to twelve labeled parts (saddle, seat post, top tube, handlebar, brake lever, fork, hub, spokes, chainring, pedal, chain, rear derailleur). Below the bike, three small panels explain \"How gears work\", \"Tire pressure guide\" and \"Quick safety check\" with simple icons and one short sentence each. Off-white paper background, tidy grid layout, rounded sans-serif typography, small \"ViNano\" credit in the bottom right corner, crisp vector look, all text spelled correctly.",
+      "image": "images/ui-graphic/vn-02171.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02172",
+      "title": "Recipe App Mobile Screens",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "Three mobile app screens shown side by side on a soft sage background for a cooking app called \"ViNano Kitchen\". Screen one: a home feed with a search bar, category chips (Breakfast, Soups, Pasta, Dessert) and two large recipe cards with photos, cook time and star ratings. Screen two: a recipe detail page for \"Lemon Herb Roast Chicken\" with a hero photo, a servings stepper, an ingredient checklist and a big \"Start Cooking\" button. Screen three: a step-by-step cooking mode showing \"Step 3 of 6\", a round timer at 12:00 and next/back buttons. Warm cream cards, tomato-red accent color, rounded corners, soft shadows, modern geometric sans-serif, pixel-sharp legible text, polished product design presentation.",
+      "image": "images/ui-graphic/vn-02172.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02173",
+      "title": "Letterpress Stargazing Night Poster",
+      "category": "Poster Design",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A letterpress-style event poster for a community astronomy evening. A deep navy night sky fills the sheet, dotted with hand-drawn constellations connected by fine cream lines, a large crescent moon in the upper right, and a small silhouette of a hill with a telescope and two people at the bottom. Headline in bold condensed serif capitals: \"STARGAZING NIGHT\". Subline: \"Bring a blanket. Telescopes provided.\" Footer line: \"Saturday 8 PM · Hilltop Meadow · Free entry\". Limited palette of navy, cream and one warm gold ink, visible paper texture and slight ink misregistration, generous margins, balanced vintage layout, all lettering spelled correctly.",
+      "image": "images/poster-design/vn-02173.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02174",
+      "title": "Steamed Dumplings in Bamboo Basket",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Nano Banana 2.1",
+      "keywords": [],
+      "prompt": "A close three-quarter food photograph of a round bamboo steamer just opened, holding eight pleated soup dumplings on a sheet of parchment, thin wisps of steam rising and catching the light. One dumpling is lifted on dark wooden chopsticks above a small porcelain spoon, its skin slightly translucent. Beside the basket sit a tiny dish of black vinegar with fine ginger threads and a celadon teacup. Dark slate tabletop, soft window light from the left, shallow depth of field, glistening wet highlights on the wrappers, restaurant menu quality, appetizing and natural color.",
+      "image": "images/food-drink/vn-02174.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02175",
+      "title": "Weekend Pancake Stack with Berries",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A tall stack of six fluffy golden pancakes on a speckled ceramic plate, a square of butter melting on top and a slow ribbon of maple syrup running down the side, frozen mid-drip. Fresh blueberries, halved strawberries and a dusting of powdered sugar are scattered over the stack and plate. In the background, softly blurred, a glass of orange juice, a small syrup jug and a linen napkin on a pale wooden table. Bright morning sunlight from a window on the right, gentle shadows, crisp detail on the pancake edges, cheerful weekend breakfast mood, editorial food photography.",
+      "image": "images/food-drink/vn-02175.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02176",
+      "title": "Papercraft Coral Reef Diorama",
+      "category": "Illustration & 3D",
+      "type": "image",
+      "engine": "Grok Imagine Image",
+      "keywords": [],
+      "prompt": "A layered papercraft diorama of a coral reef inside a deep shadow box. Cut-paper layers in turquoise, coral pink, sunny yellow and deep blue create depth: wavy seaweed strips in front, fan corals and brain corals in the middle, a small school of orange paper fish, a smiling sea turtle and a tiny yellow submarine with a round window in the back. Each paper edge casts a soft shadow on the layer behind, with visible paper grain and neat scissor cuts. Warm light from the top left, slight tilt-shift blur at the edges, handcrafted, charming and tidy composition.",
+      "image": "images/illustration-3d/vn-02176.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02177",
+      "title": "Enamel Camping Mug at Sunrise",
+      "category": "Product & Brand",
+      "type": "image",
+      "engine": "MiniMax H3 Image",
+      "keywords": [],
+      "prompt": "Product photograph of a speckled forest-green enamel camping mug with a cream rim, the word \"ViNano\" printed in small cream letters on its side. The mug sits on a flat mossy rock beside a lake, steam curling up from hot coffee, a folded plaid wool blanket and a brass compass placed just behind it. Background: misty pine shoreline and soft orange sunrise light reflecting on still water, heavily out of focus. Low camera angle, crisp focus on the mug, tiny dew drops on the rock, natural outdoor brand lifestyle look, warm and cool color contrast.",
+      "image": "images/product-brand/vn-02177.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02178",
+      "title": "Weather Icon Set in Soft 3D",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A tidy 4 by 4 grid of sixteen weather icons in a soft 3D clay style on a pale lavender background: sun, partly cloudy, cloud, light rain, heavy rain, thunderstorm, snow, sleet, fog, wind, rainbow, crescent moon, starry night, tornado, thermometer and umbrella. Each icon sits on its own rounded square tile with a subtle drop shadow, uses the same pastel palette of butter yellow, sky blue, white and coral, and has matte rounded forms with gentle top-left lighting. Even spacing, consistent size and viewing angle, clean app icon pack presentation, no text.",
+      "image": "images/ui-graphic/vn-02178.webp",
+      "added": "2026-11-25",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02179",
+      "title": "Kite Over the Dunes Drone Orbit",
+      "category": "Video",
+      "type": "video",
+      "engine": "Veo 3.1 Lite",
+      "keywords": [],
+      "prompt": "A slow drone orbit around a child in a yellow raincoat flying a bright red diamond kite on top of a grassy sand dune by the sea. The camera circles from behind the child to the side at a steady height, the kite tail fluttering against a pale blue sky, tall dune grass rippling in the wind and waves rolling onto the wide beach below. Late afternoon golden light, long shadows, natural colors, smooth cinematic motion. Audio: steady sea wind, distant waves and the soft flapping of the kite.",
+      "image": "images/video/vn-02179.webp",
+      "added": "2026-11-25",
+      "origin": "daily",
+      "video": "videos/vn-02179.mp4",
+      "duration": 7.9
+    },
+    {
+      "id": "vn-02180",
+      "title": "Hummingbird at a Red Flower",
+      "category": "Video",
+      "type": "video",
+      "engine": "MiniMax H3",
+      "keywords": [],
+      "prompt": "Macro slow-motion shot of a green hummingbird hovering in front of a red trumpet-shaped flower in a sunlit garden. The camera holds steady and slowly pushes in as the bird dips its beak into the flower, its wings a soft blur, tiny pollen dust drifting in the backlight, then it backs away and hovers. Creamy green background blur, warm morning rim light on the feathers, shallow depth of field, crisp iridescent detail, nature documentary look.",
+      "image": "images/video/vn-02180.webp",
+      "added": "2026-11-25",
+      "origin": "daily",
+      "video": "videos/vn-02180.mp4",
+      "duration": 5.2
     }
   ]
 }

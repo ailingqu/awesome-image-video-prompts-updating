@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "source": "X and the web (community, credited)",
     "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
-    "count": 1567,
+    "count": 1613,
     "by_category": {
-      "Photography": 556,
-      "Illustration & 3D": 393,
-      "Product & Brand": 216,
+      "Photography": 567,
+      "Illustration & 3D": 404,
+      "Product & Brand": 220,
       "Food & Drink": 154,
-      "Poster Design": 148,
-      "UI & Graphic": 49,
-      "Video": 51
+      "Poster Design": 149,
+      "UI & Graphic": 50,
+      "Video": 69
     },
-    "updated": "2026-11-24"
+    "updated": "2026-11-25"
   },
   "examples": [
     {
@@ -22210,6 +22210,742 @@
       "added": "2026-11-24",
       "tweet_url": "https://x.com/draavenai/status/2123635495976788233",
       "image": "examples/video/x-01579.webp"
+    },
+    {
+      "id": "x-01580",
+      "category": "Illustration & 3D",
+      "title": "Whimsical Hand-Illustrated City Tourist Map",
+      "model": "GPT Image 2.6",
+      "prompt": "Create an exceptionally charming, whimsical, hand-illustrated tourist map of [CITY], [COUNTRY], featuring its most famous landmarks, historic attractions, neighbourhoods and cultural treasures.\n\n1. OVERALL MAP DESIGN\n\nCreate a beautifully illustrated bird’s-eye-view city map on a soft, pale pastel background.\n\nThe composition should resemble a hand-painted travel guide or an illustrated page from a vintage children’s atlas.\n\nInclude winding white streets, curved roads, a flowing river where geographically appropriate, little bridges, parks, gardens, trees and charming urban details.\n\nThe map should feel organic, playful and full of discoveries.\n\n2. ICONIC LANDMARKS — MOST IMPORTANT\n\nFeature 12–16 recognisable attractions distributed throughout the map.\n\nInclude a carefully selected combination of:\n\nFamous historical monuments.\nIconic architectural buildings.\nMuseums and cultural attractions.\nHistoric squares and streets.\nReligious and heritage sites.\nBeautiful gardens and parks.\nFamous bridges and towers.\nDistinctive neighbourhoods.\n\nIllustrate every attraction as a small, individually detailed architectural vignette, viewed from an attractive elevated perspective.\n\nPreserve the recognisable architectural identity of each landmark.\n\n3. LABEL EVERY PLACE\n\nThis is an essential feature.\n\nWrite the actual, correct name of every illustrated landmark directly beside or underneath its illustration.\n\nUse neat, small, hand-lettered typography in dark charcoal or black.\n\nMake every label readable, correctly spelled and associated with the correct attraction.\n\nDo not use generic labels or invent landmark names.\n\n4. LITTLE CITY DETAILS\n\nAdd charming miniature details throughout the map:\n\nTiny cars, bicycles and buses.\nWalking people.\nStreet trees and benches.\nLocal food and cafés.\nSmall boats where appropriate.\nLocal cultural symbols.\nTraditional architecture.\nLittle market scenes.\n\nInclude details that make the destination feel alive and authentic.\n\n5. DESTINATION-INSPIRED COLOURS\n\nUse a beautiful muted colour palette inspired by the city’s character.\n\nSoft sage green, dusty blue, warm beige, pale terracotta, muted mustard and gentle pastel shades.\n\nAdapt the colours to each destination rather than repeating exactly the same palette.\n\n6. CITY TITLE\n\nAt the bottom centre, display the destination name in beautiful, elegant lettering:\n\n[ CITY NAME ]\n\nBelow it, in smaller lettering:\n\n[ COUNTRY NAME ]\n\n7. ARTISTIC FINISH\n\nDelicate hand-drawn outlines, soft watercolor washes, subtle paper texture, charming imperfect illustration, simplified architectural details and beautiful visual storytelling.\n\nThe overall result should feel like a collectible illustrated tourist map created by a talented travel illustrator.\n\nLandscape 4:3 composition, clean artistic layout, sophisticated yet playful, plenty of breathing space.\n\nAvoid photorealism, 3D effects, excessive decoration, crowded labels and inaccurate architecture.",
+      "author": {
+        "name": "simeon-sanai",
+        "handle": "Naiknelofar788",
+        "profile_url": "https://x.com/Naiknelofar788"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Naiknelofar788/status/2125072697982091620",
+      "image": "examples/illustration-3d/x-01580.webp"
+    },
+    {
+      "id": "x-01581",
+      "category": "Illustration & 3D",
+      "title": "Eastern Artifacts as Generative Forms",
+      "model": "GPT Image 2.6",
+      "prompt": "東方傳統器物 × Generative Form Design × 東方極簡。\n\n每張獨立隨機選擇一件東方傳統器物，器物種類、材質、年代、用途與文化來源自由變化。可從陶瓷、青銅、漆器、玉器、竹木器、金銀器、文房器、祭器、日用器、樂器或佩飾中自由抽取，避免集中在同一類器物。\n\n保留抽中器物的核心辨識特徵，從其輪廓、結構、紋樣或使用方式中提取獨特的形態生成規律，發展出具有內在秩序的全新視覺形態。\n\n每張獨立探索不同的生成方式，可表現為分裂、生長、堆疊、旋轉、展開、穿透、折疊、鏤空、流動、重組或拓撲式轉換，不要重複相同的變形機制。\n\n自由選擇色彩、材質、構圖、視角與藝術表現媒介，通過尺度反差、疏密節奏、虛實對比與結構張力，呈現強烈的視覺衝擊力、精密技術美感與東方極簡意境。\n\n三張作品在器物類型、生成機制、畫面構成與整體氣質上都應明顯不同。\n\n9:16直式獨立單圖，每張分別生成，不自動裁切。\n\n左下深藍色實心圓點，後接白色自然手寫體「DeepBlue」。\n\nn=9",
+      "author": {
+        "name": "DeepBlue深藍",
+        "handle": "DeepBlueX0",
+        "profile_url": "https://x.com/DeepBlueX0"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/DeepBlueX0/status/2125228695396766184",
+      "image": "examples/illustration-3d/x-01581.webp"
+    },
+    {
+      "id": "x-01582",
+      "category": "UI & Graphic",
+      "title": "White Field-Guide Chart of Bird Eggs",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的白底博物图鉴表，像科普海报或图鉴书里的一整页。底色是干净的纯白，没有纸纹、没有底纹、没有任何淡色水印图案。画面顶部居中是一行黑色粗体圆润的小写英文标题（文字由主体指定），标题下面留一点空。标题下方是整齐的网格：五行、每行四个，一共二十个同一类东西的标本插图（由主体决定），每一个都单独摆放、互不重叠，大小差不多，间距均匀，排得很满但不挤。每个标本都是写实的博物插画画法：细致的水彩加彩铅质感，结构准确，有清楚的纹理、斑点、条纹和颜色渐变，左上方来的柔和光让它们有体积感，正下方带一个很淡的灰色投影，像放在白纸上。二十个标本要各不相同，形状、大小、颜色和花纹都有变化，同一类里尽量排出深浅冷暖的节奏，但整体看起来是一套。标本下面一律不写名字、不配小字标签，网格里只有图没有字，也不要线框和格子线。画面右下角有一个小号黑色编号（文字由主体指定），清晰锐利。整张只有两处文字：顶部标题和右下编号，必须逐字照写、拼写正确、字母不多不少；不要拉丁学名、说明文字、页码、网址、署名、logo、品牌和水印。气氛干净、好认、像随手能存下来查的那种图。\n\nNew subject:\n【主体】顶部标题：「types of bird eggs」。右下编号：「No.01」。二十枚各不相同的鸟蛋：天蓝色、青绿色、奶白色、浅褐色、橄榄绿色，有的光滑、有的带深褐色斑点、有的布满细碎小点、有的带一圈不规则的深色花纹，大小从小鹌鹑蛋到大鸭蛋不等，有圆的也有尖一头的，全部侧放。全图只有这两处文字。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/static_stare/status/2125161133804015882",
+      "image": "examples/ui-graphic/x-01582.webp"
+    },
+    {
+      "id": "x-01583",
+      "category": "Illustration & 3D",
+      "title": "Sunny Snow Slope Fishing Village",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 9:16 的扁平精致风景插画，像一张做得很细的冬天海报或明信片，数字绘画，平涂色块加极细的描边和小细节，没有厚涂笔触，也不是照片或 3D。机位是从高处远远地往下看一片起伏的雪坡，俯视角度适中，景深一层一层往后推。画面上方约三分之一是晴朗的天空：上面是饱和干净的天蓝色，往下渐渐变浅成接近白色的淡蓝，天上横着几排蓬松的白色积云，云的底部带一点浅蓝灰阴影，一排比一排小，越往地平线越扁。画面下方三分之二是被厚雪盖住的缓坡，雪面是白色，背光的地方是浅浅的冰蓝和雾蓝，雪坡上用细线画出一道道小路、脚印和一截截木栅栏。坡上长满一棵棵披着白霜的落叶树，树冠是用很多细小的白色和浅蓝枝丫画出来的花边状轮廓，一丛一丛排成有节奏的树团，近处大、远处小。树之间散落着几座小房子和建筑（由主体决定），屋顶都压着厚雪，墙面是浅灰蓝、暖灰或木色，只有一两处是暖色点缀：砖红、赭黄或橘色的屋子和小窗。阳光是冬天上午的清亮阳光，从画面右上方照过来，雪面亮处几乎纯白，阴影是干净的蓝，没有暖黄色调。整体配色：天蓝、白、冰蓝、雾蓝为主，少量砖红、赭黄、木棕做点缀，冷色占绝对多数。人物和动物都很小，只是雪地上几个小点。气氛清冷、晴朗、安静，像大雪停了的第二天。画面里不要任何文字、标志、签名和水印。\n\nNew subject:\n【主体】雪坡一路往下延伸到画面下方一小片结了薄冰的深青色海湾，海湾边停着三条小木渔船，岸边一排砖红色和赭黄色的小渔屋，屋前晾着挂满雪的渔网架；坡顶有一座矮矮的白色灯塔。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/static_stare/status/2125199785145909730",
+      "image": "examples/illustration-3d/x-01583.webp"
+    },
+    {
+      "id": "x-01584",
+      "category": "Illustration & 3D",
+      "title": "Lazy Clay Seal Sunbathing",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 3:4 的手捏黏土小场景实拍照片，像桌面上捏好的一组软陶/超轻黏土小摆件，被放在一张暖米杏色的无缝背景纸前拍下来。所有东西都是手捏的：表面是哑光的，带着细小的指纹、压痕和不太规则的边，线条和花纹是用细黏土条贴上去或用工具压出来的，颜色是黏土本身的颜色，没有光泽漆面，也不是 3D 渲染。机位是平视略高、中近景，主体放在画面中下部，上方留出大片干净的米杏色背景。主角是一只简化的圆润小动物（由主体决定），身体是大块光滑的圆弧形，眼睛是两个小黑点，脸颊有两团淡粉色，表情放空、懒洋洋，整个身体瘫软地趴着或摊开，像完全不想动。主角周围散落三四个同样手捏的小道具（由主体决定），随手乱放，让画面像一个真实的、刚被瘫倒过的小角落。光是柔和的大面积窗光，从画面一侧照过来，物体底下有柔和的接触阴影，背景从亮到暗有很轻的渐变，浅景深，背景和最远处的小物件稍微虚掉。整体配色：暖米杏背景，主角是奶白或主体指定的柔和颜色，道具用低饱和的番茄红、芥末黄、雾蓝、草绿和淡粉点缀。气氛松弛、好笑、有点午后犯困。画面里不要任何可读文字、数字、logo、签名、水印和平台标识。\n\nNew subject:\n【主体】一只灰白色带浅灰斑点的小海豹，仰面摊在一块窄窄的手捏木纹窗台垫子上晒太阳，圆肚皮朝天，两只前鳍摊开，尾鳍翘着；一块亮亮的方形阳光斑落在它的肚子上；旁边散着一副小墨镜、一个喝空的小玻璃瓶（瓶身无字）和一条卷起来的条纹小毛巾。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/static_stare/status/2125131194853720297",
+      "image": "examples/illustration-3d/x-01584.webp"
+    },
+    {
+      "id": "x-01585",
+      "category": "Illustration & 3D",
+      "title": "Hedgehog Asleep Under a Patchwork Quilt",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 4:5 的老派儿童绘本插画，透明水彩打底，再用彩色铅笔细细地叠出毛发、木纹和布纹，像一页印在温暖米黄色水彩纸上的原画，纸面的粗颗粒和水彩晕开的边清楚可见，不是数字平涂，不是 3D，也不是照片。机位是近景、略微俯视，正对着一张小小的床（床的样子由主体决定），睡着的小动物占画面上半部分，下半部分几乎被一床大大的拼布被铺满：被子由许多小方块布拼成，每一块是不同的柔和颜色：珊瑚粉、奶油黄、雾蓝、薄荷绿、淡紫、杏橘，每块上面都有用彩铅点出来的小碎花、小格子或小点点花纹，方块之间有细细的缝线，被子边缘自然垂下、有柔软的褶皱。小动物闭着眼、表情安详满足，毛发用一根根细彩铅线画出，耳朵内侧透着淡粉色，胡须是极细的深色线。光是柔和均匀的暖光，像午后的室内，没有强烈投影，只在被子褶皱、枕头凹陷和小动物下巴底下有一点淡淡的暖棕色阴影。整体以暖赭石、蜂蜜黄、米白为底色，拼布的粉、蓝、绿、紫是点缀，饱和度都偏低、像晒旧了的颜色。背景就是空的米黄纸面，四周带一点更深的暖棕晕染。气氛安静、暖和，看一眼就想打哈欠。画面里不要任何文字、签名、印章和水印。\n\nNew subject:\n【主体】一只圆滚滚的小刺猬蜷在一只放倒的大号奶白色陶瓷茶杯里当床，杯沿就是床头，头枕着一块叠起来的小手帕，背上的刺是一根根浅棕色彩铅线，鼻尖露在外面；一小床拼布被从杯口铺出来，盖住它的身子，垂到画面底部。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/static_stare/status/2125087899591041227",
+      "image": "examples/illustration-3d/x-01585.webp"
+    },
+    {
+      "id": "x-01586",
+      "category": "Illustration & 3D",
+      "title": "One Glowing Tent on a Snowy Night",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张方幅 1:1 的数字绘本插画，带明显的颗粒噪点和干刷质感，像用带纹理的笔刷在粗纸上画出来，色块边缘有细碎的颗粒散开，不是光滑矢量，也不是照片。场景是深夜的雪地树林边，机位平视、中景，画面下方约三分之一是一道道柔和起伏的厚雪坡，从左到右缓缓隆起；后面和两侧立着几棵细高的深色树干，树干被画面上边缘裁掉，只看到树干和几根伸进画面的枝条，远处是更暗的树林剪影，糊成一片深蓝。全图唯一的光源是一处暖黄色的小光（由主体决定），它发出的光在周围形成一大团带颗粒的柔和光晕，像空气里飘着细雪和雾，被照亮的地方颗粒变成金色；光落在前面的雪坡上，在雪面上铺出一块蜂蜜黄到奶白的亮面，离光越远雪越快变成灰蓝、再沉进深蓝阴影里，树干朝光的一侧有一道细细的暖色边光。天空和背景是很深的墨蓝和靛蓝，带一层颗粒，夜空里和光晕里零星飘着几十颗小小的白色雪点，大小不一。整体配色：深墨蓝、靛蓝、灰蓝占大部分，暖黄、蜂蜜金、奶白只集中在光源和它照到的那一小片，冷暖对比强但不刺眼。没有人物，或者只有很小的、背对着的痕迹。气氛很静，像所有人都睡了，只剩这一处还亮着。画面里不要任何文字、标志、签名和水印。\n\nNew subject:\n【主体】雪坡上搭着一顶小小的三角帆布帐篷，帐篷里点着灯，整顶帐篷从里面透出暖黄色的光，帆布上隐约透出一个坐着的小人影；帐篷门帘卷起一角，门口雪地上插着一把小铲子，旁边一串脚印通向画面外。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/static_stare/status/2125228980681032024",
+      "image": "examples/illustration-3d/x-01586.webp"
+    },
+    {
+      "id": "x-01587",
+      "category": "Product & Brand",
+      "title": "Everyday Object in an Impossible Material",
+      "model": "GPT Image",
+      "prompt": "Create a square surreal macro studio photograph of ONE recognizable [EVERYDAY OBJECT] made entirely from [UNEXPECTED MATERIAL], paired with [CONTRADICTORY PHENOMENON]. Example: a transparent blue-ice matchstick with an orange flame above its frosted head. Preserve coherent geometry and detailed material cues. Matte charcoal surface, cold rim light, warm reflections and realistic contact shadows. No people, brands or headline. Small legible Ksa8Turky bottom right. Intentional impossible AI artwork.",
+      "author": {
+        "name": "‏Turky",
+        "handle": "ksa8Turky",
+        "profile_url": "https://x.com/ksa8Turky"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/ksa8Turky/status/2125349490970476560",
+      "image": "examples/product-brand/x-01587.webp"
+    },
+    {
+      "id": "x-01588",
+      "category": "Illustration & 3D",
+      "title": "Glass Jellyfish Clock Sculpture",
+      "model": "GPT Image 2.6 Flare",
+      "prompt": "一张严格九比十六竖版的超现实生物雕塑摄影。画面唯一主体是一件虚构的生命形态雕塑：外形如一只透明钵水母，伞状顶部却是一面微缩黄铜座钟表盘，表盘上没有数字刻度，只有两根纤细的黑色指针。水母的触手垂落向下，末端自然收束成一串黄铜钟摆链，链珠随悬垂角度自然下坠，不悬浮、不违反重力。\n\n雕塑整体以吹制玻璃为主体材质，玻璃通透带着淡淡的深海绿，内部隐约可见极细的气泡纹。钟面与钟摆链部分为抛光黄铜镶嵌，边缘有细腻的做旧痕迹，玻璃与黄铜的接缝处理得自然可信，没有生硬的拼接感。\n\n雕塑安放在一张深色丝绒展台上，展台边缘有细微压痕，背景是纯净的暗灰影棚色，没有任何道具或文字。主光源从左上方四十五度打来，在玻璃表面形成清晰的高光与内部折射光斑，黄铜部分吸收暖光，呈现温润的金色反射；展台表面留下柔和的接触阴影。\n\n整体配色以黄铜金与深海绿为主，辅以暗灰背景与极少量冷白高光，色彩干净、层次分明。雕塑表面材质真实可信，呈现摄影棚产品摄影般的精密质感，不做卡通化处理，不添加多余装饰。\n\n严格九比十六竖版单图。画面中不加任何文字、签名、水印或品牌标志。",
+      "author": {
+        "name": "Andy",
+        "handle": "Andy4aicreate",
+        "profile_url": "https://x.com/Andy4aicreate"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Andy4aicreate/status/2125383268895752541",
+      "image": "examples/illustration-3d/x-01588.webp"
+    },
+    {
+      "id": "x-01589",
+      "category": "Photography",
+      "title": "Golden Hour Portrait by a Hay Bale",
+      "model": "Nano Banana Pro",
+      "prompt": "A warm, ultra-realistic vertical portrait (9:16) of a young woman leaning back against a large round hay bale in a golden wheat field at late-afternoon golden hour. She is framed from the waist up in a relaxed, slightly angled pose, with her shoulder against the straw and her head tilted back and up. She gazes toward the camera with a soft, dreamy, sultry expression, with her lips slightly parted in a muted rose tone.\n\nSubject and styling: She has long, silky, chestnut-brown hair with warm caramel highlights, parted off-center and falling straight over her shoulders. A vintage-style dusty-pink bandana with a small floral print is tied in a bow at the top of her head like a headband. Her eyes are bright aqua-blue, with defined lashes, soft peach eyeshadow and shaped brows. Her skin is fair and glowing with a natural, sun-kissed flush, a dewy finish and a few tiny droplets of moisture on her shoulder and chest, as if from a light summer mist.\n\nWardrobe: A romantic, rustic off-the-shoulder cottagecore sundress in soft blush pink with a delicate blue-and-cream ditsy floral print, a sweetheart neckline, gathered puff sleeves with elasticated edges, a fitted bodice and a flowing, gathered skirt.\n\nSetting: An open countryside harvest field. The foreground and right of the frame are filled with the textured, golden strands of the hay bale, in extreme close detail. To the left, a sea of tall ripe wheat stretches into a softly blurred background, with a dark green tree line on the horizon and a pale, hazy peach sky. Another distant hay bale appears in soft bokeh.\n\nLighting: Warm, low golden-hour sunlight from the side and slightly behind, creating a soft glow on her skin, rim light along her hair and shoulder, and glowing highlights in the straw. Gentle, flattering shadows with a hazy, nostalgic atmosphere. Palette: honey gold, wheat yellow, dusty rose, chestnut brown and soft sage green, with a cool aqua accent in the eyes.\n\nCamera and style: Shot on a full-frame camera with an 85mm lens at f/1.8, with a shallow depth of field, a sharp face and shoulder, and creamy background and foreground blur. Warm film-like color grading, fine grain, soft bloom, rich natural skin texture. Style: rustic countryside editorial, cottagecore, nostalgic harvest-season romance, dreamy and warm. 8K, highly detailed, photorealistic.",
+      "author": {
+        "name": "Nouraya AI",
+        "handle": "xnouraya",
+        "profile_url": "https://x.com/xnouraya"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/xnouraya/status/2125216502999904585",
+      "image": "examples/photography/x-01589.webp"
+    },
+    {
+      "id": "x-01590",
+      "category": "Photography",
+      "title": "Pixie Cut Studio Portrait",
+      "model": "Nano Banana 2",
+      "prompt": "Ultra-realistic portrait of a young woman, short dark brown pixie haircut with soft side-swept bangs partially covering the forehead, natural olive skin, defined jawline, small beauty mark near the lips, subtle winged eyeliner, soft nude lips, elegant facial features, looking slightly downward with a calm and thoughtful expression.\n\nWearing a black fitted spaghetti-strap top and a black leather choker with a small heart pendant, small gold hoop earrings. No headband, no hair accessories.\n\nWarm cinematic studio lighting, soft shadows, smooth green-gray background, shallow depth of field, highly detailed skin texture, photorealistic, professional fashion photography, 85mm lens, ultra sharp focus, realistic eyes, natural skin pores, high-end editorial portrait, 8k quality.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2125182660406550918",
+      "image": "examples/photography/x-01590.webp"
+    },
+    {
+      "id": "x-01591",
+      "category": "Photography",
+      "title": "Under the Clear Umbrella Flash Snapshot",
+      "model": "GPT Image 2.6",
+      "prompt": "9:16, an adult Korean-style beauty with a cool, sweet look, wearing a fitted white knit top and a black miniskirt, a rainy summer night in the city, 28mm ultra-wide angle, an extremely close-up couple’s-eye view, 2000s CCD direct flash.\n\nThe camera is positioned beneath a clear umbrella, with the foreground filled by the transparent plastic canopy, raindrops, and curved metal ribs.\n\nThe person was originally standing outside the umbrella, then suddenly bent down and ducked underneath to escape the rain, pressing their face right up against the lens.\n\nBecause of the extremely close distance, their face is naturally enlarged by the wide-angle lens, with one cheek almost touching the edge of the frame.\n\nOne hand grips the umbrella handle, while the other gently brushes aside rain-soaked bangs.\n\nThe person wears a slightly hurt, helpless expression, with lips slightly pursed and eyes looking straight into the lens.\n\nCountless water droplets on the clear umbrella form a dense foreground, with the person’s face clearly visible through the gaps between the raindrops.\n\nThe background features wet city streets, neon signs, car lights, and blurred streaks of rain.\n\nA palette of cool blue, deep black, and warm orange, with the CCD direct flash freezing the raindrops, natural facial highlights coexisting with localized overexposure.\n\nAn extremely close distance, a strong sense of visual enclosure, an imperfect candid shot, with the intimacy of a real couple sharing an umbrella.\n\nOne person in frame, an adult, with a tiny artistic handwritten “ChenLin” in the bottom-right corner.\n\nn=5",
+      "author": {
+        "name": "Chandra",
+        "handle": "chandrapie",
+        "profile_url": "https://x.com/chandrapie"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/chandrapie/status/2125116002061193365",
+      "image": "examples/photography/x-01591.webp"
+    },
+    {
+      "id": "x-01592",
+      "category": "Illustration & 3D",
+      "title": "Alpaca Crowned with Wildflowers",
+      "model": "Unknown",
+      "prompt": "An adorable young alpaca standing in a sunlit meadow after a rather enthusiastic encounter with a patch of wildflowers, its wonderfully fluffy head now decorated with an outrageous collection of colorful blossoms tangled in its wool. Bright cornflowers, pink cosmos, golden buttercups, and a single enormous purple dahlia stick out at wonderfully awkward angles, while the alpaca gazes straight ahead with a delightfully innocent expression, completely unaware of its spectacular new hairstyle. Its long eyelashes, slightly crooked ears, and soft curls give it an irresistibly endearing personality. Behind it, rolling green hills and a rustic wooden fence fade into the gentle afternoon sunshine. Charming watercolor and colored pencil illustration with delicate ink accents, vibrant floral colors against soft creamy wool, beautifully textured paper, expressive animal portrait, playful natural humor, warm and joyful countryside atmosphere, full of personality and delightful detail",
+      "author": {
+        "name": "Beanie Blossom",
+        "handle": "BeanieBlossom",
+        "profile_url": "https://x.com/BeanieBlossom"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/BeanieBlossom/status/2124851469019144342",
+      "image": "examples/illustration-3d/x-01592.webp"
+    },
+    {
+      "id": "x-01593",
+      "category": "Illustration & 3D",
+      "title": "Raven Holding a Glowing Star",
+      "model": "Midjourney",
+      "prompt": "A digital painting of a raven in profile, facing left, set against a twilight sky with soft deep indigo and magenta hues. The raven has dark, iridescent feathers with highlights of blue light reflecting off its plumage. It holds a glowing, five-pointed star by a thin string in its beak. The star emits a bright, warm light that illuminates the bird's chest and beak. The background features a starry night sky, creating a mystical and ethereal atmosphere. --ar 3:2 --raw --sref 1797736231 4192983240 --stylize 300 --hd",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/heathergreen/status/2125243046078136352",
+      "image": "examples/illustration-3d/x-01593.webp"
+    },
+    {
+      "id": "x-01594",
+      "category": "Illustration & 3D",
+      "title": "Gold-Edged Peach Rose with Ladybug",
+      "model": "Midjourney",
+      "prompt": "An elegant peach rose edged with delicate gold leaf, a tiny ladybug perched on one velvety petal, rendered as a refined fantasy illustration. Luminous dewdrops, glossy petal surfaces, and glowing sparkling particles shimmer in the air; whimsical enchanted nature, intricate botanical detail, soft golden rim light, dreamy pastel palette, graceful close-up composition. --ar 4:5 --raw --sref 641174673 1673404755 2850100206 --stylize 300 --hd",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/heathergreen/status/2125363850060951662",
+      "image": "examples/illustration-3d/x-01594.webp"
+    },
+    {
+      "id": "x-01595",
+      "category": "Illustration & 3D",
+      "title": "Paper Relief Humpback Whale",
+      "model": "Nano Banana 2.1",
+      "prompt": "A textured, relief-style illustration depicting a humpback whale breaching from stylized, swirling ocean waves. The whale is composed of layered, mosaic-like blue and cream-colored paper or clay segments, giving it a three-dimensional, tactile appearance. The waves below are rendered in thick, impasto-style strokes of white and deep blue, creating a sense of dynamic motion and foam.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/heathergreen/status/2125212858132615239",
+      "image": "examples/illustration-3d/x-01595.webp"
+    },
+    {
+      "id": "x-01596",
+      "category": "Product & Brand",
+      "title": "Spliced Silkscreen Product Art",
+      "model": "MiniMax H3 Image",
+      "prompt": "[SUBJECT] manifested through a spliced silkscreen combine, where a vintage archival photograph is screen-printed in two flat overprinted inks, sliced into offset vertical strips that swap which ink carries the shadows, and dissolves along one edge into a grid of square canvas panels loaded with gestural abstract-expressionist brushwork that echoes the subject's contours. Employ [COLOR1] and [COLOR2] to split the subject into alternating tonal halves that trade places strip by strip.",
+      "author": {
+        "name": "Myron AI artist",
+        "handle": "seirdotmk",
+        "profile_url": "https://x.com/seirdotmk"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/seirdotmk/status/2124941050326499351",
+      "image": "examples/product-brand/x-01596.webp"
+    },
+    {
+      "id": "x-01597",
+      "category": "Product & Brand",
+      "title": "Velocity Smear Product Sculpture",
+      "model": "MiniMax H3 Image",
+      "prompt": "[SUBJECT] manifested through a velocity smear, where the front of the product is sculpted in smooth matte clay while its rear half tears backward into windswept ribbons of glossy black paint and shards of metallic leaf, as if the object is being stripped apart by its own speed. Employ [COLOR1] and [COLOR2] to separate the calm sculpted face from the metallic fragments tracing the direction of motion.",
+      "author": {
+        "name": "Myron AI artist",
+        "handle": "seirdotmk",
+        "profile_url": "https://x.com/seirdotmk"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/seirdotmk/status/2125122247815786746",
+      "image": "examples/product-brand/x-01597.webp"
+    },
+    {
+      "id": "x-01598",
+      "category": "Product & Brand",
+      "title": "Telephoto Candid Product Street Shot",
+      "model": "MiniMax H3 Image",
+      "prompt": "[SUBJECT] manifested through a telephoto candid, where the product is carried through a crowded city crosswalk at golden hour by a walker in a monochrome outfit, and a long lens compresses the rush-hour crowd into soft blur so that only the walker and the product stay sharp, like an unplanned street-style shot on 35mm film. Employ [COLOR1] and [COLOR2] to keep the outfit quiet and let the product echo one distant street accent.",
+      "author": {
+        "name": "Myron AI artist",
+        "handle": "seirdotmk",
+        "profile_url": "https://x.com/seirdotmk"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/seirdotmk/status/2125318285260644519",
+      "image": "examples/product-brand/x-01598.webp"
+    },
+    {
+      "id": "x-01599",
+      "category": "Photography",
+      "title": "European Street Menswear Portrait",
+      "model": "Nano Banana 2.1",
+      "prompt": "A medium-scale, centered portrait captures a young adult male with golden tan skin (#C8845A) and a chiseled jawline standing on an outdoor European residential street, facing the camera with a slight angle and relaxed shoulders tilted slightly down on the left. His ash blonde brown (#6E563B) hair is styled in a middle-parted curtain flow cut, cropped near the upper ears with 3-4 inch wavy top layers swept back, showing natural strand separation, matte finish, golden highlights, and slight crown flyaways. He wears a posed, confident expression with neutral relaxed closed lips, slightly furrowed eyebrows, and a direct intense gaze squinting slightly against the sun. He is dressed in an oversized periwinkle ice blue (#B5C2D8) and white vertical striped button-down cotton shirt featuring a subtle bold sans-serif embroidered brand logo below the left chest pocket, while his relaxed left hand, adorned with a silver link chain bracelet, rests at bottom center with fingers gently curled around the bridge and lens rim of black-framed oval sunglasses at waist level. Behind him in the midground sits a vintage pristine boxy Land Cruiser-style SUV with glossy olive-brown paint, dark tinted windows, and a chrome front grille edge, alongside a pristine black Audi sedan with its four-ring grille emblem at middle right and a thriving deciduous tree branch with shadowed dark green leaves in the top left corner. The deep background features aged residential multi-story apartment buildings with matte rough pebbled stucco plaster over masonry—warm cream beige on the left and warm terracotta blush (#C5A898) on the right—detailed with recessed multi-pane white casement windows, white muntin bars, a bay window overhang, and a dark vertical downspout pipe. A single low-angle natural golden hour sun source from a 45-degree side angle at camera left casts bright, hard, highly directional light and high-contrast deep black (#2A261B) long shadows with harsh defined edges across his left eye socket, right cheek, under the chin, and right chest, balanced by warm ambient bounce off the facades and preserved highlights along his forehead, nose bridge, right cheekbone, hair waves, and right shoulder. Shot straight-on as a tack-sharp digital photograph using a 35mm or 50mm lens at f/4.0, 1/1000s, and ISO 100 with a medium depth of field, European summer menswear editorial aesthetics, warm color grading, crushed shadow blacks, and subtle skin highlight roll-off, framed in a 3:4 vertical portrait aspect ratio.",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "profile_url": "https://x.com/pictsbyai"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/pictsbyai/status/2125141872859631950",
+      "image": "examples/photography/x-01599.webp"
+    },
+    {
+      "id": "x-01600",
+      "category": "Photography",
+      "title": "Street Fashion Portrait in an Arab City",
+      "model": "Nano Banana 2.1",
+      "prompt": "Create an ultra-photorealistic professional street-fashion photograph of a young adult Arab woman standing naturally on a lively modern Arab city street.\n\nA young woman with naturally beautiful Arab facial features, fair natural skin, expressive brown eyes, and long, wavy dark-brown hair falling over her shoulders. She wears a simple white headscarf, with a calm expression and a subtle natural smile, looking toward the camera.\n\nShe wears an elegant oversized taupe-beige double-breasted trench coat with wide classic lapels, structured shoulders, and visible buttons. Underneath, a thick white ribbed turtleneck sweater. A black backpack strap rests naturally over one shoulder.\n\nShe stands comfortably with a relaxed posture, holding a white takeaway coffee cup with a lid in one hand while her other hand rests inside her coat pocket.\n\nThe setting is a lively contemporary Arab city street featuring modern Arabic-inspired architecture, authentic local storefronts, urban buildings, and naturally moving pedestrians in the background, creating a believable everyday urban atmosphere.\n\nVertical 9:16 composition, medium-length portrait framed from mid-thigh upward, front-facing eye-level camera angle, centrally positioned subject, natural perspective, and professional editorial street-fashion photography.\n\nSoft natural daylight, realistic skin pores, intricate facial details, individually defined hair strands, authentic fabric textures, natural clothing folds, physically accurate shadows, shallow depth of field, and beautifully controlled optical background blur.\n\nApply seven essential photorealism principles: professional full-frame camera aesthetics, authentic 85mm lens perspective, lifelike skin texture, precise material details, realistic urban atmosphere, natural optical bokeh, and physically accurate lighting.\n\nOptimize specifically for Nano Banana 2.1, prioritizing exceptional micro-details, authentic colors, accurate anatomy, natural proportions, and cinematic photographic realism.\n\nThe final image must be indistinguishable from genuine professional photography, with premium fashion editorial quality.\n\nNo CGI appearance, no artificial skin, no excessive beauty retouching, no distorted anatomy, no extra fingers, no artificial lighting effects, no text, no logos, and no watermarks.",
+      "author": {
+        "name": "FAEIZ",
+        "handle": "Faeiz4Ai",
+        "profile_url": "https://x.com/Faeiz4Ai"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Faeiz4Ai/status/2125124006202200455",
+      "image": "examples/photography/x-01600.webp"
+    },
+    {
+      "id": "x-01601",
+      "category": "Photography",
+      "title": "Morning Badminton Court Snapshot",
+      "model": "Unknown",
+      "prompt": "生成一张原生 3:4 竖幅的清晨生活写真，拍下社区球场休息时的一个瞬间。唯一人物是一位虚构的 19 岁成年东亚女性。她脸颊饱满，短圆脸带小圆下巴，浓而平直的短眉，清亮的圆眼外眼角微垂，鼻梁短、鼻翼稍宽，唇角在浅笑时一点点上扬，玫瑰棕下唇圆润。乌黑卷发扎成左右两束贴颈的短小低马尾，几绺小卷留在额侧，薄珊瑚妆带自然运动后的微红，保留鼻脸的肤纹。\n\n她坐在清晨户外羽毛球场的深绿长凳上，身体略向前。一枚刚捡回的白羽毛球静静竖在她摊开的近侧手掌上，球托朝下，羽裙轮廓整齐，离脸和衣料都有空隙。另一只手落在身旁凳面，手指自然展开。她把目光从手心抬到球网另一边的朋友，笑眼里有一点等对方发球的着急。背景只有低处掠过的网影及干净的哑橘塑胶地。\n\n穿罗勒绿薄棉弹力插肩运动衫，浅圆领，奶白短插肩袖在上臂中段收边，衣摆轻叠在高腰的麦芽黄防皱棉短裤上。短裤宽腿，裤口自然翻折。颈前、袖下双臂以及坐姿时的膝上腿部清楚可见。早晨清亮的白羽是脸之后最醒目的小点，罗勒绿衣身和哑橘球场做清爽对色。\n\n用 58mm 站在凳边略俯拍，从完整发顶到膝下，人物略偏画面左边，手心羽毛球留在右侧空区。散着的晨光从侧前方照亮眼睛、眉骨和鼻尖，另一侧由球场浅线反光补亮。远处网线虚化留低，脸后空出一整块背景。真实胶片式街拍，颜色鲜明但光不过硬。\n\n避免年龄感模糊、油蜡肤质、五官错位、多肢多指、托球手与羽片粘合、羽毛球复制、球网压在脸上、鞋腿穿过长凳、透光衣料、可读字、标签、水印和拼图。",
+      "author": {
+        "name": "星光物语",
+        "handle": "StarStoryX",
+        "profile_url": "https://x.com/StarStoryX"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/StarStoryX/status/2125200598572130416",
+      "image": "examples/photography/x-01601.webp"
+    },
+    {
+      "id": "x-01602",
+      "category": "Photography",
+      "title": "Testing a Bicycle Bell on the Street",
+      "model": "Unknown",
+      "prompt": "生成一张原生 3:4 竖幅的日常抓拍。午后社区自行车修理摊，一位虚构的 20 岁成年东亚女性在试一只刚换好的老式铜车铃。她是鹅蛋形短圆脸，苹果肌浅浅鼓起，浅栗细弧眉，圆而清亮的深棕眼在笑时略眯，短直鼻梁接圆鼻尖，蜜桃色饱满唇的下唇更圆。蜂蜜栗色长发松松地铺在肩后，中分，一侧别耳，发尾是自然的大卷。奶杏薄妆，颊侧保留自然肤纹。\n\n她站在一辆砖橘色通勤自行车旁，一手松握奶白车把的近侧胶套，拇指已经让开小铜铃的拨片，另一手在身侧垂着。试响过后她立刻抬脸，对着蹲在对面修车的人笑起来，嘴唇轻张，像在说这下整条街都听得见。车把走在画面下角，铜铃是拇指外侧一枚完整的拱圆件，车架的砖橘色从下方露出一小段。\n\n穿海盐青细格纹薄棉上衣，方领、短盖袖，后背有省线，衣摆落在米白直筒亚麻裙的高腰上。方领内的锁骨和两侧盖袖以下的手臂清楚可见。风把近侧盖袖吹得轻轻拱起，细格纹在软褶间仍然自然，砖橘车架是冷青与米白之外的一小块暖色。\n\n用 55mm，从车把前方偏正面、比站姿眼线高一小截的位置拍，取完整发顶至腰下，双眼、握把手和铜铃清楚，车架只交代用途。背景是低对比的淡灰卷闸门和旁边一列模糊的深绿工具板。街对面的浅墙把午后光柔柔反给她，脸颊、眼皮和鼻尖有自然的亮度梯度。抓拍的感觉来自按过铃后那一下忍不住的笑。\n\n避免年龄感模糊、五官错位、过度磨皮、多手多指、手与车把黏合、铜铃变形或复制、工具纹理叠到脸上、衣料透光、商标、文字、水印和拼图。",
+      "author": {
+        "name": "星光物语",
+        "handle": "StarStoryX",
+        "profile_url": "https://x.com/StarStoryX"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/StarStoryX/status/2125143310587081208",
+      "image": "examples/photography/x-01602.webp"
+    },
+    {
+      "id": "x-01603",
+      "category": "Video",
+      "title": "Open-World Getaway Drive Gameplay",
+      "model": "Seedance 2.5",
+      "prompt": "Photorealistic next-gen open-world crime game gameplay, 30 seconds, recorded from a console. 16:9, 60fps, slight capture compression, natural motion blur, subtle film grain, soft bloom on bright lights. Third-person over-the-shoulder driving camera with light handheld sway. Game-style HUD, generic and unbranded.\n\nSetting: A fictional sun-bleached subtropical coastal city. Art Deco hotels, pastel stucco, neon-lit strip malls, palm boulevards, a busy marina with yachts, humid air, a long bridge over the bay. Golden hour fading to neon dusk. Dense ambient life: joggers, tourists, scooters, street vendors, seagulls, distant helicopters.\n\nCharacters (original):\n\n• Driver, \"Marisol\": woman in her late 20s, tanned, dark braided ponytail, cropped denim jacket, gold hoop earrings, aviators pushed up on her head.\n• Passenger, \"Dex\": man in his early 30s, buzzed hair, faded floral shirt, a duffel bag on his lap, sweating nervously.\n• Vehicle: sun-faded teal two-door muscle coupe with a dented fender and a cracked dashboard.\n\nShot-by-shot\n\n1. 0:00-0:04, Idle. Low rear camera behind the coupe at a red light. Heat shimmer, pedestrians crossing, a scooter buzzing past, palm shadows stretching across the road. Cabin view: Marisol taps the wheel to the radio.\n   ◦ Dex: \"Light's green, light's green, go, go!\"\n   ◦ Marisol: \"Relax. Nobody's watching.\"\n2. 0:04-0:08, Launch. She floors it. Rear tires smoke, the camera snaps back with the acceleration, and a plastic bag and palm fronds whip past. A cruiser exits an alley, lights flashing red and blue across pastel storefronts. HUD: one wanted star flashes.\n   ◦ Dex: \"Nobody's watching, huh?\"\n3. 0:08-0:12, Weave. Chase camera pulls up and back. The coupe slides between a delivery van and a taxi and clips a trash can that scatters across the road. Pedestrians dive aside, with suspension bounce and mirror reflections. Two stars.\n   ◦ Marisol: \"Hold the bag!\"\n4. 0:12-0:16, Drift. Handbrake turn around a corner, tire smoke glowing orange in the sunset, sparks from the undercarriage, a short camera shake. A second cruiser joins from the side street.\n   ◦ Radio (police): \"All units, teal coupe, heading for the bay bridge.\"\n5. 0:16-0:20, Neon dusk. The car runs through a sprinkler spray and neon signs flicker on in pink and cyan, reflected on the wet asphalt. Water beads on the lens. Three stars. Dex rolls down the window and laughs nervously.\n   ◦ Dex: \"I can't believe this is working!\"\n6. 0:20-0:25, Bridge. The camera rises to a cinematic wide angle as the coupe hits the bridge. Skyline glowing, bay glittering, cruiser lights trailing, a helicopter spotlight sweeping the road, sun touching the horizon with lens bloom and volumetric haze.\n   ◦ Marisol (calm): \"It's not working yet.\"\n7. 0:25-0:30, Finish. Street level again. She brakes hard and skids to a stop outside a beachside motel with a flickering generic \"VACANCY\" sign, sand puffing around the tires. Engine ticks, sirens close in, and the HUD pulses red.\n   ◦ Dex: \"...Now what?\"\n   ◦ Marisol: \"Now we run.\"\n   ◦ Cut to black.\n\nMusic and audio\n\n• Radio: original synth-wave with a driving bassline, 100-110 BPM, slightly muffled like a car speaker. It fades low during dialogue and opens up when the camera goes wide on the bridge.\n• Sound design: rumbling V8 exhaust, tire squeal and skid, sirens rising from distant to close, helicopter rotor thump, crowd shouts, seagulls, ocean wind on the bridge, engine ticking at the end.\n• Dialogue: natural, slightly overlapping, with a faint vocal reverb inside the car.\n\nHUD (generic): minimap top right with a flashing red police radius, three wanted stars below it, a speedometer bottom left, and a subtitle line at the bottom center that mirrors the spoken dialogue.\n\nLighting: warm golden hour at the start, magenta and cyan neon by the end. Soft volumetric haze, accurate reflections on car paint and wet roads, shadows that lengthen as the sun drops.\n\nNegative prompt: cartoon, anime, low-poly, cutscene look, real brand names or logos, watermark, morphing faces, extra wheels, warped text, floating objects, jittery hands, unnatural physics, oversaturated colors, black bars.",
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis",
+        "profile_url": "https://x.com/harboriis"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/harboriis/status/2125144866783105509",
+      "image": "examples/video/x-01603.webp"
+    },
+    {
+      "id": "x-01604",
+      "category": "Video",
+      "title": "Gorilla and Anteaters Vacuum Cleanup Comedy",
+      "model": "Seedance 2.5",
+      "prompt": "THE GREAT VACUUM CLEANUP\nDuration: 25 seconds\nAspect Ratio: 16:9\nStyle: High-end Pixar-inspired 3D animated comedy, cinematic commercial quality, ultra-detailed fur, expressive characters, realistic environmental physics.\nCHARACTER CONSISTENCY\nBig G: A gigantic, friendly, muscular silverback gorilla with dark charcoal fur, a broad chest, expressive eyes, and a small red utility vest. Strong but goofy personality.\n\nFluffy Anteater Team: Three adorable, fluffy anteaters with oversized bushy tails, elongated snouts, tiny paws, and expressive eyes. Each wears a tiny colorful cleaning backpack connected to a miniature vacuum hose.\nSCENE 1 — THE SUCTION PORTAL (0–4 SEC)\nExtreme macro cinematic shot of a vacuum cleaner nozzle sucking up dust, cereal pieces, cookie crumbs, and floating pet hair from a living room carpet.\n\nThe camera suddenly accelerates forward, following the debris directly into the vacuum nozzle. It travels through a dark, twisting suction tunnel filled with swirling particles, creating an exhilarating first-person journey.\nA bright opening appears ahead.\n\nSCENE 2 — THE HIDDEN WORLD (4–8 SEC)\n\nThe camera bursts into an enormous, fantastical world hidden inside the vacuum cleaner.\n\nReveal a gigantic dusty landscape filled with mountains of crumbs, enormous cereal pieces, tangled pet hair, and floating dust clouds.\nThree fluffy anteaters are struggling to clean the enormous mess with their miniature vacuum backpacks.\n\nSuddenly, Big G, a massive silverback gorilla, enters the frame carrying an oversized industrial suction hose.\n\nHe gives the anteaters a confident thumbs-up.\n\nSCENE 3 — THE CLEANING MISSION (8–17 SEC)\n\nFast-paced cinematic action montage.\n\nThe fluffy anteaters activate their suction backpacks, using their long snouts to vacuum up tiny dust particles and crumbs.\nBig G swings his enormous vacuum hose across the landscape, sucking up gigantic cereal chunks and tangled pet hair.\n\nOne anteater gets dragged forward by the suction force, spinning comically before another anteater grabs its tail and saves it.\n\nBig G proudly sucks up an entire mountain of dust in one powerful burst.\n\nDynamic tracking shots, dramatic low angles, energetic camera movement, exaggerated cartoon physics, flying debris, and perfectly timed comedy.\n\nSCENE 4 — THE WARNING (17–21 SEC)\n\nThe cleaning mission appears successful.\n\nThe camera slowly pushes toward the vacuum's enormous dust bag, now swelling dangerously with collected debris.\nBig G notices the bag expanding. His confident smile disappears.\n\nOne fluffy anteater points toward the bag with a terrified expression.\n\nA tiny red warning light flashes.\n\nThe dust bag begins shaking violently.\n\nSCENE 5 — THE EXPLOSION (21–25 SEC)\n\nBOOOOOOM!\n\nThe dust bag explodes in an enormous cloud of dust, cereal, crumbs, and pet hair.\nBig G and all three anteaters are completely covered in dust.\n\nA brief silence.\n\nBig G slowly blinks, looks at the camera, and sneezes.\n\nA gigantic cloud of dust bursts from his nose, sending the anteaters flying backward.\n\nEnd on a hilarious freeze-frame of their shocked, dust-covered faces.\n\nVISUAL AND AUDIO DIRECTION\n\nHigh-quality cinematic 3D animation with detailed fluffy fur.\n\nExpressive facial animation and exaggerated body language.\nRealistic volumetric dust, particle simulations, and suction physics.\nSmooth transitions and continuous camera movement.\nEnergetic orchestral comedy soundtrack.\nLayered vacuum suction sounds, whooshes, character reactions, warning beeps, and an exaggerated explosion sound.\nStrong comedic sound-effect timing.\nMaintain identical character appearance, clothing, proportions, and colors throughout all scenes.\nIMPORTANT: No character redesigns, no sudden location changes, no additional characters, no subtitles, no random text, and no scene interruptions. The ending must be visually funny and perfectly timed.",
+      "author": {
+        "name": "Shahid Wani",
+        "handle": "meng_dagg695",
+        "profile_url": "https://x.com/meng_dagg695"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/meng_dagg695/status/2125229436937363834",
+      "image": "examples/video/x-01604.webp"
+    },
+    {
+      "id": "x-01605",
+      "category": "Video",
+      "title": "Driving Sim Livestream Gone Wrong",
+      "model": "Seedance 2.0",
+      "prompt": "Create a 30-second ultra-realistic PC gaming livestream video featuring a high-quality open-world car driving simulator game. The entire video must look like a real PC gaming screen recording in 16:9 landscape aspect ratio, with gameplay occupying approximately 85–90% of the full screen and a small rectangular facecam overlay fixed on the right side showing two young adult women sitting together in a gaming setup, playing the game and reacting naturally. The gameplay must remain the main focus at all times. Start with a beautiful modern sports car parked on a wide city street, using a third-person camera positioned behind the vehicle, showing realistic buildings, roads, traffic lights, pedestrians and other vehicles. The female game character starts driving and accelerates through the city streets, with realistic steering, smooth vehicle physics, moving traffic, road markings and detailed city environments. The car makes a sharp turn at an intersection, begins drifting slightly and almost loses control, with realistic tire movement, road friction and camera motion. Continue the gameplay without interruption while both girls remain visible in the small facecam overlay on the right, reacting excitedly, with one girl looking surprised and the other laughing while watching the screen. The sports car then enters a busy outdoor shopping market street featuring colorful shops, fruit and vegetable stalls, market decorations, pedestrians and narrow roads. The driver struggles to control the speeding car, suddenly loses control and crashes into a fruit and vegetable market stall. Fruits, vegetables and lightweight market objects scatter realistically, and the car stops near the stall. In the facecam overlay, both girls react with shocked and funny expressions, laughing at the unexpected crash. End with a cinematic gaming crash moment. Use realistic high-end open-world driving game graphics, consistent sports car, driver and environment throughout, smooth continuous gameplay camera, realistic vehicle physics and collision effects, natural facial expressions and reactions, detailed textures, realistic lighting and shadows. No real-world camera shots outside the gaming screen, no unnecessary transitions or unrelated scenes, no distorted vehicles, faces, hands or objects, no random UI changes, no flickering and no visual glitches. The final result must look like an authentic PC gaming livestream recording, not a cinematic movie about people playing a game. The gameplay must always remain full-screen and clearly visible, with the two girls appearing only inside the small facecam overlay on the right side.",
+      "author": {
+        "name": "Ayat",
+        "handle": "aiwithaayat",
+        "profile_url": "https://x.com/aiwithaayat"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/aiwithaayat/status/2125102092973179367",
+      "image": "examples/video/x-01605.webp"
+    },
+    {
+      "id": "x-01606",
+      "category": "Video",
+      "title": "English Village Travel Vlog",
+      "model": "Seedance 2.0",
+      "prompt": "Create a 30-second ultra-realistic cinematic travel vlog featuring a beautiful young East Asian woman with long, straight dark brown hair, wearing a cream knitted sweater, blue jeans, white sneakers, and a black backpack.\n\nScene 1 (0–5 seconds):\nShe walks through a charming English village street, holding the camera in selfie mode. Beautiful historic white cottages, traditional shops, pedestrians, and a classic red double-decker bus are visible in the background. She smiles and enthusiastically introduces the location.\n\nScene 2 (5–9 seconds):\nShe explores a peaceful tree-lined walking path, turning toward the camera with a natural smile. Show lush green trees, soft daylight, and beautiful countryside atmosphere.\n\nScene 3 (9–15 seconds):\nShe discovers a traditional outdoor British street food stall decorated with warm hanging lights. She interacts with the friendly male vendor, receives a freshly prepared golden crispy snack, takes a bite, and reacts happily.\n\nScene 4 (15–20 seconds):\nShow her enjoying the food in a close-up selfie shot, followed by a breathtaking panoramic view of a picturesque English village surrounded by rolling green hills.\n\nScene 5 (20–25 seconds):\nLight rain begins falling. She opens a transparent umbrella, smiles at the camera, and walks along a beautiful wet village street reflecting warm lights.\n\nScene 6 (25–30 seconds):\nShe arrives at a cozy English countryside home, opens the front door, walks inside, and finishes the vlog with a cheerful selfie shot in a warmly lit living room.\n\nVisual Style:\nUltra-photorealistic 4K video, natural human facial expressions, realistic skin texture, authentic handheld selfie-camera movement, smooth cinematic transitions, beautiful natural lighting, realistic rain physics, detailed environments, natural body movements, consistent character appearance, authentic travel-vlogger energy.\n\nImportant Instructions:\nMaintain exactly the same woman's face, hairstyle, clothing, and backpack throughout all scenes. No face changes, no distorted hands, no extra fingers, no duplicate people, no unnatural movements, no flickering, and no random scene changes. Keep the video visually consistent and realistic.",
+      "author": {
+        "name": "liana",
+        "handle": "Lianaalane",
+        "profile_url": "https://x.com/Lianaalane"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Lianaalane/status/2125089432965632262",
+      "image": "examples/video/x-01606.webp"
+    },
+    {
+      "id": "x-01607",
+      "category": "Video",
+      "title": "Giant Golden Eagle Through Storm Clouds",
+      "model": "Seedance 2.0",
+      "prompt": "A breathtaking cinematic fantasy scene featuring a gigantic majestic golden eagle flying through a mysterious sky filled with massive dark storm clouds. The eagle has enormous powerful wings, beautifully detailed golden-brown feathers, sharp eyes, and an impressive wingspan. As it emerges from the dark clouds, warm golden sunlight illuminates its feathers. The camera follows the eagle from behind as it spreads its wings and glides gracefully above a vast green landscape. Lightning flashes in the distant clouds, creating a dramatic atmosphere. Spectacular aerial shots, realistic feather movements, volumetric clouds, cinematic lighting, smooth camera tracking, photorealistic CGI, epic fantasy atmosphere, 4K movie quality.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/draavenai/status/2125228862774669606",
+      "image": "examples/video/x-01607.webp"
+    },
+    {
+      "id": "x-01608",
+      "category": "Video",
+      "title": "Subway Station Fight Scene",
+      "model": "Seedance 2.0",
+      "prompt": "A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.",
+      "author": {
+        "name": "ZDuo.MoreAi",
+        "handle": "ZDuo_MoreAi",
+        "profile_url": "https://x.com/ZDuo_MoreAi"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/ZDuo_MoreAi/status/2125388245756526610",
+      "image": "examples/video/x-01608.webp"
+    },
+    {
+      "id": "x-01609",
+      "category": "Video",
+      "title": "Birthday Night Working Overtime",
+      "model": "Seedance 2.0",
+      "prompt": "正向提示词：竖屏9:16，15秒写实纪实短片，东亚年轻漂亮女生，自然素颜真实肤质，深夜独居出租屋，暖黄昏暗室内灯光，窗外城市万家灯火，疲惫下班拎着精致小生日蛋糕回家，进门带着微弱期待感，拿起手机看到加班弹窗消息，表情瞬间从温柔期待变为落寞疲惫，笑容瞬间消失，眼神空洞无奈，情绪极致反差，桌上孤零零的生日蛋糕和刺眼发光的电脑屏幕形成冷暖强烈对比，镜头特写脸部微表情，轻微真实手持抖动，低饱和电影纪实质感，细腻治愈致郁氛围感，真实打工人生活，画面干净高级，细节拉满，无刻意表演，生活化真实情绪\n负面提示词：欢快，大笑，热闹，派对，多人，喜庆，高饱和色彩，阳光白天，礼物鲜花，夸张演技，过度磨皮美颜，卡通，动漫，二次元，特效，贴纸，水印，logo，文字遮挡，畸形脸，肢体穿模，虚假光影，明亮画面，正能量，惊喜反转，搞笑\n字幕：原来长大的生日，是独自加班的夜晚\n15秒卡点BGM：前奏温柔舒缓，5秒处轻微鼓点低落转折，结尾静音留白（伤感治愈纯音乐）\n变速参数：0-3秒1.0倍，3-7秒0.9倍（看到消息慢动作反转），7-15秒1.0倍",
+      "author": {
+        "name": "Adam也叫吉米",
+        "handle": "Adam38363368936",
+        "profile_url": "https://x.com/Adam38363368936"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Adam38363368936/status/2125242014468075906",
+      "image": "examples/video/x-01609.webp"
+    },
+    {
+      "id": "x-01610",
+      "category": "Video",
+      "title": "Miniature Countryside Village Timelapse",
+      "model": "Seedance 2.0",
+      "prompt": "Discover a magical miniature countryside village, crafted with incredible detail, realistic construction, beautiful tiny homes, lush gardens, and satisfying cinematic timelapse transformations.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2125255192878919990",
+      "image": "examples/video/x-01610.webp"
+    },
+    {
+      "id": "x-01611",
+      "category": "Video",
+      "title": "Cubist Wood Sculptures Collection",
+      "model": "Grok Imagine",
+      "prompt": "Collection of surreal abstract cubism sculptures, full view of beautiful women constructed with laminated pieces of oak and ebony wood, beautifully assembled, 4:3 AR",
+      "author": {
+        "name": "MsMsk",
+        "handle": "msksmiss",
+        "profile_url": "https://x.com/msksmiss"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/msksmiss/status/2125380493004988749",
+      "image": "examples/video/x-01611.webp"
+    },
+    {
+      "id": "x-01612",
+      "category": "Video",
+      "title": "Spy Movie Computer Face Scan",
+      "model": "Grok Imagine",
+      "prompt": "A video clip that looks like the screen of a CIA computer that is quickly scanning through wanted faces and then it stops on one and maps start emerging trying to locate the subject in a city. Like you would see in a spy movie",
+      "author": {
+        "name": "Bob ®️",
+        "handle": "Gundys69",
+        "profile_url": "https://x.com/Gundys69"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Gundys69/status/2125352434570567771",
+      "image": "examples/video/x-01612.webp"
+    },
+    {
+      "id": "x-01613",
+      "category": "Video",
+      "title": "Autumn Stream Lifestyle Film",
+      "model": "Wan 3.0",
+      "prompt": "Create a 30-second cinematic autumn lifestyle video featuring a young woman in a peaceful forest beside a flowing stream, surrounded by golden-orange autumn leaves. She wears a cozy dark knitted sweater, a cream-colored scarf, and a light skirt. The atmosphere is warm, dreamy, peaceful, and natural, with soft golden sunlight filtering through the trees.\n\nScene 1 (0–5 seconds): Wide cinematic establishing shot of the woman standing beside a small flowing river in a golden autumn forest. She gently looks upward toward the falling leaves, enjoying the peaceful scenery. Slow cinematic camera movement, natural wind moving her hair and the leaves.\n\nScene 2 (5–8 seconds): Transition into a close-up of the woman holding a beautiful golden maple leaf with both hands. She looks at it with a gentle smile, admiring its details. Soft background bokeh, warm sunlight illuminating the leaf.\n\nScene 3 (8–13 seconds): Medium-wide shot of the woman standing beside the river, holding the leaf while golden leaves drift slowly through the air. The river flows gently in the background. Smooth cinematic camera movement.\n\nScene 4 (13–17 seconds): She slowly crouches beside the river and gently places the maple leaf onto the water. Capture the delicate interaction, subtle ripples, reflections of golden trees, and the leaf floating away naturally.\n\nScene 5 (17–21 seconds): Cinematic rear and side shot of the woman standing beside the river, watching the water and autumn scenery. Her long hair moves gently in the breeze as the sunlight creates a magical golden glow.\n\nScene 6 (21–25 seconds): She slowly turns toward the camera with a warm, natural smile. Medium close-up, realistic facial expressions, soft sunlight, beautifully blurred golden forest background.\n\nScene 7 (25–30 seconds): Final intimate close-up portrait. She gently smiles with relaxed eyes while golden autumn leaves and warm sunlight create a dreamy cinematic bokeh behind her. Slow camera push-in, subtle natural movement, peaceful ending.\n\nVisual style: Ultra-realistic cinematic photography, warm autumn color grading, golden-hour lighting, shallow depth of field, soft bokeh, natural skin texture, realistic hair movement, smooth camera motion, peaceful storytelling, photorealistic environment, high cinematic quality, 4K detail, seamless scene transitions, no text, no watermark.",
+      "author": {
+        "name": "Zyrella",
+        "handle": "Zyrellix",
+        "profile_url": "https://x.com/Zyrellix"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Zyrellix/status/2125178147096408158",
+      "image": "examples/video/x-01613.webp"
+    },
+    {
+      "id": "x-01614",
+      "category": "Video",
+      "title": "Waiting at a Country Bus Stop",
+      "model": "Wan 3.0",
+      "prompt": "A cinematic, ultra-realistic 20-second vertical video of a young woman with short auburn hair wearing a white oversized T-shirt, light blue jeans, white sneakers, and a light blue backpack, sitting alone at an old rural bus stop in the middle of an empty countryside road. Golden hour sunlight casts long shadows across the cracked asphalt, with dry grass fields stretching into the distance. Start with a wide establishing shot of the lonely bus shelter, then slowly move closer to the woman sitting quietly on the bench. Cut to a cinematic close-up of her face as she looks over her shoulder toward the road. She stands up, adjusts her backpack, and begins walking along the deserted road. A vintage yellow school bus approaches from the distance with its headlights glowing warmly. Capture her walking toward the bus from behind, followed by a dramatic high-angle aerial shot showing the woman and the yellow bus on the empty country road surrounded by golden fields. Photorealistic textures, natural human movement, warm cinematic lighting, realistic shadows, subtle film grain, smooth camera transitions, shallow depth of field, emotional storytelling, 4K quality, 9:16 aspect ratio.",
+      "author": {
+        "name": "Zoya",
+        "handle": "Zoyavelle",
+        "profile_url": "https://x.com/Zoyavelle"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Zoyavelle/status/2124730552133763350",
+      "image": "examples/video/x-01614.webp"
+    },
+    {
+      "id": "x-01615",
+      "category": "Video",
+      "title": "Golden Serum Skincare Commercial",
+      "model": "MiniMax H3",
+      "prompt": "Create a luxurious cinematic skincare commercial featuring a premium golden facial serum bottle. Begin with an elegant macro product reveal surrounded by delicate white flowers and floating golden particles. Transition into close-up shots of the golden dropper releasing a glowing serum droplet. Show a beautiful woman applying the serum to her face in a sophisticated luxury bathroom. Capture natural skin texture, soft expressions, and elegant movements. Finish with a dramatic hero shot of the serum bottle against a deep black and warm golden background. Ultra-realistic, premium beauty advertising, cinematic lighting, smooth camera movements, macro details, 4K, vertical 9:16. Maintain exact product packaging and label consistency throughout.",
+      "author": {
+        "name": "Rubi",
+        "handle": "AIwithRubii",
+        "profile_url": "https://x.com/AIwithRubii"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/AIwithRubii/status/2125273931812925647",
+      "image": "examples/video/x-01615.webp"
+    },
+    {
+      "id": "x-01616",
+      "category": "Video",
+      "title": "Tornado Debris Spells SURVIVE",
+      "model": "MiniMax H3",
+      "prompt": "High-speed chase shot through an abandoned post-apocalyptic city in daylight. The camera races backward ahead of a lone runner while a gigantic dust tornado destroys the avenue behind them. Cars roll through the air, windows explode and debris fills the sky. The tornado suddenly tears an entire building facade apart. Thousands of concrete, steel and glass fragments are sucked upward, rotating violently inside the vortex. From above, the debris unexpectedly aligns into enormous floating letters spelling “SURVIVE.” The runner passes underneath as the tornado instantly destroys the word again. Massive disaster-movie VFX, intense speed, photorealistic debris and atmospheric destruction.",
+      "author": {
+        "name": "Pierrick Chevallier | IA",
+        "handle": "CharaspowerAI",
+        "profile_url": "https://x.com/CharaspowerAI"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/CharaspowerAI/status/2124835432126927006",
+      "image": "examples/video/x-01616.webp"
+    },
+    {
+      "id": "x-01617",
+      "category": "Photography",
+      "title": "Pearl Earring Window-Light Film Portrait",
+      "model": "GPT Image 2.6",
+      "prompt": "A present-day window-light portrait in a dark Paris interior shot on Kodak Portra 400 35mm film of a woman glancing back over her left shoulder in a blue-and-yellow headwrap and one large pearl earring, recreating the famous Vermeer painting of a girl with a pearl earring.\n\nThis image is one single photograph with one pose only. It is never a collage, a photo strip, a grid, split panels, a border or more than one frame.\n\n## Hair and makeup\nFichu en lin — An ultramarine linen headwrap wound smoothly around her head and hiding all her hair, with a long band of pale ochre-yellow cloth falling from the top down behind her back.\nTeint nu — A bare-looking base with almost no coverage and natural color left on the cheeks, the skin soft and luminous in the window light.\nRougeur naturelle — A barely-there pink tint on the cheeks melts into the base with no powder edge.\nBouche mordue — A soft rosy-red lip color pressed into the center of the lips and fading outward, with a small wet highlight on the lower lip.\n\n## Expression\nRegard par-dessus l'épaule — Her eyes turn fully back into the lens, wide, clear and calm, the brows relaxed.\nLèvres entrouvertes — Her lips part slightly as if she were about to say something, a quiet held breath rather than a smile.\n\n## Outfit\nOchre jacket — A coarse ochre-brown wool jacket with a plain white collar edge showing at the neck, its folds deep in shadow.\n\n## Props and nails\nPearl drop earring — A single large teardrop pearl hangs from her left earlobe, catching one bright white highlight from the window and a soft reflection of the white collar below.\n\n## Pose\nOver-the-shoulder turn — Her body faces frame left in near profile with her shoulders turned away from the camera, and only her head turns back over her left shoulder toward the lens, chin slightly lifted.\n\n## Style\nVermeer — The look of a 17th-century Dutch portrait recreated as a real photograph: one figure against darkness, still and luminous.\npalette — Ultramarine, ochre yellow, warm cream skin and deep burnt-umber black, with no pastel or neon.\n\n## Scene\nDark interior — A plain, almost black wall of deep umber behind her with nothing else visible, the edge of a tall window just out of frame on the left.\nShe is alone in the frame. No writing, signs, logos or labels anywhere in the image.\n\n## Light\nFenêtre de Vermeer — A single tall window at frame left lights her face, the headwrap and the pearl with soft cool daylight, while the far side of her face and her shoulders fall into deep shadow with no fill.\n창문 캐치라이트 — The window leaves a small soft highlight in the upper part of each iris.\n\n## Optics\nPortra 400 — Kodak Portra 400 35mm film: warm cream skin, creamy roll-off in the highlights and deep, soft blacks.\n胶片颗粒 — Fine, even 颗粒 sits across the whole frame, slightly heavier in the 暗部.\n50mm — A 50mm standard lens with shallow depth of field, so the face keeps natural proportions.\n\n## Camera\nPlan rapproché — The frame runs from the top of the headwrap to just below her shoulders, taken at her eye level, with her face in the upper center and darkness filling the rest.\nFocus — Focus sits on her nearer eye and the pearl.\n\nSUBJECT: An adult woman in her twenties. She has a very slim, skinny build with slender arms and legs and a narrow waist. Face identity comes only from the attached character reference; do not copy any real celebrity face.\n\nNo captions, no dates, no timestamps, no watermark, no stickers, no doodles, no frame borders and no overlay text anywhere in the image.\nNo logos, brand marks, monograms or brand lettering anywhere on clothing, props, furniture or background.\n\n## Finish\nPortrait argentique — The whole frame reads as a present-day window-light 35mm film portrait, not a painting or a studio beauty shoot.\nphotoréaliste — Ultra-realistic 8K photographic detail: real pores on the skin, real weave in the linen, real wear on the wool.\nprise de vue réelle — A real person photographed on location, never an illustration, anime frame, 3D render or plastic-skinned CGI.",
+      "author": {
+        "name": "천유신",
+        "handle": "cheoneusin",
+        "profile_url": "https://x.com/cheoneusin"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/cheoneusin/status/2125369304082485724",
+      "image": "examples/photography/x-01617.webp"
+    },
+    {
+      "id": "x-01618",
+      "category": "Poster Design",
+      "title": "Experimental Eastern Typography Exhibition Poster",
+      "model": "GPT Image 2.6",
+      "prompt": "创作一张具有专业设计工作室水准的东方文化实验性艺术海报。\n\n【展览主题】：____\n【中文主标题】：____\n【英文主标题】：____\n【核心视觉对象】：____\n【视觉创意】：____\n【主色调】：____\n【展览日期及机构】：____\n【策展说明】：____\n【画幅比例】：9:16\n\n一、整体美学与设计语言\n\n融合 Experimental Typography、Expressive Editorial Design、Contemporary Chinese Graphic Design 与高级艺术出版物美学，兼具东方文化气质、现代字体实验性和强烈的艺术表现力。\n\n以艺术化构图为最高优先级，打破传统海报的区块化布局。先建立具有视觉冲击力的整体构图，再将字体、主体、图形和展览信息自然融入其中，而不是按照固定模板填充内容。\n\n二、核心视觉与字体设计\n\n根据主题选择具有代表性的艺术对象，采用真实摄影、艺术绘画或具有物理可信度的立体表现，突出主体的材质、形态、光影与空间层次。\n\n中文标题采用超大尺度的实验性字体，可使用现代高对比宋体、几何字形、狂草书法或空间立体字形。通过极端尺度对比、局部裁切、错位叠压、负空间与透视关系，让文字成为构图本身。\n\n让主体与字体产生具有创意的结构关系，例如建筑镂空构成汉字、舞者动作延续书法笔势、织锦穿越文字结构、飞鸟羽翼与字形交错。避免简单的图文叠加，强调真实的空间互动与视觉融合。\n\n三、实验性艺术编排\n\n采用大胆的非对称构图、开放式网格和富有方向感的视觉动势。根据主题选择对角线、回旋、纵向延伸、空间透视或负空间构图，形成独特的视觉节奏。\n\n搭配优雅的英文衬线字体，灵活运用旋转、断行、错位、纵向排列与边缘裁切。让中英文、数字和主体轮廓形成丰富的尺度、方向与疏密对比。\n\n允许局部文字高度密集，其他区域保持自然留白。网格隐藏于构图秩序之中，而不是直接表现为规则的信息框。\n\n四、信息密度与自由布局\n\n保留展览日期、策展机构、主题说明、中英文短文及必要的专业注释，但不设置固定的信息区域。让文字沿主体轮廓、字体笔画、运动轨迹和自然负空间错落分布，使信息本身参与艺术构图。\n\n信息丰富但不区块化，复杂但不杂乱。避免机械的顶部标题、中部主体、底部信息栏结构，以及标准化页眉页脚、矩形信息框、固定分栏和过多装饰性细线。\n\n五、色彩与材质\n\n采用成熟、克制而富有对比的艺术配色，突出主体真实的材质特征、自然光影、细腻纹理与高级印刷质感。保持色面饱满干净，细节丰富而有秩序，避免廉价 CGI、随机做旧、过度发光与无意义装饰。\n\n六、最终呈现\n\n不同主题保持统一的艺术指导、实验性字体美学、真实材质与精密中英混排，但每张作品必须拥有独立的构图逻辑与视觉创意。\n\n输出高分辨率的完整艺术海报，远看具有强烈的视觉冲击，近看具有丰富的材质细节、准确的文字和精妙的艺术化排版。\n\n避免模板化布局、过度极简、乱码文字、错误字形和无意义的信息堆砌。\n\n让海报不仅是传达展览信息的媒介，更是一件本身就值得被展览的实验性平面设计作品。",
+      "author": {
+        "name": "Larus Canus",
+        "handle": "MrLarus",
+        "profile_url": "https://x.com/MrLarus"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/MrLarus/status/2125257923131773007",
+      "image": "examples/poster-design/x-01618.webp"
+    },
+    {
+      "id": "x-01619",
+      "category": "Photography",
+      "title": "One Face Four Careers Portrait Grid",
+      "model": "GPT Image 2.6",
+      "prompt": "{\n  \"type\": \"2x2 portrait grid\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}",
+      "author": {
+        "name": "ZDuo.MoreAi",
+        "handle": "ZDuo_MoreAi",
+        "profile_url": "https://x.com/ZDuo_MoreAi"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/ZDuo_MoreAi/status/2125393911040655857",
+      "image": "examples/photography/x-01619.webp"
+    },
+    {
+      "id": "x-01620",
+      "category": "Photography",
+      "title": "Ethereal Misty Forest Profile Portrait",
+      "model": "GPT Image 2.6",
+      "prompt": "A serene, ethereal portrait of a young woman standing in a misty forest at dusk or dawn, captured in profile with her head tilted slightly back and eyes closed in peaceful bliss. She has long, dark, wavy hair catching the soft backlight as it flows gently in the breeze, and one graceful hand raised near her chest and chin. She wears a flowing, draped off-white silk or satin gown that catches the warm golden sunlight filtering through the dense, shadowy trees behind her. The atmosphere is moody, dreamlike, and cinematic, with soft mist, subtle rim lighting on her hair, shoulders, and fabric, deep forest shadows, and a glowing warm sunflare in the background. --ar 4:5",
+      "author": {
+        "name": "Wandering Corner",
+        "handle": "WanderingC76",
+        "profile_url": "https://x.com/WanderingC76"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/WanderingC76/status/2125139350984036387",
+      "image": "examples/photography/x-01620.webp"
+    },
+    {
+      "id": "x-01621",
+      "category": "Photography",
+      "title": "Reading in a Rainy Bookshop Café",
+      "model": "Seedream 5.5",
+      "prompt": "Woman, mid-30s, silver-streaked dark bob, round tortoiseshell glasses, reading a hardback at a window table in a bookshop café at night. Rain on the glass, amber street lights, cappuccino and lemon cake. 50mm, f/2. Warm lamp light from the right, blue window reflections.",
+      "author": {
+        "name": "ZenCreatorAI",
+        "handle": "zencreator_io",
+        "profile_url": "https://x.com/zencreator_io"
+      },
+      "type": "image",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/zencreator_io/status/2125326075798442232",
+      "image": "examples/photography/x-01621.webp"
+    },
+    {
+      "id": "x-01622",
+      "category": "Video",
+      "title": "Frog, Pig and Hamster Wetland Chase Comedy",
+      "model": "Seedance 2.5",
+      "prompt": "CHARACTER LOCK\nStyle: premium 3D animated comedy film, Pixar/Illumination quality, glossy soft-light render, rich saturated colours, sunny wetland valley with tall green reeds and brown cattails, crisp blue sky with fluffy clouds, 16:9, cinematic 24fps, dynamic but readable camera, fast slapstick timing, no text, no subtitles.\nCharacters (keep identical in every shot):\nFROG – chubby bright-green frog, huge glossy red lips, bulging yellow eyes, dramatic over-the-top expressions.\nPIG – small round pink piglet, big ears, shiny pink skin, cute curly tail.\nHAMSTER – tiny orange-and-cream hamster, huge black eyes, round cheeks.\nWOLF – grumpy grey wolf with thick shaggy fur, light-grey belly, pale eyes, villain scowl, eyes pop out like ping-pong balls when shocked.\nHYENA – goofy spotted brown hyena with a messy hair bun on top of her head, buck-toothed grin, spiral-eyed when dizzy.\nSound (always): loud, crisp, full-range cinematic cartoon mix — punchy whooshes, boings, splats, thuds, squeaks, cartoon voices (gasps, yells, giggles, screams, no words), bright orchestral comedy score, deep clean bass, no muffled audio.\n\nClip 1 – Cliff & eagle (0:00–0:15)\n\nHigh on a mossy cliff edge above a wide wetland valley, a twig nest with big speckled eggs. FROG clings to the rock, stretching for the eggs with greedy eyes; PIG and HAMSTER peek over the ledge behind him. A huge bald eagle dives out of the clouds straight at camera, wings spread wide, and snatches PIG in its talons; PIG grabs FROG's leg, HAMSTER clings on top — a dangling chain of three swinging through the open sky. The chain slips loose: all three plunge down the vertical cliff face, bouncing off the rock wall in fast tumbling shots, then smash into the wall in a cartoon pile — HAMSTER on PIG on FROG — and peel off, flipping downward.\nSound: eagle screech, wind rush, wing flaps, squeals and frog scream, fast rock bonks, comic slide-whistle fall.\n\nClip 2 – Landing on the wolf (0:12–0:30)\n\nTop-down shot: a deep muddy crater at the cliff base; WOLF lies sprawled on his back in the mud like a snow angel. PIG lands belly-first on his stomach, HAMSTER lands on his nose, FROG flops into the grass beside him. WOLF's eyes pop out huge, jaw drops. Close-up: HAMSTER sitting on WOLF's black nose, blinking. The trio leaps off and sprints away down a muddy path through tall cattails, splashing puddles. WOLF sits up dizzy, then his face turns to a furious scowl; he pushes himself up, snarls and charges after them on all fours, low camera, mud flying — he runs straight through an old rubber tyre that gets stuck around his body.\nSound: big squishy mud splat, boing, eye-pop sound, panting squeaks, puddle splashes, angry wolf growl, rubber tyre thunk.\n\nClip 3 – Hyena kiss (0:30–0:48)\n\nTall green reeds part: HYENA peeks out with a goofy toothy grin, hair bun wobbling. She steps onto the path as PIG scurries past. WOLF charges in and slams face-first into HYENA — extreme close-up of WOLF's giant shocked eyes — their mouths smash into an accidental kiss, both frozen, eyes wide. They pull apart, side-by-side profiles, both gagging in disgust, then both puke glittering rainbow streams onto the ground, rainbow puddles spreading.\nSound: reed rustle, goofy hyena giggle, big cartoon smooch \"mwah\", record-scratch silence, gagging sounds, sparkly rainbow-vomit gush.\n\nClip 4 – Chase to the edge (0:48–1:02)\n\nUltra-low ground camera on a wet path between cattails: WOLF (tyre still around his waist) runs past camera, trio tiny in the distance; huge paws stomp into puddles right in front of lens. Cut to the trio reaching a cliff edge that drops to a deep blue ocean. PIG stands on the brink, FROG puffs up into a round green ball beside her, HAMSTER behind. A gust — FROG is flung into the sky spinning, flies over the reeds.\nSound: heavy footsteps, splashing puddles, wind gust, frog \"boing\" inflate pop, whistling flight.\n\nClip 5 – Wolf & hyena tumble (1:02–1:24)\n\nPIG and HAMSTER stand at the cliff edge looking back. WOLF sneaks out of the reeds behind them, creeps closer, lunges — PIG bounces away and WOLF crashes into the dirt in a big dust cloud. FROG lands back next to PIG; the trio laughs. HYENA and WOLF tangle together in a dizzy pile; WOLF leaps through the air at the trio, misses. HYENA curls into a rolling furry ball and barrels down the path with a fiery explosion burst behind her, golden sunset light.\nSound: sneaky tiptoe music, whoosh, dust thud, giggles, cartoon crash pile, rolling rumble, big fiery boom.\n\nClip 6 – Pig speedboat (1:24–1:40)\n\nThe trio jumps off the cliff toward the open ocean, mid-air shot over deep blue water. PIG inflates and transforms into a glossy pink pig-shaped speedboat with a spinning rear propeller and tail fin; FROG and HAMSTER drop into the cockpit. The boat slams into the sea with a huge white splash at the base of the cliff, then rockets out and surfs up the face of a giant curling wave, launching into the air and landing in foamy spray.\nSound: jump whoosh, magical transform pop, engine rev, propeller buzz, massive ocean splash, wave roar, cheering squeaks.\n\nClip 7 – Leopard hovercraft chase (1:36–1:52)\n\nTop-down shot down the cliff: WOLF and HYENA dive into the ocean. They burst out riding a leopard-print hovercraft with a big rear fan; WOLF steers, snarling, racing right behind the pink pig-boat. Wide shot: a gigantic turquoise barrel wave curls; both vehicles surf through the tube; the pink boat and the hovercraft flip sideways inside the wave, WOLF reaching out to grab FROG, close calls.\nSound: dive splash, hovercraft fan roar, engine chase music, thundering barrel wave, water spray hiss, frog screams.\n\nClip 8 – Whale (1:52–2:12)\n\nWhite spray fills the frame, clears to calm ocean: a huge blue whale's back surfaces. The whale opens its enormous mouth from below; the pink pig-boat speeds out from inside the whale's mouth past baleen and a swirl of colourful fish; the leopard hovercraft is still inside. The pig-boat races away with friendly dolphins leaping alongside. Inside the whale's mouth: WOLF sits stunned on the tongue, hovercraft upside down on his head.\nSound: whale deep groan, water rush, fish flutter, engine zoom, dolphin clicks and chirps, echoing gulp.\n\nClip 9 – Spout & sunset ending (2:10–2:24)\n\nThe whale blows a giant water spout, launching WOLF and the leopard hovercraft high into the sky, both spinning and flailing among the clouds. Final shot: golden sunset over the ocean, the pink pig-boat cruises toward camera with FROG and HAMSTER cheering on board, a group of happy dolphins jumping on both sides, warm glowing light.\nSound: powerful whale blowhole whoosh, wolf scream fading away, cartoon \"ding\" twinkle, triumphant warm orchestral finale, dolphin chirps, soft waves.",
+      "author": {
+        "name": "Vini",
+        "handle": "Viniai_",
+        "profile_url": "https://x.com/Viniai_"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Viniai_/status/2125068089830347155",
+      "image": "examples/video/x-01622.webp"
+    },
+    {
+      "id": "x-01623",
+      "category": "Video",
+      "title": "Snowy Forest Beast Trailer",
+      "model": "Seedance 2.5",
+      "prompt": "Style: photorealistic dark-fantasy creature film, shot like a premium nature documentary / movie trailer, anamorphic 35mm look, shallow depth of field, soft overcast winter light, cold desaturated grey-green grade with warm skin tones, light snowfall and drifting snow particles, a misty snowy pine forest with tall straight dark trunks and snow-covered fallen logs, fast trailer-style cuts with extreme macro close-ups, 16:9, 24fps, no text, no subtitles.\nCreature (keep identical in every shot): a huge hyper-muscular humanoid forest beast, 8 ft tall, shredded abs and veiny arms, wrinkled leathery pinkish-grey skin covered with dark grey mottled spots and blotches, long straight platinum-white hair falling down its back and chest. Its head carries a large flat star-shaped bony crest, like an open hand, with 5–6 thick fleshy arms radiating outward; each arm ends in a small eel/snake-like head with its own flowing white hair mane, tiny eyes and two small hanging tusks — these heads move on their own. Main face: goat/bat-like wrinkled snout, small amber eyes, long sharp yellowed fangs. Wears a torn loincloth made of dry brown leaves and bark tied at the waist with a thick rope. Bare long-toed feet, long knuckly fingers with thick yellow claws.\nSound (always): loud, crisp, full-range premium trailer sound design — deep sub-bass booms on every hard cut, heavy crunching footsteps in snow, wet creature breaths and low growls, creaking skin and muscle, hair whooshes, wind through pines, tense dark cinematic score with pulsing low strings and taiko hits building in intensity, clean deep bass, no muffled audio, no dialogue.\n\nClip 1 (0:00–0:09)\n\nFast macro reveal cuts, camera moving up the creature as it slowly walks through the snowy forest: bare wrinkled spotted feet stepping into fresh snow; muscular veiny legs and the torn leaf-and-bark loincloth swinging; low-angle shot of the shredded abs and rope belt with long white hair hanging past the arms; snarling crested face with fangs and the star crest framed by white hair; side close-up of one snake-head on the crest sniffing the air, hair blowing; extreme close-up of the mouth pulling back into a fanged grin; extreme close-up of a small amber eye opening among deep wrinkles; torso walking toward camera; clawed hand flexing beside the loincloth.\nSound: boom on each cut, crunching snow steps, slow heavy breathing, wet lip snarl, eyelid creak, low drone building.\n\nClip 2 (0:09–0:18)\n\nClose-up from behind: the star crest's hair-covered snake-heads lift and spread out like fingers against the snowy forest. Profile close-up: the main face sniffs the cold air, eyes closed. White hair whips past camera in slow motion. Feet stomp down, kicking up a puff of snow. Low shot of legs and fists clenching as it strides forward. Three snake-heads rise in silhouette. Front shot: full crest fanned open around the snarling fanged face. Close-up of the chest and abs breathing heavily. Macro of the clawed hand slowly curling its fingers in front of the bark loincloth.\nSound: sniffing inhale, hair whoosh, heavy snow stomp, knuckle crack, rising string pulses, deep boom on the crest reveal.\n\nClip 3 (0:18–0:27)\n\nTwo snake-heads on the crest curl toward each other and touch noses, forming a heart-shaped loop of white hair. Side close-up of the main face snarling, one long fang showing. Macro of the spotted shoulder and bicep. One snake-head turns to stare straight into camera with its mouth open. Huge rounded shoulder flexing as it turns. Chest and abs with hair draped over. The creature cracks its knuckles in front of its chest. A veiny forearm swings a clenched fist across frame. Front shot: crest fully spread, face snarling with fangs bared.\nSound: soft wet \"kiss\" creature click, low growl, skin creak, knuckle pops, fist whoosh, taiko hits getting faster.\n\nClip 4 (0:27–0:36)\n\nBack view: the crest heads twitch as it crouches. Side close-up of one snake-head with hanging tusks, hair blowing. Low side shot of the thick thigh and bark loincloth as it drops into a sprinter's crouch. Clawed hand presses into the snow like a gorilla knuckle. Extreme close-up of the main face scowling with deep wrinkles and fangs. Macro of the bent knee and leaves crunching against the snow. Low shot looking up at the crest heads and shoulders, white hair hanging down. Wide shot: the creature explodes forward, running at full speed down a snowy forest path between tall pines toward camera, snow spraying from its feet.\nSound: deep crouching growl, claws digging into snow, a big inhale, then a massive bass hit and thundering running footsteps.\n\nClip 5 (0:36–0:46)\n\nLow tracking shot at foot level: huge feet pounding through snow. Wide rear shot following the creature sprinting away between pines, crest heads bouncing. Close-up from behind as the snake-heads stretch forward like hounds, mouths open. Profile of a snake-head with hair streaming in the wind. Front shot: a large snow-covered fallen log in the foreground, the creature charges at it and leaps over. Worm's-eye view looking straight up through the tall pine trees as the creature soars overhead. Ground-level shot: it lands hard in a crouch, exploding snow into the air. Blurred side shot as it rushes past camera. Snow dust fills the frame.\nSound: rapid heavy footfalls, branches snapping, wind rush, a huge whoosh on the jump, a ground-shaking landing boom with snow spray, score at full intensity.\n\nClip 6 (0:46–0:53)\n\nWide shot: the snow dust clears and the creature lands in front of a wide holly tree loaded with clusters of bright red berries and glossy green leaves dusted with snow, mist behind it. Full-body front shot of the creature standing tall under the tree, breathing heavily. Close-up: the snake-heads on its crest lift toward the branches, one licks with a long pink tongue and they greedily bite and munch the red berries. Final close-up: the creature looks straight into camera, all crest heads spread, fangs bared in a wide satisfied snarl, red berries and snow in the background. Cut to black.\nSound: the score drops out suddenly, soft wind and falling snow, crunchy juicy berry bites and wet munching, a deep satisfied growl, then one huge final bass hit as it cuts to black.\n\nEnd card (optional)\n\nBlack screen, bold white text \"YOUR NAME\" appears in the center with a quick VHS glitch effect, soft white snow particles falling across the frame. Sound: soft whoosh, glitch static crackle, one low cinematic bass hit.",
+      "author": {
+        "name": "Vini",
+        "handle": "Viniai_",
+        "profile_url": "https://x.com/Viniai_"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Viniai_/status/2125422309116879008",
+      "image": "examples/video/x-01623.webp"
+    },
+    {
+      "id": "x-01624",
+      "category": "Video",
+      "title": "Wuxia Fire Master Palace Battle",
+      "model": "Seedance 2.5",
+      "prompt": "Master description:\n\nEpic Chinese wuxia dark-fantasy battle film, ultra-photoreal, 16:9 cinematic widescreen, 24fps, blockbuster VFX, heavy motion blur and fast handheld camera. The Fire Master: a lone young warrior with long black hair, wearing a flowing dark crimson-red and black layered robe with gold embroidery, wide sleeves and a hood that he raises later; he controls fire with his bare hands and fights with martial-arts moves. Enemies: hundreds of imperial soldiers in dark iron lamellar armor and helmets, holding swords, spears and shields. Location: a huge ancient Chinese imperial palace courtyard paved with giant grey stone slabs, tall stone pillars, wide stone staircases leading up to a grand palace hall with curved tiled roofs, a massive palace wall and gate, dramatic overcast sky with sunbeams. Grade: desaturated warm grey-brown with intense orange-white fire highlights, dust, embers and smoke everywhere.\n\nSound (every clip): loud, crisp, full-range blockbuster sound design, no music bed, no dialogue. Roaring fire whooshes, deep sub-bass explosions, stone cracking and debris, metal armor clanks, soldiers' battle cries, whip-pan whooshes on every cut, a constant low rumble of the army.\n\nCLIP 1 (0–10s): The fire awakens\n\nShot 1 (0–1.5s): extreme close-up of his hands, he cups a small glowing white-hot fireball between his palms, then crushes it tight and light bursts through his fingers. Shot 2 (1.5–3s): wide shot of the courtyard, he stands alone surrounded by a circle of soldiers; a giant ring of fire explodes outward from him across the stone floor. Shot 3 (3–4s): high angle, the shockwave throws soldiers flying back, leaving a black scorched ring on the stones. Shot 4 (4–6.5s): fast tracking close combat, he punches with flaming fists and spins a sweeping fire kick, blazing arcs slicing through the soldiers. Shot 5 (6.5–7.5s): he leaps and slams his fist into the ground, the stone slabs crack and a geyser of fire erupts, launching soldiers into the air. Shot 6 (7.5–10s): he dashes forward with fire trails from his hands and feet, flying knee and fire punch into an armored soldier.\nSound: a deep low hum and crackle as the fireball forms, a tight compressed boom when he crushes it, a massive ring-of-fire WHOOMPH with sub-bass and roaring flames, bodies thudding on stone, armor clattering, fast punch whooshes and fire bursts on every hit, a huge ground-slam boom with stone cracking, a fire geyser roar.\n\nCLIP 2 (10–20s): Up the palace stairs\n\nShot 1 (10–11.5s): he races up the wide palace staircase, soldiers charging down at him, fire blasting from his feet as he jumps. Shot 2 (11.5–12.5s): he hurls a huge comet-like fireball down the stairs into the army, a massive explosion. Shot 3 (12.5–13.5s): drone shot above the staircase, rows of fireballs slam into the soldiers and one blast leaves a glowing white-hot crater. Shot 4 (13.5–15s): he lands between two tall stone pillars, cracked stone around his feet. Shot 5 (15–16s): two long serpent-like whips of fire swirl out from his arms in giant loops, burning orbs spinning at their ends, like blazing wings. Shot 6 (16–17s): two walls of fire race forward along the stone road toward the palace gate. Shot 7 (17–18.5s): a giant spinning vortex ring of fire hits the palace gate, the wall cracks and crumbles. Shot 8 (18.5–20s): he stands still with his hood up, both hands glowing with fireballs, black scorch marks spreading from his feet.\nSound: footsteps pounding up stone stairs, a soldiers' war cry, a whooshing roar as the fireball flies and a huge explosion boom, a rapid rain of bomb-like blasts from above, a heavy landing thud with stone cracking, long swishing fire-whip whooshes, a rushing roar of fire walls, a deep rumbling vortex spin and the palace wall crumbling, then a tense low fire crackle.\n\nCLIP 3 (20–30s): The final strike\n\nShot 1 (20–21s): he levitates into the sky above the courtyard, arms spread wide, hundreds of fireballs appear behind him in a giant radiating halo. Shot 2 (21–22.5s): the fireballs rain down like meteors on the soldiers, explosions bursting all over the courtyard. Shot 3 (22.5–23.5s): extreme wide aerial shot, a colossal swirling sphere of fire hangs above the courtyard over the whole army. Shot 4 (23.5–25s): the fire sphere slams down and explodes into a blinding white-orange flash and a huge dome-shaped blast spreading across the courtyard. Shot 5 (25–28.5s): very wide aerial shot of the whole palace city, a giant fire tornado twists up into the sky from the courtyard, dust clouds and debris rolling across the rooftops. Shot 6 (28.5–30s): top-down drone shot rising slowly, a huge black crater in the middle of the courtyard with the tiny figure of the Fire Master standing alone at its center as the dust settles.\nSound: a rising choir of fire whooshes as the halo of fireballs ignites, a rapid barrage of meteor impacts and explosions, a deep pulsing roar of the giant sphere, then a massive world-shaking explosion with a long sub-bass boom and a high ringing tone, a howling fire-tornado roar with wind and debris, then everything fades to soft falling embers and a low wind.",
+      "author": {
+        "name": "Vini",
+        "handle": "Viniai_",
+        "profile_url": "https://x.com/Viniai_"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/Viniai_/status/2124695713238139200",
+      "image": "examples/video/x-01624.webp"
+    },
+    {
+      "id": "x-01625",
+      "category": "Video",
+      "title": "Early Human Elephant Chase Game Sequence",
+      "model": "Unknown",
+      "prompt": "30-second 16:9 tightly paced open-world action sequence (modified prompt) A player-controlled early-human protagonist (first version of humanity: strong build, long unkempt black hair, heavy brow, animal-hide clothing, recognizable primitive face and proportions) rides a large grey elephant through a dark misty forest. The protagonist carries and uses wooden spears with stone tips throughout. Opponents (other early humans) chase on penguins. High-quality AAA game-engine graphics, reactive animation, interactive physics, wet undergrowth, dense trees, shafts of light, and saturated late-afternoon forest lighting. Non-graphic action, no blood or gore. Persistent elements: Same early-human identity, same elephant, same spears, continuous enemy locations and damage state. 16:9 framing. 0.0–3.5s — Face the danger Frontal three-quarter medium shot of the early-human protagonist standing tense beside the elephant on a wet forest trail, spear held low. Incoming spears strike a nearby tree with sparks and wood chips. The protagonist flinches, ducks, and turns toward a loose roadblock of fallen logs ahead where opponents on penguins wait. The protagonist raises a spear. 3.5–7.0s — Aim and throw Camera moves smoothly around the aiming shoulder into a first-person-style magnified view (circular scope with crosshairs and slight sway). An opposing rider is visible crouched behind a penguin and a fallen log, leaning out. The protagonist throws one spear that impacts the log beside the rider with sparks and debris. The rider recoils and ducks lower, remaining alive. Ammo-style count decreases by one. 7.0–10.5s — The flanking threat Cut to a short threat view: a second opponent on a penguin is only a few meters away, running along the trail with spear raised, shouting “Drop it!” Snap back to close three-quarter view of the protagonist noticing, head turning in alarm, and recoiling behind the elephant as a spear strikes nearby. Armor-style bar drops; a fourth wanted-style star appears. Alert: “POLICE FLANKING.” Objective updates to “MOUNT THE ELEPHANT.” 10.5–16.0s — Scramble onto the elephant Follow closely as the protagonist sprints along the elephant’s left side (urgent posture, quick steps, glance back). “[SHIFT] SPRINT” prompt. At the side, “[E] MOUNT” appears. The protagonist slings the spear, climbs onto the elephant’s back with clear, anatomy-appropriate movement, settles into a riding position, and reaches for control. The penguin rider arrives near the rear and reaches but stays outside. The elephant starts moving with a low rumble. Objective updates to “ESCAPE THE PENGUINS.” 16.0–20.5s — Launch through the gap Switch to third-person chase camera behind and slightly above the elephant. Rear feet kick up water and dirt toward the approaching penguin rider, who jumps aside. The elephant charges forward through the narrow gap, scraping a tree with a jolt, bark sparks, and a folding branch. The protagonist corrects and accelerates onto the open trail. Speed rises from 000 to 085. Brief “VEHICLE DAMAGED” notification; condition bar at 85%. 20.5–24.0s — Look back and throw Brief player-triggered look-back view from the elephant. The protagonist twists, looks behind, and throws a spear out to the side (“from the window” equivalent while riding). Two opponents on penguins are clearly chasing in the same direction; the nearest is only one length behind and closing fast. A second penguin pulls out from the broken roadblock farther back. “[C] LOOK BACK” highlights. On the minimap, two penguin markers track behind the player. Four wanted-style stars flash. 24.0–30.0s — High-speed getaway Return to standard rear chase camera. The elephant accelerates hard between trees and past fleeing wildlife, then power-slides around the next corner (front pointing into the turn, rear sliding naturally). Speed reaches 120 before dropping in the drift. Fast trail movement, dirt spray, body sway, restrained motion blur. The nearest penguin rider enters the same turn immediately behind, clips a root, jolts, and continues pursuit. The protagonist straightens the elephant and accelerates again. End with the elephant racing out of the corner and the penguin rider still close behind. Objective remains “ESCAPE THE PENGUINS”; four stars stay active. No victory banner. Sound and continuity: English dialogue only (“Drop it!”). Spear impacts, wood cracks, hurried footsteps, elephant rumbles and trumpets, penguin calls, tire-like wet trail spray, and approaching pursuit sounds. No subtitles or music. Every camera change reveals identity, a target, an approaching threat, or pursuit information. Keep the elephant’s damage, spear count, character identity, and enemy locations continuous.",
+      "author": {
+        "name": "Aymducking │ Ai creator",
+        "handle": "aymducking",
+        "profile_url": "https://x.com/aymducking"
+      },
+      "type": "video",
+      "added": "2026-11-25",
+      "tweet_url": "https://x.com/aymducking/status/2124585905902018757",
+      "image": "examples/video/x-01625.webp"
     }
   ]
 }
