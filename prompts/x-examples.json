@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "source": "X and the web (community, credited)",
     "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
-    "count": 1613,
+    "count": 1659,
     "by_category": {
-      "Photography": 567,
-      "Illustration & 3D": 404,
-      "Product & Brand": 220,
+      "Photography": 578,
+      "Illustration & 3D": 421,
+      "Product & Brand": 221,
       "Food & Drink": 154,
-      "Poster Design": 149,
-      "UI & Graphic": 50,
-      "Video": 69
+      "Poster Design": 152,
+      "UI & Graphic": 51,
+      "Video": 82
     },
-    "updated": "2026-11-25"
+    "updated": "2026-11-26"
   },
   "examples": [
     {
@@ -22946,6 +22946,742 @@
       "added": "2026-11-25",
       "tweet_url": "https://x.com/aymducking/status/2124585905902018757",
       "image": "examples/video/x-01625.webp"
+    },
+    {
+      "id": "x-01626",
+      "category": "Poster Design",
+      "title": "Oversized Letter Landmark Architecture Poster",
+      "model": "GPT Image 2.6",
+      "prompt": "Create an exceptionally sophisticated, contemporary architectural art poster featuring [LANDMARK NAME], [CITY], [COUNTRY].\n\n1. GIANT TYPOGRAPHIC COMPOSITION\n\nFeature one enormous, oversized uppercase letter associated with the destination name as the central graphic element.\n\nThe letter should dominate the composition, extending almost across the entire poster.\n\nUse bold, elegant, geometric typography with distinctive curves and negative spaces.\n\n2. LANDMARK INTEGRATION\n\nSeamlessly integrate a highly detailed architectural photograph or realistic architectural illustration of [LANDMARK NAME] into and across the oversized letter.\n\nThe landmark should appear to emerge from the typography, partially overlap its boundaries and interact naturally with its shape.\n\nPreserve the landmark’s authentic architectural details, proportions and recognisable silhouette.\n\nCreate an artistic double-exposure effect where the architecture and typography become one unified visual composition.\n\n3. DISTINCTIVE COLOUR TREATMENT\n\nChoose a unique colour palette inspired by the destination’s cultural identity, national colours and architectural character.\n\nUse two or three contrasting colours within the oversized typography.\n\nApply translucent colour overlays across selected sections of the landmark, creating a beautiful combination of architectural photography, coloured light and graphic shapes.\n\nEvery new destination must receive a different colour combination. Never repeat palettes.\n\n4. TEXTURE & BACKGROUND\n\nUse a warm ivory, soft white or subtle textured paper background.\n\nIntroduce delicate architectural sketch marks, distressed ink textures, faded photographic grain and subtle print imperfections around the central composition.\n\nKeep the surrounding space clean and uncluttered.\n\n5. EDITORIAL TYPOGRAPHY\n\nInclude the following information:\n\n[LANDMARK NAME]\n\n[CITY NAME]\n\n[COUNTRY NAME]\n\nAdd small vertical typography along one side, geographical coordinates and a subtle destination-inspired tagline.\n\nUse sophisticated editorial typography with carefully balanced spacing.\n\n6. ART DIRECTION\n\nLuxury architectural editorial design, experimental typography, architectural double exposure, contemporary Swiss graphic design, oversized letterforms, cinematic monochromatic photography, translucent colour blocking and minimalist gallery poster aesthetics.\n\n7. FINAL PRESENTATION\n\nCreate a visually striking, intellectual and artistic collectible landmark poster.\n\nThe architecture must remain recognisable while becoming an integral part of the oversized letter.\n\nVertical 4:5 composition, premium art-print quality, exceptional visual balance and sophisticated negative space.\n\nAvoid ordinary travel-poster layouts, decorative clutter, excessive colours and generic typography.",
+      "author": {
+        "name": "Kami AI",
+        "handle": "Aiwithkami",
+        "profile_url": "https://x.com/Aiwithkami"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Aiwithkami/status/2125476933056217417",
+      "image": "examples/poster-design/x-01626.webp"
+    },
+    {
+      "id": "x-01627",
+      "category": "Photography",
+      "title": "Aurora Over a Frozen Lake at Night",
+      "model": "GPT Image 2.5 Sunburst",
+      "prompt": "Photorealistic magical frozen lake at night under the aurora, wide 16:9 panoramic composition, ultra-detailed. Full bleed, no frame, no border, no lettering.\n\nSKY: a deep indigo star-filled night vault across the upper third, pierced by tall vertical curtains of aurora borealis in luminous emerald, mint and pale jade, their frayed strands hanging and curling like combed light, brightest above the left ridge. Low on the right horizon a warm afterglow of coral, rose and burnt orange streaks through dark cloud bands, fading upward into violet.\n\nFOREST: a long ridge of dense black pine silhouettes spans the middle left, its slopes dusted with frost, needle tips rimmed in white. Paler frosted trees stand in front of it, and a thin veil of ground mist drifts across the shoreline.\n\nBUSHES: right of centre, two large ornamental shrubs are fully encased in white frost, every leaf and branch furred with rime, long glassy icicles hanging from the lower twigs, dark twig fans splaying at their bases. Their shapes reflect perfectly in the ice below.\n\nLAKE: the lower half is smooth black ice, its surface streaked with wind-polished sheen and carrying a broad warm gold and amber reflection of the sunset glow down the centre, plus dark mirror reflections of the shrubs and treeline.\n\nSPARKLES: hundreds of tiny multicoloured light points — turquoise, mint, amber, magenta, pale blue — lie scattered across the ice like fairy lights under the surface, densest across the lower right where the ice turns to sparkling granular snow, glittering in tight clusters.\n\nFOREGROUND: the lower left is dominated by enormous frost fern crystals, flat white branching fronds with fine feathered leaflets radiating across the dark ice, sharply crystalline, catching cold blue light.\n\nPALETTE: deep indigo, emerald, mint, coral orange, warm gold, ice white, charcoal black, turquoise. Hyper-detailed, luminous, high dynamic range.",
+      "author": {
+        "name": "Viki",
+        "handle": "churvikv",
+        "profile_url": "https://x.com/churvikv"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/churvikv/status/2125685392053846024",
+      "image": "examples/photography/x-01627.webp"
+    },
+    {
+      "id": "x-01628",
+      "category": "Illustration & 3D",
+      "title": "Vintage Mid-Century Pop Art Portrait",
+      "model": "GPT Image 2.5",
+      "prompt": "{\n\"aspect_ratio\": \"9:16\",\n\"prompt\": \"Create a stylish vintage retro pop-art illustration featuring an elegant woman with a short, voluminous dark navy blue bob haircut and soft wavy bangs. Her face is tilted slightly upward and sideways, with eyes gently closed, dramatic red eyeshadow, thin black eyeliner, natural orange eyebrows, a small delicate nose, and bold red lips. She has a calm, confident, sophisticated expression. Her skin is smooth warm ivory cream. Add a small orange dangling earring. She is wearing a dark navy blue high-neck outfit and holding a long vertical orange cigarette holder or slim decorative stick gracefully between her fingers. Her hand should have elegant, elongated fingers and minimalist shapes. Background consists of bold geometric rectangular blocks in vibrant red, teal blue, burnt orange, and warm ivory cream. Use a mid-century modern editorial illustration aesthetic, 1960s French fashion art, flat vector art, clean smooth shapes, minimal shading, strong color blocking, crisp outlines, sophisticated color palette, screen-print texture, elegant composition, and timeless retro graphic design. Full vertical composition, visually balanced, high-end art print quality. Absolutely no typography or text anywhere in the image.\",\n\"negative_prompt\": \"any text, letters, words, typography, captions, logos, labels, numbers, watermarks, signatures, photorealistic, 3D render, realistic skin texture, excessive details, gradients, blurry lines, messy anatomy, extra fingers, deformed hands, asymmetrical eyes, bad proportions, cluttered background\",\n\"style\": \"Vintage Mid-Century Pop Art\",\n\"quality\": \"high\"\n}",
+      "author": {
+        "name": "Anika",
+        "handle": "Just_Anika_Here",
+        "profile_url": "https://x.com/Just_Anika_Here"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Just_Anika_Here/status/2125609318192132433",
+      "image": "examples/illustration-3d/x-01628.webp"
+    },
+    {
+      "id": "x-01630",
+      "category": "Poster Design",
+      "title": "Six Heroine Movie Posters Grid",
+      "model": "GPT Image 2.5",
+      "prompt": "Create a premium collection of SIX different Hollywood movie posters arranged in an exact 2-column × 3-row grid.\n\nEach panel must feature a completely different adult female protagonist, unique face, hairstyle, outfit, action pose, movie genre, and cinematic environment.\n\nSix Movie Concepts:\n\nAction: Fierce female warrior in a burning futuristic city.\nSpy Thriller: Female secret agent on a neon-lit Tokyo rooftop.\nFantasy: Powerful warrior queen with a flaming sword and dragons.\nSci-Fi: Female astronaut exploring a mysterious alien planet.\nCrime Thriller: Female master thief escaping a luxury skyscraper.\nUnderwater Adventure: Female explorer discovering an ancient sunken civilization.\n\nVisual Style: Epic Hollywood blockbuster movie posters, dramatic action poses, breathtaking environments, cinematic lighting, rich colors, photorealistic characters, premium theatrical poster design.\n\nLayout: Exactly six separate posters, 2 columns × 3 rows, equal-sized panels, clean spacing, perfectly aligned.\n\nIMPORTANT: Six completely different heroines, six different movie worlds. Every panel must look like an individual blockbuster movie poster. No repeated faces, outfits, or backgrounds. Ultra-realistic, exceptionally detailed, 8K quality.",
+      "author": {
+        "name": "Anika",
+        "handle": "Just_Anika_Here",
+        "profile_url": "https://x.com/Just_Anika_Here"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Just_Anika_Here/status/2125627017622323425",
+      "image": "examples/poster-design/x-01630.webp"
+    },
+    {
+      "id": "x-01631",
+      "category": "Photography",
+      "title": "Candid Vintage Film Photo with a Sleepy Cat",
+      "model": "Seedream 5.5",
+      "prompt": "Create an ultra-realistic candid vintage film photograph, vertical 9:16 composition.\n\nA beautiful young woman with a short, naturally messy dark brown bob haircut, soft bangs, fair skin, delicate facial features, and a warm genuine smile is sitting comfortably on a vintage brown leather sofa in a cozy living room.\n\nShe is wearing an oversized olive-green chunky knitted turtleneck sweater with long sleeves. She is gently holding a fluffy brown tabby cat in her lap with both arms. The cat is relaxed and looking directly toward the camera with a slightly sleepy expression.\n\nThe woman has her eyes gently closed and is smiling naturally, showing her teeth. Her posture is relaxed and comfortable, creating a genuine heartwarming moment between her and her cat.\n\nThe room has a lived-in vintage atmosphere. A warm glowing table lamp sits on a wooden side table in the background. Behind her are wooden cabinets, houseplants, books, and soft household details. Another person is faintly visible sitting in the background, out of focus.\n\nIn the foreground, a wooden coffee table holds a partially visible aluminum drink can, a transparent glass, and vintage magazines.\n\nPhotography style: authentic 35mm analog film photography, nostalgic 1990s home photography, warm amber tones, soft tungsten lighting, natural film grain, slightly faded colors, gentle atmospheric haze, realistic skin texture, imperfect candid framing, shallow depth of field.\n\nCamera: medium portrait shot, eye-level perspective, natural indoor snapshot, soft direct flash mixed with warm lamp lighting.\n\nThe overall feeling should be cozy, intimate, spontaneous, nostalgic, and genuinely heartwarming.\n\nExtremely photorealistic, no CGI, no illustration, no artificial posing.",
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis",
+        "profile_url": "https://x.com/harboriis"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/harboriis/status/2125602367051796771",
+      "image": "examples/photography/x-01631.webp"
+    },
+    {
+      "id": "x-01632",
+      "category": "Illustration & 3D",
+      "title": "Three-Style Triptych: Setting a Butterfly Free",
+      "model": "GPT Image",
+      "prompt": "【画面规格与整体艺术风格】\n\n16:9横向高级艺术叙事三联画，电影级构图，三个纵向画面通过纤细的香槟金色边框分隔，分别采用古典彩色浅浮雕艺术、高级多层立体剪纸艺术、电影级欧美风格化写实3D艺术。\n\n讲述同一位女性发现被囚禁的蓝色蝴蝶、主动打开笼门释放蝴蝶、最终见证蝴蝶重获自由的完整故事。三个画面从左至右形成清晰的情绪递进：怜惜、希望、喜悦。\n\n三种美术风格具有明确的材质、造型、空间和光影差异，同时保持统一的色彩体系、人物形象、服装设计、建筑风格及核心道具。整体优雅、浪漫、精致、干净，具有高级艺术收藏品的视觉质感。\n\n【统一人物设计】\n\n同一位30岁左右的东亚与欧美混血成年女性，具有成熟优雅的高级时装模特气质，精致鹅蛋脸，立体自然的五官，深棕色眼睛，柔和的下颌线，自然丰满的嘴唇，细腻柔和的面部轮廓。\n\n标准成年女性模特身材，约7.5—8头身，自然丰满的上身，纤细匀称的腰部，修长四肢，真实自然的肩宽、胸腰胯比例以及人体骨骼肌肉结构。避免夸张的头部尺寸、过度收腰和异常拉长的四肢。\n\n深棕色低盘发，采用自然饱满的卷曲发束，发型精致但不过于复杂，左侧佩戴小型古金色叶片发饰，搭配简洁的金色水滴耳饰。\n\n身穿香槟白色不对称单肩修身长裙，优雅的斜向垂坠领口，自然收腰，单侧裙摆开叉，适度展现成熟女性的性感与优雅。人物自身左肩固定圆形金色胸针及孔雀蓝披肩，右肩和右上臂自然露出。披肩沿身体侧后方自然垂落，不缠绕手臂，不遮挡关节。\n\n三幕保持完全一致的人物身份、年龄、脸型、五官比例、发型、服装剪裁、领口、腰线、开叉位置及配饰，仅根据不同艺术媒介改变形体构建与材质表现。\n\n【第一幕：发现囚禁——古典彩色浅浮雕艺术】\n\n画面采用高级古典彩色浅浮雕艺术，以经过精细打磨的暖象牙白石材、低饱和孔雀蓝矿物颜料及柔和古金色装饰构成。\n\n女性位于画面左侧，站在古典石质台座旁，身体自然朝向右侧的笼子，上半身从髋部轻微前倾，双肩放松，颈部保持自然长度，下巴轻微降低。\n\n人物双眼自然睁开，准确注视笼子内部的蓝色蝴蝶，眉毛内侧轻微抬起，嘴唇自然闭合，神态安静、温柔、关切，流露出对被囚禁生命的怜惜，没有明显笑意。\n\n人物自身左手自然轻搭在石台边缘，左肩、左上臂、左肘、左前臂、左腕与左手正确连接。掌根轻触台面，四根长指自然延伸并轻微弯曲，拇指位于正确的掌侧位置。\n\n右臂自然垂落于身体右侧，右手靠近大腿外侧，手指自然放松。双手大小与人物头部、前臂及整体身体比例协调，采用纤细但真实的成年女性手部比例，不出现过长或过大的手掌。\n\n石台上放置一只简洁的古金色圆顶笼子，顶部具有单一圆形提环，底部具有完整圆形底座，正面矩形笼门完全关闭。门框左侧具有上下两个固定铰链，右侧具有一个小型圆形拉钮。\n\n笼内一只蓝色大闪蝶停驻在短枝上，翅膀自然半收拢，前方笼条形成合理的遮挡关系。\n\n人物、礼服、头发、植物、建筑、笼子及蝴蝶全部采用统一的彩色浅浮雕雕刻工艺。蝴蝶使用蓝色矿物颜料彩绘石雕表现，笼子采用柔和哑光鎏金雕刻材质。\n\n背景为古典拱形回廊、孔雀蓝色墙面、简洁雕刻植物及少量象牙白花卉，采用完整的大面积造型和清晰的雕刻轮廓。\n\n人物面部、颈部、肩膀及手臂具有细腻光滑的雕塑表面，去除龟裂、密集颗粒、重复压花和细碎石材纹理。礼服采用自然完整的雕刻褶皱，通过真实浮雕厚度、柔和侧光与实体阴影体现雕塑艺术质感，而不是依靠粗糙纹理。\n\n【第二幕：释放希望——高级多层立体剪纸艺术】\n\n画面采用高级多层立体剪纸艺术，所有人物、道具及环境均由精致的哑光艺术卡纸构建，具有清晰的纸张切割边缘、真实的层叠厚度、柔和的层间投影及完整的色块。\n\n同一位女性站在石台左侧，已经主动打开笼门，身体从第一幕的轻微前倾恢复到较为直立的状态，重心自然向后转移，为蝴蝶飞出预留空间。\n\n人物头部自然朝向右下方，双眼瞳孔准确注视刚刚飞出笼门的蓝色蝴蝶。眉毛轻微抬起，眼睛自然睁开，嘴唇微微张开，流露出温柔、细腻的惊喜与期待。\n\n表情比第一幕更加明亮，但不如第三幕那样充分释放喜悦。不夸张惊呼，不仰头，不看向背景。\n\n人物自身右上臂自然靠近躯干，右肘舒适弯曲，右前臂朝向已经开启的笼门。\n\n右手处于刚刚松开圆形拉钮的瞬间，距离拉钮约2—3厘米。拇指与食指自然放松分离，中指、无名指、小拇指保持自然弯曲。五根手指结构完整、长度准确、关节方向正确，手指之间具有合理的间距和透视遮挡。\n\n手腕自然延续前臂方向，不出现突然折弯、异常扭转或手指穿过道具。\n\n左臂自然垂落于身体侧面，左手掌心朝向身体，五指放松微曲，小拇指明显短于中指。\n\n人物裸露的右肩、锁骨、胸部、三角肌及上臂具有完整连续的自然人体结构。采用干净平滑的暖象牙色艺术卡纸塑形，不出现多余肩带、皮肤划痕、纸张拼接线、异常肌肉线条及环状袖口。\n\n服装保持与第一幕和第三幕完全相同的单肩礼服结构，左肩固定金色胸针与孔雀蓝披肩，右肩自然露出。\n\n石台上保留相同尺寸和结构的圆顶笼子。笼门通过左侧上下两个铰链向外、向画面左侧开启约105度，圆形拉钮位于门框自由边。门洞保持完整畅通，出口平面不存在残留笼条，后方笼条与门框具有正确的空间关系。\n\n一只蓝色纸艺蝴蝶刚刚完整通过门洞，位于出口前方约10—15厘米处，开始向画面右侧飞行。蝴蝶与门框、人物手指及笼条之间保持明确的空间距离，不发生穿插。\n\n蝴蝶采用多层蓝色艺术卡纸构建，具有两对正确连接的翅膀、单一身体及一对触角。翅膀呈自然展开状态，近侧与远侧翼面具有合理的透视差异，保留清晰的纸张切割边缘及层叠结构。\n\n笼子采用金赭色哑光厚卡纸制作，不使用真实金属反光。蝴蝶不使用真实昆虫鳞片材质和发光特效。\n\n背景由层叠的孔雀蓝色拱形结构、象牙白色古典建筑、简洁植物剪影及少量立体纸艺花卉构成。\n\n纸张表面干净、平整、哑光，仅保留极轻微的自然纸张质感。减少细碎纸片、密集压花、重复纹理及装饰线条，通过完整色块、纸张厚度和层间阴影体现高级立体剪纸艺术。\n\n【第三幕：自由与喜悦——电影级欧美风格化写实3D】\n\n电影级欧美风格化写实3D艺术，Unreal Engine级次世代角色品质，精致PBR材质，真实自然的人体结构、柔和电影级光影与完整三维空间。\n\n同一位女性站在阳光照耀的古典花园回廊中，身体自然舒展，微微朝向蝴蝶飞行的方向转动，肩膀放松，脊柱自然延伸，身体重心稳定。\n\n人物自身右手掌轻轻贴在锁骨下方的上胸礼服表面，表现看到蝴蝶重获自由后发自内心的喜悦与感动。\n\n右上臂自然靠近躯干，右肘朝向身体侧下方，右前臂斜向胸前，手腕角度自然。四根长指朝斜上方放松排列，拇指位于正确掌侧。手掌与布料具有真实接触关系，不出现手指拥挤、交叉、穿模或异常关节。\n\n左臂自然垂落，左手靠近大腿外侧，手指轻微弯曲，姿态优雅而放松。\n\n人物头部轻微朝右上方转动，颈部自然，下巴适度抬起。双眼睁开，准确注视正在自由飞翔的蓝色蝴蝶。\n\n眉毛自然舒展，嘴角明显上扬，适当露出少量上排牙齿，面颊肌肉随微笑自然抬起，眼睑与笑容协调。表现真实、温暖、具有感染力的喜悦、欣慰与释然，成为整幅三联画的情绪高潮。\n\n不闭眼，不夸张大笑，不过度仰头，不刻意挺胸，不使用僵硬的时尚摆拍姿势。\n\n一只蓝色大闪蝶位于人物右上方的开阔天空中，具有较大的视觉占比和清晰的飞行姿态。\n\n蝴蝶必须采用与第三幕人物、植物及环境完全一致的电影级风格化写实3D建模与PBR材质渲染。\n\n蝴蝶具有正确的两对翅膀，共四片翼面：左前翅、左后翅、右前翅、右后翅。前翅较大，后翅较小，左右结构相互对应，四片翅膀均正确连接于胸部。单一头部、胸部及腹部，两根自然纤细的触角，六条细足自然收拢于身体下方。\n\n采用接近背面的三分之四动态飞行视角，左右翼面清晰可辨，近侧与远侧翅膀具有合理的透视面积及自然遮挡关系。\n\n翅膀轻薄，具有自然弧度、连续变化的蓝色虹彩、细腻鳞片质感、柔和翼脉及自然深色翼缘。不存在插画式粗黑描边、分块式翼面、纸张层叠、额外翅膀及二维贴纸感。\n\n蝴蝶受到与人物及花园相同方向、相同色温的自然阳光照射，具有真实立体体积、合理的受光与阴影，以及符合空间距离的景深表现。\n\n人物右侧的石台上保留同一个打开的空笼，笼门与第二幕保持相同的左侧铰链及向外开启方向。统一圆顶、提环、笼条、底座、门框、拉钮和笼内短枝。\n\n笼子采用真实香槟金金属PBR材质，柔和完整的金属高光与合理的环境反射，不出现大量细碎反光点。\n\n背景为开阔的欧洲古典花园、暖色石质拱门、自然绿色植物、少量花卉、远处古典建筑及清澈蓝天。\n\n仅在拱门左上方保留极少量白色花朵，其余区域以完整绿色叶片及柔和背景虚化为主。减少密集花卉、细碎光斑和重复植物纹理，为人物与蝴蝶保留充足的视觉空间。\n\n温暖阳光从画面左上方自然照亮女性面部、肩膀和丝质礼服。香槟白色礼服具有真实柔和的丝绸质感、大面积自然高光及符合重力的布料褶皱。孔雀蓝披肩在微风中自然向后飘动，少量头发随风轻微摆动。\n\n【整体构图、配色与质量控制】\n\n统一使用香槟白、孔雀蓝、古金色、宝石蓝、暖石色及自然植物绿。\n\n三个画面采用相近的平视中全景构图，统一人物头部大小、身体比例、石台高度及笼子尺寸。人物动作从轻微前倾、主动释放过渡到自然舒展，情绪从安静怜惜逐渐递进至温柔惊喜和发自内心的喜悦。\n\n第一幕通过雕刻体积、柔和边缘和实体阴影体现浅浮雕艺术；第二幕通过完整色块、清晰纸张切边及层叠阴影体现纸艺风格；第三幕通过完整三维形体、自然材质与电影级光影体现真实生命感。\n\n严格控制所有人物的真实人体解剖结构，确保肩颈、锁骨、三角肌、上臂、前臂、肘部、手腕及手掌自然连接。\n\n每只手恰好具有五根结构正确的手指，手掌尺寸与人体比例协调，拇指位置正确，中指通常最长，小拇指明显较短，指关节弯曲自然，允许符合透视的正常遮挡，避免强行展示全部手指。\n\n减少细碎纹理、重复图案、粗糙颗粒、密集发丝、复杂布料褶皱、杂乱高光及过多装饰。强调干净完整的形体、清晰优雅的轮廓、自然柔和的材质和准确的空间关系。\n\n高级艺术三联画，博物馆级艺术质感，电影级构图，浪漫主义美学，成熟优雅的女性形象，三种鲜明且高度和谐的艺术媒介，完整而直观的故事表达，细腻自然的情绪递进，高清画质，无文字，无水印。\n\n【负面提示词】\n\n多余手指，缺失手指，四指手掌，六指手掌，融合手指，手指等长，过长小拇指，反向拇指，错误左右手，手掌过大，手掌过小，异常手指比例，畸形指关节，折断手腕，扭曲前臂，反向肘关节，肩臂错位，手指穿模，手掌悬空，异常肩胸线条，皮肤划痕，透明肩带，多余肩带，多余袖口，皮肤拼接线，夸张锁骨，过长颈部，异常颈部肌肉，头身比例错误，大头娃娃，异常身体比例，过度收腰，僵硬姿态，夸张仰头，闭眼，斗鸡眼，瞳孔方向错误，视线偏离蝴蝶，夸张惊呼，僵硬微笑，表情雷同，人物身份变化，服装结构不一致，披肩穿模，笼子悬空，重复笼门，重复拉钮，错误铰链，笼门开启方向不一致，门洞阻塞，笼条交叉，蝴蝶穿过笼条，重复蝴蝶，多余翅膀，缺失翅膀，单侧重复翼面，错误翅膀连接，二维插画蝴蝶，纸艺蝴蝶出现在第三幕，粗黑描边，矢量图案，平面贴纸感，石材龟裂，密集碎纹，重复压花，粗糙颗粒，重复纸张纹理，过多白花，密集植物，杂乱背景，细碎光斑，金属碎光，过度反射，密集布料褶皱，魔法粒子，发光射线，过度锐化，文字，水印。",
+      "author": {
+        "name": "HUI",
+        "handle": "yeshanghui",
+        "profile_url": "https://x.com/yeshanghui"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/yeshanghui/status/2125176141216710837",
+      "image": "examples/illustration-3d/x-01632.webp"
+    },
+    {
+      "id": "x-01633",
+      "category": "Illustration & 3D",
+      "title": "Everything Can Be a Circle (Kandinsky Abstraction)",
+      "model": "GPT Image 2.6",
+      "prompt": "《圓的無限可能》× 康定斯基幾何抽象 × 萬物形態轉譯 × 實驗藝術。\n\n每張獨立隨機抽取一個具有創作價值的主題，將其核心特徵、內在結構或情感關係轉譯為圓形藝術。\n\n以大小不一的圓形作為基本視覺單元，透過尺度、疏密、排列、嵌套、透明疊色與空間關係，建立具有主題意義的視覺秩序。\n\n根據抽中的主題，自由選擇最適合的藝術媒介、材質、色彩、構圖與呈現方式，探索平面與立體、具象與抽象之間的無限可能。\n\n每張具有不同的創意機制與視覺表現，形成具有獨立藝術價值的原創作品。\n\n9:16直式獨立單圖，每張分別生成，不自動裁切。\n左下深藍色實心圓點，後接白色自然手寫體「DeepBlue」。\n\nn=9",
+      "author": {
+        "name": "DeepBlue深藍",
+        "handle": "DeepBlueX0",
+        "profile_url": "https://x.com/DeepBlueX0"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/DeepBlueX0/status/2125511278970257598",
+      "image": "examples/illustration-3d/x-01633.webp"
+    },
+    {
+      "id": "x-01634",
+      "category": "Illustration & 3D",
+      "title": "Japanese Watercolor Everyday Moment",
+      "model": "GPT Image 2.6",
+      "prompt": "Create a beautiful, hand-painted Japanese watercolor illustration capturing a poetic, candid moment from everyday life. The artwork should have the delicate charm of traditional Japanese illustration, combined with contemporary fashion sketching and expressive watercolor techniques.\n\n1. ART STYLE & TECHNIQUE\n\nUse soft, translucent watercolor washes, delicate pencil outlines, loose ink detailing, and subtle hand-drawn imperfections. Incorporate visible watercolor pigment variations, gentle color bleeding, layered brushstrokes, and beautifully textured handmade ivory paper. The illustration should feel genuinely painted by a skilled traditional artist, not digitally rendered.\n\n2. SUBJECT & STORYTELLING\n\nDepict a young woman in an elegant yet natural everyday moment. She could be walking beneath a windblown umbrella, enjoying autumn leaves, standing by the seaside, catching falling petals, or playfully holding her hat against a gentle breeze.\n\nCapture spontaneous movement, graceful body language, flowing clothing, and subtle facial expressions. Her outfit should feature beautiful contemporary Japanese-inspired street fashion, including oversized shirts, flowing skirts, knitted sweaters, scarves, and understated accessories.\n\n3. COLOR PALETTE & ATMOSPHERE\n\nUse a sophisticated palette of muted pastel shades, dusty rose, warm beige, soft sage green, powder blue, faded mustard, and earthy browns. Keep the background predominantly warm ivory with subtle paper grain, generous negative space, and minimal environmental details.\n\n4. COMPOSITION & DETAILS\n\nCreate a full-body or three-quarter composition with an organic, editorial illustration layout. Add delicate environmental elements such as drifting autumn leaves, flower petals, gentle rain, birds, grass, or flowing fabric to create movement and atmosphere.\n\nInclude subtle ground shadows and loose watercolor washes beneath the subject. Avoid overly detailed backgrounds or heavy outlines.\n\n5. FINAL AESTHETIC\n\nThe finished artwork should feel whimsical, nostalgic, peaceful, uplifting, and effortlessly elegant — like a page from a beautifully illustrated Japanese art journal.\n\nAuthentic traditional watercolor appearance, delicate artistic craftsmanship, natural proportions, expressive movement, exquisite paper texture, understated beauty, and timeless editorial illustration.\n\nAspect ratio: 3:4 or 4:5.\nQuality: High-detail traditional watercolor artwork, no photorealism, no 3D rendering, no digital gloss, no watermark.",
+      "author": {
+        "name": "Saul Goodman",
+        "handle": "Goodmanprotocol",
+        "profile_url": "https://x.com/Goodmanprotocol"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2125586366348345532",
+      "image": "examples/illustration-3d/x-01634.webp"
+    },
+    {
+      "id": "x-01635",
+      "category": "Illustration & 3D",
+      "title": "Anime Surreal Oil Painting in a Giant Flower",
+      "model": "GPT Image 2.5",
+      "prompt": "{\n  \"aspect_ratio\": \"3:4\",\n  \"prompt\": \"Create a breathtaking Japanese anime-inspired surreal oil painting featuring a playful young adult Japanese woman with short lime-green hair, oversized expressive violet eyes, round rosy cheeks, unusual tiny freckles and a mischievous smile. She is sitting gracefully inside the heart of an impossibly enormous blooming orange flower, surrounded by gigantic overlapping orange petals that frame her face beautifully. She leans forward playfully, holding a tiny ladybug on her fingertip while looking directly at it with curious fascination. Enormous lush green leaves curve around the flower, with miniature glowing pink mushrooms, delicate butterflies and tiny floating pollen particles scattered throughout the magical environment. Use an imaginative slightly elevated three-quarter camera angle, creating beautiful depth and a captivating composition. She wears a vivid cobalt-blue outfit decorated with oversized orange bows that contrast beautifully against the lime-green foliage and orange petals. Vibrant orange, cobalt blue, lime green, violet and pink color palette. Rich traditional oil painting technique, thick expressive textured brush strokes, whimsical surrealism, bold color blocking, intricate painterly details, extraordinary artistic atmosphere, highly imaginative premium editorial illustration. Single continuous composition, one scene, no panels, no borders, no split screen, no text, no watermark.\"\n}",
+      "author": {
+        "name": "Anika",
+        "handle": "Just_Anika_Here",
+        "profile_url": "https://x.com/Just_Anika_Here"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Just_Anika_Here/status/2125779071837585465",
+      "image": "examples/illustration-3d/x-01635.webp"
+    },
+    {
+      "id": "x-01636",
+      "category": "Illustration & 3D",
+      "title": "Baby Dragon in a Waistcoat at a Café",
+      "model": "Seedream 5.5",
+      "prompt": "An adorable baby dragon with iridescent cyan, sapphire and golden scales, enormous expressive turquoise eyes, and translucent rainbow wings, dressed in a tailored velvet waistcoat in deep teal with embroidered gold trim and tiny pearl buttons. He wears a small brown felt top hat adorned with a vibrant peacock feather. Sitting at a polished marble-free wooden café table, he gazes hungrily at a towering strawberry and mixed-berry parfait, licking his lips in anticipation. A silver spoon rests on the table. A softly blurred vintage jukebox, stained-glass windows and warm amber lanterns illuminate the background. Whimsical photorealistic fantasy, cinematic lighting, exquisite textures, shallow depth of field, ultra-detailed 8K quality, uncluttered composition, no text, vertical 9:16.",
+      "author": {
+        "name": "Jason Heaton",
+        "handle": "JasonHeatony7",
+        "profile_url": "https://x.com/JasonHeatony7"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/JasonHeatony7/status/2125609829150450164",
+      "image": "examples/illustration-3d/x-01636.webp"
+    },
+    {
+      "id": "x-01637",
+      "category": "Illustration & 3D",
+      "title": "Capybara Lantern Boat in a Glowing Cave",
+      "model": "Seedream 5.5",
+      "prompt": "A whimsical, high-detail fantasy illustration featuring a cute, anthropomorphic capybara-like creature, wearing a pink and orange striped scarf. The creature is sitting in a small, rustic wooden boat, paddling through a glowing subterranean cavern. It holds a wooden staff with a warm, golden, heart-shaped lantern hanging from the tip, casting a soft light on its face. The surrounding environment is a magical cave filled with bioluminescent pink mushrooms, sparkling water, and distant waterfalls. The lighting contrast is striking, with the warm golden glow of the lantern illuminating the creature against the cool, ethereal pink tones of the cave's magical atmosphere. The water surface shows ripples and reflections of the glowing elements.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/heathergreen/status/2125575233457226095",
+      "image": "examples/illustration-3d/x-01637.webp"
+    },
+    {
+      "id": "x-01638",
+      "category": "Photography",
+      "title": "Extreme Macro Visual Pun Series",
+      "model": "GPT Image 2.6",
+      "prompt": "Extreme Macro Photography × 沉浸式微型視點 × 尺度錯覺 × 視覺雙關。\n\n不同生活領域具有高度辨識度、趣味性、話題性或文化共鳴的物品，分別構思其最令人意外的微觀視覺意象。同組物品、視覺聯想與構圖各不相同，一件物品只生成一張。\n\n將觀察視點縮小至物品的微觀尺度，自由探索其內部、表面與局部結構，利用真實形態、材質、色彩、空間關係及光學現象，發掘具有強烈視覺反差的雙重意象。\n\n讓觀眾第一眼被奇異景象吸引，仔細觀察後發現熟悉物品的標誌性細節，產生意想不到的認知反轉。所有視覺錯覺源於物品自身的真實結構。\n\n根據每件物品的獨特特徵，自由設計拍攝視點、構圖、色彩、光線與攝影技法，兼具視覺衝擊力、探索趣味與真實微觀攝影質感。\n\n9:16直式獨立單圖，每張分別生成，不自動裁切。\n左下深藍色實心圓點，後接白色自然手寫體「DeepBlue」。\n\nn=9",
+      "author": {
+        "name": "DeepBlue深藍",
+        "handle": "DeepBlueX0",
+        "profile_url": "https://x.com/DeepBlueX0"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/DeepBlueX0/status/2125720938847322209",
+      "image": "examples/photography/x-01638.webp"
+    },
+    {
+      "id": "x-01639",
+      "category": "Poster Design",
+      "title": "Sunlit Chair Album Cover \"Let It Pass\"",
+      "model": "GPT Image 2.6 Sunburst",
+      "prompt": "Square album cover art. A single wooden chair in a sunlit room, facing a large window with sheer curtains billowing gently. Warm golden afternoon light floods in, casting soft shadows across a worn wooden floor. A small potted plant sits on the windowsill. Floating through the air are faint, translucent abstract shapes suggesting sound waves and musical notes, rendered as soft glowing curves and ripples of warm amber and gold, subtle enough to blend into the light. The song title \"Let It Pass\" in large, bold, spaced-out sans-serif type across the upper third of the image, in warm cream color. Palette: honey, terracotta, warm cream, soft amber. Inviting and calm, like a photograph taken for a record sleeve, not a snapshot. Generous negative space.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2125535309999796460",
+      "image": "examples/poster-design/x-01639.webp"
+    },
+    {
+      "id": "x-01640",
+      "category": "Illustration & 3D",
+      "title": "Watercolor Picture Book: Hamster Asleep with a Snack",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的手绘水彩绘本插画，像画在微微泛暖的白色冷压水彩纸上，颜料晕开的边、纸面细颗粒和留白都看得见，不是数字平涂，不是 3D，也不是照片。机位从正上方略偏一点往下看，近景，一只圆滚滚的小动物四仰八叉地仰躺在一个蓬松的大软垫上睡着了，占画面中间大半，软垫是奶油白和浅米色的布面，带一圈鼓鼓的边和几道柔软的褶，用淡淡的暖灰水彩扫出体积。小动物闭着眼、嘴巴微张像在打小呼噜，脸颊有两团淡淡的腮红，四只小爪子朝上张着，露出粉红色的小肉垫，肚皮是蓬松的白毛，身上的毛用一笔一笔细碎的水彩笔触带出毛尖，边缘有一点点干笔飞白。它两只前爪紧紧抱着一样小零食（零食由主体决定），零食是画面里颜色最饱和的地方。头顶旁边用暖棕色手写画三个由小到大的 z 字母表示在睡觉，这是画面里唯一的字。光是柔和的室内暖光，从左上方来，没有硬阴影，只在身体下面和软垫凹陷处有一层浅浅的暖棕色晕影。整体色调是奶油白、燕麦米、浅焦糖棕为主，腮红和肉垫的淡粉、零食的一小块亮色做点缀，饱和度偏低。背景是空的纸白，四周有几片很淡的米棕色水彩晕染。气氛软乎乎、安心，看着就想跟着睡。画面里除了那三个 z，不要别的文字、签名和水印。\n\nNew subject:\n【主体】一只奶茶色和白色相间的小仓鼠，圆得像个小团子，仰躺着睡着了，两只小前爪抱着一颗比它脑袋还大的葵花籽，腮帮子鼓鼓的。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/static_stare/status/2125449581110698375",
+      "image": "examples/illustration-3d/x-01640.webp"
+    },
+    {
+      "id": "x-01641",
+      "category": "Photography",
+      "title": "Invisible Phenomenon as Physical Material",
+      "model": "GPT Image",
+      "prompt": "Create a square premium surreal studio photograph visualizing [INVISIBLE PHENOMENON] as [PHYSICAL MATERIAL]. Example: one fictional walnut loudspeaker emitting three suspended clear-glass sound-wave rings, increasing in diameter away from its cone. Preserve coherent geometry, readable perspective and realistic source-object materials. Charcoal surface, amber/cyan rim light, delicate refraction and restrained composition. Keep all forms inside frame. No people, real product logos or headline. Small legible Ksa8Turky bottom right. Intentional impossible AI artwork.",
+      "author": {
+        "name": "‏Turky",
+        "handle": "ksa8Turky",
+        "profile_url": "https://x.com/ksa8Turky"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/ksa8Turky/status/2125716911639924806",
+      "image": "examples/photography/x-01641.webp"
+    },
+    {
+      "id": "x-01642",
+      "category": "Illustration & 3D",
+      "title": "Anime Friends on a Christmas Winter Vacation",
+      "model": "Seedream 5.0",
+      "prompt": "Create a beautiful, lively anime illustration featuring a group of friends enjoying a magical Christmas winter vacation. Show them participating in a festive winter activity, such as relaxing together inside a beautifully decorated vintage train cabin, ice skating hand in hand, exploring a snowy Christmas market, enjoying an outdoor hot spring surrounded by snow, or having an energetic snowball fight. Dress everyone in cozy winter outfits, including oversized sweaters, padded jackets, scarves, gloves, beanies and warm boots, with outfits suited to each activity.\n\nArt style: High-quality anime illustration, beautiful clean line art, expressive facial features, detailed eyes, soft cel shading, rich but balanced colors, delicate fabric textures, warm skin tones and polished anime aesthetics.\n\nUse a vertical 3:4 anime composition with an immersive cinematic perspective. Capture natural candid moments, playful interactions, genuine smiles and spontaneous expressions. Arrange the characters naturally, with interesting poses and varied body language. Include foreground elements such as snow-covered objects, festive decorations, mugs of hot chocolate, Christmas presents, skating blades or snowballs to create depth.\n\nCreate a highly detailed winter wonderland background with snow-covered mountains, charming wooden cabins, glowing Christmas trees, festive market stalls, warm lanterns, sparkling fairy lights, decorated windows and gentle snowfall. Include a beautiful pink-purple winter sunset contrasting with the warm golden Christmas lights.\n\nMake the environment feel alive, cozy and full of holiday excitement. Use cinematic lighting, soft atmospheric shadows, beautiful reflections, subtle snow particles and intricate environmental details. The overall atmosphere should capture friendship, warmth, adventure and the magic of spending Christmas together.\n\nAspect ratio: Vertical 3:4.",
+      "author": {
+        "name": "Moescape AI",
+        "handle": "MoescapeAi",
+        "profile_url": "https://x.com/MoescapeAi"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/MoescapeAi/status/2125683890270417056",
+      "image": "examples/illustration-3d/x-01642.webp"
+    },
+    {
+      "id": "x-01643",
+      "category": "Illustration & 3D",
+      "title": "Rainy-Day Burrow Home Cartoon",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 2:3 的暖色卡通插画，粗细均匀的深棕色描边，平涂上色再叠一点颗粒笔刷的明暗，像一页温暖的儿童绘本，不是 3D，不是写实。画面是一间挖在土里的小洞屋的室内，四周墙壁是弧形的土洞壁，用几道深棕色弯线画出土层的纹路，从画面边缘包过来像一个圆框。左上方墙上开着一扇圆拱形的小窗，窗外是深蓝色的雨天，斜斜的浅蓝雨丝，窗台上摆两盆绿植，窗边垂下一盆吊兰。屋里有一盏亮着的落地台灯，暖黄的灯光把周围照亮，右边有个砖砌小壁炉里火苗在烧，墙上挂一幅小画，搁板上立着几本书和一盆小绿植。画面中间偏右是主角：一只小动物裹着奶油色的流苏毯子窝在一张软软的扶手椅里，闭着眼睛、嘴角带笑，脸颊有粉色腮红，舒服得快睡着了。前景是一张圆角木茶几，上面放着冒热气的杯子和一点小吃，地上铺一块圆形的橄榄绿地毯，旁边一个圆圆的橙色坐垫和一双小拖鞋。整体色调是赭石、焦糖、南瓜橙、芥末黄这些暖色，窗外的深蓝和绿植的绿是唯一的冷色对比。光是室内暖光，灯和壁炉两个光源，阴影是更深的暖棕。氛围是下雨天下午哪儿也不去、窝着就很满足。画面里不要任何文字和水印。\n\nNew subject:\n【主体】一只圆滚滚的小刺猬窝在一张红色格纹扶手椅里，裹着奶油色毯子，背上的刺从毯子里冒出来；屋子挖在一棵老树的树根下面，天花板上能看到几根粗粗的树根；茶几上是一杯热可可和一碟苹果片，旁边一台老式小收音机代替电视。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/static_stare/status/2125494094453715091",
+      "image": "examples/illustration-3d/x-01643.webp"
+    },
+    {
+      "id": "x-01644",
+      "category": "Photography",
+      "title": "Cliffside Bell Tower and Nine-Tailed Fox at Dusk",
+      "model": "GPT Image 2.6 Flare",
+      "prompt": "一张九比十六竖版东方仙境题材电影感奇幻摄影。画面主体是一座悬于山崖之间、以原木栈道相连的钟楼，钟楼飞檐轻翘，悬挂着一枚无文字的青铜钟，钟身爬满细小苔痕。栈道从崖壁延伸至钟楼脚下，木质扶手历经风雨，纹理清晰可辨。\n\n钟楼后方是层叠的深色山峦与缭绕云雾，云海在山谷间缓缓流动，露出远处若隐若现的第二重山脊。崇山之间点缀着几株遒劲的老松，枝干向钟楼一侧倾斜，针叶在晚风中微微颤动。\n\n栈道中段立着一只完全虚构的九尾狐，毛色为深琥珀与墨黑的渐变，九条尾巴如烈焰般向后舒展，尾尖缀着细小的萤火虫群，光点在暮色中忽明忽暗。狐狸侧身回望钟楼，姿态安静警觉，四足稳稳踏在栈道木板上，不悬空、不变形。\n\n天色为深秋暮色，太阳已沉入云海之下，只留下一道琥珀色余晖贴着山脊线，余晖之上是渐暗的墨绿与藏青夜色。钟楼与栈道受余晖染成温暖的赭金色，山体与云雾则保持清冷的墨绿与灰蓝，形成一冷一暖的清晰对比。\n\n电影级风光摄影质感，材质细腻真实，光影自然柔和，画面疏密有致，云雾、山峦、钟楼与狐狸各自保留清晰层次，不拼贴、不透叠。画面中不加任何文字、签名、印章或水印。",
+      "author": {
+        "name": "Andy",
+        "handle": "Andy4aicreate",
+        "profile_url": "https://x.com/Andy4aicreate"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Andy4aicreate/status/2125716497225896211",
+      "image": "examples/photography/x-01644.webp"
+    },
+    {
+      "id": "x-01645",
+      "category": "Illustration & 3D",
+      "title": "Retro Anime Night Train Sleeper Cabin",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 9:16 的复古日系动画夜景插画，手绘感的数字绘画，线条利落、色块平整，带一点点胶片颗粒，不是 3D，不是照片。画面是一个空无一人的小交通工具车厢内部（具体是什么由主体决定），一点透视、左右基本对称，正对着车厢尽头一扇圆角的大窗。车厢内饰是深色胡桃木的墙板和地板，天花板正中一盏圆形乳白灯罩的顶灯，两侧墙上各有一盏球形小壁灯，全都亮着暖琥珀色的光，在木头上留下柔和的光晕。窗外是深沉的午夜蓝，看得见远处的山或水的轮廓线，和一串细小的暖黄灯点，天上有几颗星，窗外不下雨。窗前是一张小圆桌，桌上一杯热饮冒着一缕细细的白汽，旁边一本摊开的书和一小碟零食。座椅是橙红色带暗纹的软垫，被灯照得发暖。整体是暖琥珀、橙红、深木棕和窗外午夜蓝的强烈冷暖对比，暗部是很深的棕黑色。气氛很安静，夜里只剩这一处亮着，适合一个人坐着发呆。画面里不要人物、文字、标识和水印。\n\nNew subject:\n【主体】一节夜行列车的双层卧铺包厢：左右两侧是上下铺，铺着橙红色毯子和白枕头，下铺之间是固定在窗下的小折叠桌，桌上放着冒热气的茶和一本书；窗外是远处山脚下的小镇灯火。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/static_stare/status/2125591906835185851",
+      "image": "examples/illustration-3d/x-01645.webp"
+    },
+    {
+      "id": "x-01646",
+      "category": "Illustration & 3D",
+      "title": "Sunlit Plant-Filled Bakery Kitchen Background Art",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 3:4 的日系动画电影背景插画，手绘感的数字绘画，色块边缘干净，叶子用一笔一笔的平涂色块叠出层次，不是 3D，不是照片。画面是一间小小的室内工作间，被大量绿植塞得满满的：天花板吊着一盏金属罩小吊灯和几盆垂下来的藤蔓，墙边一层层木架子上摆着盆栽、玻璃瓶和小罐子。午后的阳光从左上方一大扇格子窗斜射进来，形成几道明显的光柱，照到的叶子变成透亮的黄绿色和柠檬黄，光里飘着细小的浮尘和光点。前景左下和右下压着一圈大片的深绿色叶子，处在阴影里，几乎是暗墨绿，几朵小白花点在里面，让画面有很强的前后纵深。中景是一张旧木工作台，一个小小的人物侧身站在台前专心忙着手里的活（人物和活计由主体决定），人物只占画面很小一部分，穿浅色衣服，被光勾出一道亮边。地板上有阳光投下的窗格亮斑，散着几张纸。整体色调是黄绿、橄榄绿、深墨绿为主，阳光处是暖柠檬黄和奶白，木头是暖棕色，暗部偏蓝绿。气氛安静、明亮、有点忙碌又很治愈，像动画里一个慢镜头。画面里不要任何可读文字和水印。\n\nNew subject:\n【主体】一间小面包房的后厨：工作台上撒着面粉，摆着刚出炉的圆面包和法棍，一个系着米色围裙、扎着短发的年轻人正低头揉面团，身后架子上除了绿植还有一排面粉袋和发酵篮。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/static_stare/status/2125560967375556838",
+      "image": "examples/illustration-3d/x-01646.webp"
+    },
+    {
+      "id": "x-01647",
+      "category": "Illustration & 3D",
+      "title": "Vintage Natural History Plate: Citrus",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 3:4 的复古博物学图版，像从一本十九世纪的老图鉴里撕下来的一页：泛黄发旧的米褐色纸张，边角有一点咖啡色的旧斑和磨损，四周一圈细细的双线边框，四个角带小小的卷草纹饰。所有图案都是黑褐色的铜版画线刻，用密密的排线和交叉线表现明暗与体积，线条细而硬，不上颜色，只有纸本身的暖黄。版式是：画面正中偏上画一个占三分之一页面的大主体（主体由下面决定），细节最多、排线最密；它的四周错落地散布着八到十个小一号的相关小图，有剖面、局部特写、枝叶、种子或果实、相关的小工具，每个小图旁边都有一小段像手写注释一样的墨迹线；左下角固定画一只装着这样东西的旧玻璃罐，罐身有高光和反光线条。小图之间留出均匀的纸面空白，整体疏密有度，像一张认真排过的标本页。所有注释和标题位置都只用细小、不可辨认的手写墨迹线条代替，画面里不要出现任何可读的文字、字母、数字、签名和水印。光线是均匀的平光，像把这页纸平放在桌上正对着拍，没有投影。气氛安静、考究，像能裱起来挂墙。\n\nNew subject:\n【主体】柑橘：中间是一根挂着两只完整橘子和几片叶子的果枝；四周是橘子的横剖面、剥开的一瓣瓣果肉、橘子花、单片叶子的叶脉、几颗种子、一条螺旋削下来的橘皮、一把小果刀；左下角玻璃罐里装的是橘子酱。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/static_stare/status/2125524950857695275",
+      "image": "examples/illustration-3d/x-01647.webp"
+    },
+    {
+      "id": "x-01648",
+      "category": "Photography",
+      "title": "Parisian Menswear Editorial Portrait",
+      "model": "Nano Banana 2.1",
+      "prompt": "Positioned in the lower-left foreground using the rule of thirds, a young handsome man with terracotta-toned skin (#B77F64) wears a jet-black (#0E0F12) open-collar shirt and blazer featuring a subtle metallic pocket detail. His medium-length dark brown wavy hair reaches his mid-neck and upper ears, styled in a loose, pushed-back curtain cut with an off-center part, natural root volume, a semi-matte finish, and windswept flyaways. Projecting a posed, confident expression, he turns his head in three-quarter profile to the right with neutral straight eyebrows, relaxed closed lips, and a calm gaze directed rightward. Angled at 45 degrees with his right shoulder tilted lower and forward, he leans his weight onto his right forearm, draping his relaxed right hand and loosely curved fingers over an aged black wrought-iron balcony railing with ornate scrollwork and minor paint chips along the top rail. Set on a Parisian rooftop terrace overlooking the Palais Garnier and a distant Haussmannian roof on the far left, the midground features the vintage Emperor's Pavilion with a stone balustrade, arched entryway, sculptural pediment, and a curved carriage ramp paved in warm gray-brown cobblestone. Rising in the background in two-point perspective, the grand Beaux-Arts facade is built from matte, rough-textured dressed ashlar limestone masonry carved with Corinthian pilasters, circular stone medallions with busts, arched casement windows, garlands, and dentil cornices, crowned by oxidized verdigris patina green (#7D9B84) ribbed copper domes and gilded apex statues. Directional low-angle golden hour sunlight from the left bathes the right side of the masonry in sunlit golden limestone (#DEC293) and warm cream while casting a long, harsh diagonal gray shadow across the left facade that turns the stone cool taupe-gray. Open sky ambient fill softens the gradual shadows on the right side of the subject's face while a warm rim light catches his left cheekbone and temple, creating a high-contrast, moderately saturated complementary palette against the clear sky blue (#5D92CC). Captured as a tack-sharp digital photograph from a slightly low angle with a 26mm-28mm focal length at f/2.8 to f/4, ISO 64, and 1/1000s shutter speed, this Parisian luxury menswear editorial portrait uses natural smartphone HDR processing to preserve highlights and dark suit details across a deep depth of field, framed in a 3:4 vertical aspect ratio.",
+      "author": {
+        "name": "Picts by AI",
+        "handle": "pictsbyai",
+        "profile_url": "https://x.com/pictsbyai"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/pictsbyai/status/2125504261144625452",
+      "image": "examples/photography/x-01648.webp"
+    },
+    {
+      "id": "x-01649",
+      "category": "Illustration & 3D",
+      "title": "Art Nouveau Steampunk Biologist and Opal Dragon",
+      "model": "Midjourney",
+      "prompt": "Ultra-photorealistic Art Nouveau steampunk fantasy, full-body cinematic composition. Beautiful biologist in black-cherry and celadon botanical couture, brass-accented knee-high boots and quartz magnifier headband, beside a wingless opal dragon with branching crystal horns. Both stand on a branch terrace encircling an immense transparent hourglass-shaped fruit suspended from the colossal Tree of Life. Golden seeds above, luminous fractal miniature civilization below, recursive gardens, palatial arches and suspended bridges. Ivory passionflower with a single blue Papilio butterfly overhead. Celestial crystal vaults, golden astronomical ribs, pearl clouds, champagne sky, warm amber illumination, exquisite opalescent refractions, intricate organic architecture, deep focus, natural skin textures, 8K, Octane render --ar 3:4 --style raw",
+      "author": {
+        "name": "Super Producer Seth",
+        "handle": "SethCritchley",
+        "profile_url": "https://x.com/SethCritchley"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/SethCritchley/status/2125582394224976258",
+      "image": "examples/illustration-3d/x-01649.webp"
+    },
+    {
+      "id": "x-01650",
+      "category": "UI & Graphic",
+      "title": "Kinetic Vortex Infographics 2x2 Grid",
+      "model": "Nano Banana 2.1",
+      "prompt": "2x2 grid, 16:9, AI picks topics: \nTOPIC = $ input  # Change only this line.\n\nclass Kinetic_Vortex_Infographics:\n\n    def __init__(self, topic):\n        self.topic = topic\n\n        self.identity = AI_INFER(\n            topic,\n            identify=\"\"\"\n            The strongest recognizable visual cues\n            or subject-specific symbolic relationships.\n\n            Preserve an identifiable primary subject\n            even after extreme geometric abstraction.\n            \"\"\"\n        )\n\n        self.motion = AI_INFER(\n            topic,\n            invent=\"\"\"\n            The strongest visual movement concept\n            associated with this particular topic.\n\n            Possibilities include expansion, collapse,\n            rotation, acceleration, accumulation,\n            conflict, transformation, repetition,\n            convergence, or an abstract journey.\n\n            Infer what movement makes conceptual sense.\n\n            Do not automatically portray every\n            topic as economic growth or progress.\n            \"\"\"\n        )\n\n        self. world = AI_INFER(\n            topic,\n            construct=\"\"\"\n            An impossible architectural environment\n            expressing the topic through monumental\n            geometric structures and optical illusions.\n\n            Translate subject-related forms into\n            curved staircases, spiraling passages,\n            warped planes, or dynamic trajectories.\n\n            Avoid generic unrelated architecture.\n            \"\"\"\n        )\n\n    def render(self):\n        return generate_images(\n            count=4,\n            aspect_ratio=\"4:5\",\n            output=\"four separate finished artworks\",\n\n            art_direction=f\"\"\"\n            Transform {self.topic} into an extraordinary\n            kinetic editorial infographic.\n\n            Combine 1960s optical art, impossible\n            geometric architecture, minimalist\n            flat-vector storytelling, and modern\n            conceptual information design.\n\n            Make graphic lines appear to bend\n            space, pull perspective, and transform\n            architecture into visual movement.\n\n            Subject identity: {self.identity}\n            Motion concept: {self.motion}\n            Architectural world: {self. world}\n\n            The image must feel hypnotic,\n            intelligent, monumental, and dynamic.\n            \"\"\",\n\n            optical_geometry=\"\"\"\n            DOMINANT STYLE RULE:\n\n            Build the composition around massive\n            black-and-white optical geometry.\n\n            Use:\n            - Converging radial stripes\n            - Hypnotic spiral tunnels\n            - Warped concentric rings\n            - Curved parallel bands\n            - Distorted perspective grids\n            - Undulating striped landscapes\n            - Dramatic funnel-shaped voids\n            - Alternating black and white surfaces\n\n            Control stripe width to create\n            a convincing illusion of spatial depth.\n\n            Let different stripe systems merge\n            into architectural features.\n\n            Create a single primary visual vortex,\n            with secondary distortions only where useful.\n\n            Preserve strong graphic readability.\n            \"\"\",\n\n            impossible_architecture=\"\"\"\n            Construct an elegant architectural\n            structure from the optical geometry.\n\n            Choose subject-appropriate elements:\n            - Monumental ascending stairways\n            - Curved bridges\n            - Floating platforms\n            - Distorted building silhouettes\n            - Impossible pathways\n            - Sculptural ramps\n            - Geometric corridors\n            - Warped chart-like structures\n\n            Integrate them physically into\n            the swirling black-and-white space.\n\n            Staircases should emerge from curves.\n\n            Graph-like structures may become\n            buildings or impossible landscapes.\n\n            Avoid separate floating chart widgets.\n\n            The environment itself must tell\n            the subject's conceptual story.\n            \"\"\",\n\n            hero_subject=\"\"\"\n            Give the topic a clear visual anchor.\n\n            For people:\n            Use bold recognizable graphic profiles,\n            simplified clothing, expressive poses,\n            and distinctive silhouette features.\n\n            For animals:\n            Preserve defining anatomical geometry\n            using flat illustrative forms.\n\n            For objects:\n            Transform recognizable components into\n            large graphic architectural shapes.\n\n            For places:\n            Incorporate landmark silhouettes\n            into the impossible environment.\n\n            For abstract concepts:\n            Invent a central symbol or narrative\n            metaphor integrated into the vortex.\n\n            Keep the subject recognizable.\n\n            Do not add generic businessmen,\n            astronauts, or cartoon figures\n            unless relevant to the topic.\n            \"\"\",\n\n            infographic_language=\"\"\"\n            Integrate the sophistication of\n            an editorial information graphic.\n\n            Introduce:\n            - Thin directional arrows\n            - Minimal trajectory lines\n            - Geometric data-like markers\n            - Small vector pictograms\n            - Repeated stepped structures\n            - Elegant proportional divisions\n            - Abstract growth or change curves\n            - Small subject-related visual symbols\n\n            Use these elements as compositional tools.\n\n            Do not imply quantitative facts\n            that have not been supplied.\n\n            Avoid unnecessary numerical labels.\n\n            Make information design expressive\n            without becoming a dashboard.\n            \"\"\",\n\n            color_system=\"\"\"\n            PRIMARY:\n            Pure black         #050505\n            Warm white         # F8F6EF\n\n            RESERVED ACCENTS:\n            Vermilion red      # C93D2A\n            Deep cobalt        # 164B85\n            Olive green        # 606B3F\n            Muted gold         # E0AD62\n\n            Approximately 70% of the composition's\n            visual impact comes from black and white.\n\n            Use one dominant accent color per artwork.\n\n            Introduce a second accent only\n            when compositionally necessary.\n\n            Color should identify the subject\n            or key narrative elements.\n\n            Use large flat color masses.\n\n            No gradients, glow, or glossy rendering.\n            \"\"\",\n\n            spatial_composition=\"\"\"\n            Create a dramatic vertical poster.\n\n            Give the composition a powerful\n            visual entry point near the foreground.\n\n            Direct the viewer toward an optical\n            vanishing point or impossible destination.\n\n            Use aggressive foreground-to-background\n            scale changes.\n\n            Allow a large subject or graphic form\n            to partially interrupt the striped space.\n\n            Balance hypnotic background complexity\n            with clean foreground silhouette shapes.\n\n            Prefer one monumental integrated scene\n            over a standard four-panel layout.\n\n            Every major component must participate\n            in the same impossible visual world.\n            \"\"\",\n\n            rendering=\"\"\"\n            Precision flat-vector illustration.\n\n            Hard-edged black-and-white shapes.\n\n            Smooth mathematical curves.\n\n            Sharp color separation.\n\n            Minimal contour lines on colored subjects.\n\n            Slightly retro editorial poster character.\n\n            No photographic texture.\n\n            No airbrushing.\n\n            No soft realistic shadows.\n\n            No conventional 3D render.\n\n            All depth must emerge from perspective,\n            optical geometry, occlusion, and scale.\n            \"\"\",\n\n            controlled_variation=\"\"\"\n            Generate four genuinely distinct compositions.\n\n            Preserve optical geometry, impossible\n            architecture, black-and-white dominance,\n            selective spot color, and minimal illustration.\n\n            Change:\n            - Spiral direction and topology\n            - Architectural arrangement\n            - Narrative viewpoint\n            - Subject placement\n            - Main movement concept\n            - Accent-color placement\n\n            Do not simply rotate or recolor\n            the same optical illusion.\n            \"\"\",\n\n            final_check=\"\"\"\n            The subject must remain recognizable.\n\n            Optical geometry must dominate\n            the artistic identity.\n\n            Architecture and diagram structures\n            must feel physically integrated\n            into the striped vortex.\n\n            The space must be visually impossible\n            yet compositionally believable.\n\n            Color must remain selective.\n\n            Avoid conventional business infographics.\n\n            Avoid an optical background with\n            an unrelated subject pasted over it.\n\n            All four outputs should be distinctive.\n            \"\"\"\n        )\n\nKinetic_Vortex_Infographics(TOPIC).render()",
+      "author": {
+        "name": "Gadgetify",
+        "handle": "Gdgtify",
+        "profile_url": "https://x.com/Gdgtify"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Gdgtify/status/2125519615304274301",
+      "image": "examples/ui-graphic/x-01650.webp"
+    },
+    {
+      "id": "x-01651",
+      "category": "Photography",
+      "title": "Documentary Photo of a Desert Alien Humanoid",
+      "model": "Midjourney",
+      "prompt": "[A slender alien humanoid with cracked sandstone-colored skin, four small recessed eyes, elongated fingers and an unusually narrow skull, standing between enormous desert rock formations] ultra-photorealistic documentary photography, Sony A1, cold diffused daylight, muted organic colors, physically accurate shadows, realistic biological anatomy, intricate skin microtextures, natural optical depth, authentic photographic realism, no CGI, no illustration, no text --v 8.2",
+      "author": {
+        "name": "Easy A.I.",
+        "handle": "92digitalartArt",
+        "profile_url": "https://x.com/92digitalartArt"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/92digitalartArt/status/2125518456908812611",
+      "image": "examples/photography/x-01651.webp"
+    },
+    {
+      "id": "x-01652",
+      "category": "Illustration & 3D",
+      "title": "Happy Frog with a Heart Speech Bubble",
+      "model": "Midjourney",
+      "prompt": "A digital illustration in a whimsical, cartoon style featuring a cute, chubby green frog with a light-colored belly. The frog has a happy expression with its eyes closed and its tongue sticking out. Above the frog's head is a speech bubble containing a small red heart. The background is a muted olive green with a subtle halftone dot texture. The art style uses clean, bold outlines and soft, flat coloring. --ar 4:5 --raw --sref 1491902504 1792387994 --stylize 300 --hd",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/heathergreen/status/2124986851488301412",
+      "image": "examples/illustration-3d/x-01652.webp"
+    },
+    {
+      "id": "x-01653",
+      "category": "Illustration & 3D",
+      "title": "Raccoon Peeking Over a Fence Line Art",
+      "model": "Midjourney",
+      "prompt": "adorable raccoon illustration, peeking over a fence, black line art on white background --ar 4:5 --raw --sref 1366948491 1146809075 62318682 --stylize 300 --hd",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/heathergreen/status/2125605434635800800",
+      "image": "examples/illustration-3d/x-01653.webp"
+    },
+    {
+      "id": "x-01654",
+      "category": "Product & Brand",
+      "title": "Kraft-Paper Coffee Bag Label",
+      "model": "Nano Banana 2.1",
+      "prompt": "A kraft-paper coffee bag standing on a wooden counter, its front label reading \"MORNING RIDGE\" in a bold serif with \"MEDIUM ROAST\" beneath. Realistic paper creases, soft side light, no other text.",
+      "author": {
+        "name": "Sparkian",
+        "handle": "SparkianAI",
+        "profile_url": "https://x.com/SparkianAI"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/SparkianAI/status/2125635626339045853",
+      "image": "examples/product-brand/x-01654.webp"
+    },
+    {
+      "id": "x-01655",
+      "category": "Photography",
+      "title": "Cryptid on a Mountain Road, Hidden-Camera Style",
+      "model": "Midjourney",
+      "prompt": "A disturbing two-meter-tall bipedal creature with sparse white fur, wrinkled pinkish skin, unusually long fingers, enormous folded ears and a hunched posture, walking across a deserted mountain road at dawn. Secretly captured smartphone photograph from a concealed position, blurred foreground obstruction, subtle camera shake, imperfect autofocus, natural ambient lighting, realistic biological microtextures, physically accurate shadows, full-body view, entire creature visible, raw unedited image, no CGI, no illustration, no humans, no text--v 8.2",
+      "author": {
+        "name": "Easy A.I.",
+        "handle": "92digitalartArt",
+        "profile_url": "https://x.com/92digitalartArt"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/92digitalartArt/status/2125541348572803458",
+      "image": "examples/photography/x-01655.webp"
+    },
+    {
+      "id": "x-01656",
+      "category": "Photography",
+      "title": "Autumn Street Portrait with Headphones",
+      "model": "Midjourney",
+      "prompt": "Warm cinematic autumn street portrait — woman with coral-orange ombré hair & headphones, golden leaves swirling, golden-hour glow. 35mm film, 85mm f/1.8, shallow depth of field.",
+      "author": {
+        "name": "Prompt King",
+        "handle": "King4Prompts",
+        "profile_url": "https://x.com/King4Prompts"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/King4Prompts/status/2124934728411464021",
+      "image": "examples/photography/x-01656.webp"
+    },
+    {
+      "id": "x-01657",
+      "category": "Photography",
+      "title": "Night Café Bench Fashion Portrait",
+      "model": "Midjourney",
+      "prompt": "Ultra-realistic fashion portrait — woman in black top & cream cargos on a bench by a glowing city café at night, looking back over her shoulder, 85mm lens, cinematic bokeh",
+      "author": {
+        "name": "Prompt King",
+        "handle": "King4Prompts",
+        "profile_url": "https://x.com/King4Prompts"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/King4Prompts/status/2125662220982034797",
+      "image": "examples/photography/x-01657.webp"
+    },
+    {
+      "id": "x-01658",
+      "category": "Illustration & 3D",
+      "title": "The Astral Warden Cel-Shaded Concept Art",
+      "model": "Grok Imagine",
+      "prompt": "Subject:\nA poised male astral warden stands in a confident three-quarter heroic stance, neatly centered within a balanced 1:1 square composition with one shoulder angled forward and his hand resting lightly near his ornate belt. He wears a calm, resolute expression with sharp brows, piercing pale-blue eyes, and windswept dark-indigo hair swept back from a sculpted jawline. The entire figure is rendered in crisp cel-shaded concept art featuring clean ink linework, stylized anatomical clarity, and sharp, studio-polished shadow planes.\n\nAttire:\nHis silhouette pairs a structured storm-slate wool surcoat and fitted charcoal-navy breeches over a luminous glacier-ice silk shirt with subtle pleated cuffs. Across his shoulders and forearms sit brushed silver pauldrons, a crescent gorget, and articulated vambraces engraved with intricate celestial filigree, anchored by a midnight-navy leather waist cincher. A sweeping asymmetrical mystic cloak of deep cobalt wool, lined in midnight navy satin and traced with cool pearl-thread star-chart embroidery, fastens at the collarbone with a brushed silver astrolabe clasp. Tall midnight-navy leather boots reinforced with brushed silver greaves complete the ensemble, with every metallic sheen and textile fold defined through crisp cel-shaded color blocking.\n\nScene:\nHe stands atop an ancient open-air celestial observatory terrace paved in pale slate stone inlaid with concentric silver meridian rings, framed by weathered stone arches and distant twilight peaks under a deep indigo sky. Cool directional moonlight from the upper left casts crisp, graphic two-tone shadows across the stone floor and highlights the brushed silver filigree against subtle drifting starlight motes. The environment maintains cohesive cel-shaded concept art discipline, pairing clean graphic foreground line weights with simplified, painterly atmospheric washes proportioned seamlessly for a 1:1 square frame.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2125518722869952620",
+      "image": "examples/illustration-3d/x-01658.webp"
+    },
+    {
+      "id": "x-01659",
+      "category": "Photography",
+      "title": "Sienna Canyon Cloudbreak",
+      "model": "Grok Imagine",
+      "prompt": "A sweeping wide-angle cinematic photograph framed in a balanced 1:1 square composition, capturing the immense vastness of a pure, untouched rocky canyon in the afternoon. Layered sandstone cliffs and rugged weathered rock formations descend toward a distant stony gorge floor, stretching undisturbed to the horizon. Above, a dramatic cloudbreak parts heavy storm clouds, spilling warm amber shafts of sunlight across rich burnt sienna ridges and weathered stone neutrals. Deep cool umber shadows anchor the lower crevices, building layered atmospheric depth toward a soft apricot-diffused sky. Captured on a wide-field cinema lens with crisp geological textures, natural optical falloff, and subtle film grain.",
+      "author": {
+        "name": "David Liang",
+        "handle": "DavidLi36143625",
+        "profile_url": "https://x.com/DavidLi36143625"
+      },
+      "type": "image",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/DavidLi36143625/status/2125471084028018987",
+      "image": "examples/photography/x-01659.webp"
+    },
+    {
+      "id": "x-01660",
+      "category": "Video",
+      "title": "Luxury Perfume Commercial",
+      "model": "Seedance 2.0",
+      "prompt": "Create an ultra-realistic luxury perfume commercial featuring an elegant young woman with sleek dark brown hair tied in a high ponytail, wearing a sophisticated white sleeveless high-neck outfit. She gracefully holds a luxurious transparent glass perfume bottle with golden details and a cream-colored cap.\n\nScene transitions include close-up shots of her face, delicate hands holding the perfume, a gentle perfume spray, elegant product shots on a beige stone pedestal, and the bottle resting in her palm.\n\nBackground: Minimalist warm beige studio with soft natural sunlight, subtle shadows, and a premium editorial atmosphere.\n\nCamera: Cinematic macro shots, slow-motion movements, smooth transitions, shallow depth of field, professional luxury beauty advertising, photorealistic 4K quality. Maintain consistent product design and model appearance throughout.",
+      "author": {
+        "name": "Rubi",
+        "handle": "AIwithRubii",
+        "profile_url": "https://x.com/AIwithRubii"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/AIwithRubii/status/2125469696275497437",
+      "image": "examples/video/x-01660.webp"
+    },
+    {
+      "id": "x-01662",
+      "category": "Video",
+      "title": "Burning Home and a Miracle Rain",
+      "model": "Seedance 2.0",
+      "prompt": "A burning home, a desperate love, and a mysterious rain. When all hope disappeared, a miracle brought two hearts back together. True love never gives up.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2125516450307706950",
+      "image": "examples/video/x-01662.webp"
+    },
+    {
+      "id": "x-01663",
+      "category": "Video",
+      "title": "Princess in a Magical Royal Garden",
+      "model": "Seedance 2.0",
+      "prompt": "A beautiful princess explores a magical royal garden, surrounded by glowing butterflies, pink roses, sparkling waterfalls, and a magnificent palace, creating a breathtaking fantasy cinematic experience.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2125559698011373647",
+      "image": "examples/video/x-01663.webp"
+    },
+    {
+      "id": "x-01664",
+      "category": "Video",
+      "title": "Origami Boy Flying a Kite",
+      "model": "Grok Imagine",
+      "prompt": "A boy flying a kite, origami style.",
+      "author": {
+        "name": "Mr Das",
+        "handle": "MrDasCreates",
+        "profile_url": "https://x.com/MrDasCreates"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/MrDasCreates/status/2125644209235665026",
+      "image": "examples/video/x-01664.webp"
+    },
+    {
+      "id": "x-01665",
+      "category": "Video",
+      "title": "Dragons Waking in a Flower Field",
+      "model": "Grok Imagine",
+      "prompt": "Dragons sleeping in field up flowers wakes up and shakes off the dew dew drops refract early morning sunlight into many colors and hues",
+      "author": {
+        "name": "Lindy Hawkinson",
+        "handle": "HawkinsonLindy",
+        "profile_url": "https://x.com/HawkinsonLindy"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/HawkinsonLindy/status/2125607017243107509",
+      "image": "examples/video/x-01665.webp"
+    },
+    {
+      "id": "x-01666",
+      "category": "Video",
+      "title": "Calligraphy Pen Writing Tokyo in Kanji",
+      "model": "Grok Imagine",
+      "prompt": "A calligraphy pen writing the word 東京 on premium Japanese paper",
+      "author": {
+        "name": "Warren Redlich - Chasing Dreams 🇺🇸",
+        "handle": "WR4NYGov",
+        "profile_url": "https://x.com/WR4NYGov"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/WR4NYGov/status/2125708888519680258",
+      "image": "examples/video/x-01666.webp"
+    },
+    {
+      "id": "x-01667",
+      "category": "Video",
+      "title": "Textured Latex Psychedelic Sci-Fi Warp",
+      "model": "Grok Imagine",
+      "prompt": "Textured latex psychedelic sci-fi warp",
+      "author": {
+        "name": "TheAric",
+        "handle": "TheAricIs",
+        "profile_url": "https://x.com/TheAricIs"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/TheAricIs/status/2125730006605439410",
+      "image": "examples/video/x-01667.webp"
+    },
+    {
+      "id": "x-01668",
+      "category": "Video",
+      "title": "Anime Cats Watching TV on the Sofa",
+      "model": "Grok Imagine",
+      "prompt": "Create a cute anime image of a cat and his girlfriend chilling on the sofas watching TV while their owner boy plays video games on his handheld device, cute, funny, fun and colorful",
+      "author": {
+        "name": "Vict0r 0h 🤖",
+        "handle": "victoroh919",
+        "profile_url": "https://x.com/victoroh919"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/victoroh919/status/2125734903748903137",
+      "image": "examples/video/x-01668.webp"
+    },
+    {
+      "id": "x-01669",
+      "category": "Video",
+      "title": "Broomstick Flight Over Korean Landscapes",
+      "model": "Wan 3.0",
+      "prompt": "A beautiful young woman with long, straight pastel-pink hair, wearing a vibrant yellow-orange princess dress with puffed sleeves, white lace ruffles, and a short layered skirt, flies on a magical wooden broomstick through breathtaking Korean landscapes.\n\n0–5s | Magical Takeoff:\nThe video opens with an exciting low-angle tracking shot as the woman speeds across the stone courtyard of a magnificent traditional Korean royal palace. Her broomstick suddenly lifts into the air, her pink hair and flowing dress fluttering in the wind. The camera rapidly follows her upward.\n5–10s | Rooftop Flight:\nShe soars above ancient Korean palace rooftops, gracefully maneuvering between traditional buildings. Dynamic drone-style tracking shots follow her from behind and alongside. Cut to a stunning close-up of her face against the clear blue sky, her expression calm and confident.\n10–15s | Mountain Adventure:\nThe camera pulls dramatically backward to reveal enormous rocky mountains covered in lush green forests. She flies effortlessly between towering mountain peaks, passing dangerously close to dramatic cliffs. Sweeping aerial cinematography emphasizes the breathtaking scale.\n\n15–22s | Magical Lake Flight:\nShe emerges above a vast, crystal-clear emerald lake surrounded by majestic mountains. Flying just inches above the water, her broomstick creates delicate ripples across the surface. Her reflection moves naturally beneath her as the camera tracks alongside.\n22–30s | Epic Cinematic Finale:\nShe accelerates across the enormous lake toward distant mountains. The camera transitions into an extreme-wide aerial shot, slowly pulling farther away as she becomes a tiny figure against the spectacular landscape. Her silhouette and reflection remain visible on the peaceful water. End with a breathtaking panoramic view of the mountains and lake.\nVisual Style: Photorealistic live-action fantasy, natural daylight, realistic wind physics, flowing fabric, detailed skin texture, cinematic drone movements, seamless transitions, realistic environmental reflections, expansive landscapes, and spectacular aerial cinematography.\n\nCharacter Consistency: Maintain exactly the same face, pastel-pink hairstyle, yellow-orange princess dress, body proportions, and wooden broomstick throughout every shot.\nNegative Prompt: Cartoon, anime, artificial CGI appearance, face morphing, outfit changes, distorted anatomy, unnatural flying movements, floating without broomstick, inconsistent scale, blurry landscapes, excessive magical particles, text, subtitles, watermarks.",
+      "author": {
+        "name": "Rosey Watson",
+        "handle": "Rosey_watson",
+        "profile_url": "https://x.com/Rosey_watson"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Rosey_watson/status/2125577915182301537",
+      "image": "examples/video/x-01669.webp"
+    },
+    {
+      "id": "x-01670",
+      "category": "Video",
+      "title": "Giant Hand Thawing a Frozen Miniature Town",
+      "model": "Veo 3.0",
+      "prompt": "{\n  \"prompt\": \"Ultra-photorealistic cinematic miniature diorama video, 16:9 widescreen, 10 seconds, macro tilt-shift photography, shallow depth of field, 4K detail. Everything looks like a real handcrafted physical model with believable scale, realistic textures, and natural physics. A giant realistic human hand works on a wooden workshop table in warm golden window light. 0-2s (Hook): A tiny miniature mountain town is completely frozen in blue ice, with frosted rooftops, frozen fountains, and tiny villagers stuck mid-step like statues. The giant hand enters holding a small glowing red lantern. It touches the ice, creating a ripple of warm orange light that cracks outward across the street. 2-4s: Warmth spreads through the town like a wave. Ice melts from rooftops, chimneys begin puffing smoke, windows glow yellow, and frozen villagers come back to life, laughing and hugging. Fast cinematic push-in. 4-6s: The hand raises the lantern above the mountain. Snow slides from the peaks, meltwater streams through the streets, green grass emerges through the snow, and pink blossoms rapidly bloom on the trees. 6-8s: The camera glides at street level through the thawed town, passing steaming bakeries, children splashing in puddles, and a tiny train rolling out of a mountain tunnel. Soft bokeh and drifting warm light particles. 8-10s (Payoff): The giant hand carries the glowing lantern toward a second frozen town at the edge of the wooden table. Cut precisely as the warm light is about to touch the ice, creating anticipation for the next scene. Photorealistic miniature world, vivid icy blue contrasted with warm orange and fresh green, realistic skin pores and texture on the hand, seamless hand-to-world interaction, physically believable melting ice and flowing water, cinematic lighting, macro depth of field, satisfying ASMR-style ice cracking and melting sounds, no dialogue, no text, no logos, no watermark.\",\n  \"duration\": \"10 seconds\",\n  \"aspect_ratio\": \"16:9\",\n  \"quality\": \"4K\",\n  \"style\": \"ultra-photorealistic cinematic miniature diorama\",\n  \"camera\": \"macro tilt-shift, shallow depth of field, cinematic push-in and street-level tracking\",\n  \"audio\": \"ASMR-style ice cracking, melting water, subtle village ambience, no dialogue\",\n  \"negative_prompt\": \"cartoon, CGI-looking plastic, unrealistic physics, distorted hands, extra fingers, deformed people, inconsistent scale, flickering, temporal artifacts, text, subtitles, logos, watermark\"\n}",
+      "author": {
+        "name": "Aegon",
+        "handle": "Fujimoto_hina",
+        "profile_url": "https://x.com/Fujimoto_hina"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Fujimoto_hina/status/2125596543457923093",
+      "image": "examples/video/x-01670.webp"
+    },
+    {
+      "id": "x-01671",
+      "category": "Video",
+      "title": "Rotating Origami Klein Bottle",
+      "model": "Grok Imagine",
+      "prompt": "Image prompt:\nklein bottle sculpture made of folded white origami paper, crisp creases and facets, the neck curving back into its own body, dark charcoal studio backdrop, random dark illumination, heavy film texture with hasselblad type of shot\n\nVideo prompt:\nthe paper klein bottle slowly rotates a full 360 degrees, light crawls along the crease facets, seamless loop, static camera, soft paper rustle sounds, no music",
+      "author": {
+        "name": "Carolina Delgado",
+        "handle": "carolletta",
+        "profile_url": "https://x.com/carolletta"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/carolletta/status/2125213120490815626",
+      "image": "examples/video/x-01671.webp"
+    },
+    {
+      "id": "x-01672",
+      "category": "Video",
+      "title": "Watercolour Paper Möbius Strip Loop",
+      "model": "Grok Imagine",
+      "prompt": "Image prompt:\nmobius strip made of torn watercolour paper in indigo and ochre washes, deckled edges, a single half twist, dark studio backdrop, soft side light, random details, heavy film texture with hasselblad type of shot\n\nVideo prompt:\nthe watercolour mobius strip turns in place while the paper slides endlessly along its single surface, seamless loop, static camera, quiet paper sounds, no music",
+      "author": {
+        "name": "Carolina Delgado",
+        "handle": "carolletta",
+        "profile_url": "https://x.com/carolletta"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/carolletta/status/2125575301019398548",
+      "image": "examples/video/x-01672.webp"
+    },
+    {
+      "id": "x-01673",
+      "category": "Video",
+      "title": "Restaurant Revenge Comedy Scene",
+      "model": "Kling 4.0",
+      "prompt": "Create an ultra-realistic 30-second live-action Korean revenge-comedy scene inside a luxurious Korean restaurant.\n\nCHARACTERS:\nWoman: Stylish Korean woman in her 20s wearing a red blazer, black mini skirt, and long black hair.\nMan: Arrogant Korean businessman wearing an expensive navy suit and gold watch.\n\nACTION SEQUENCE — EXACTLY 30 SECONDS:\n\n0–5 seconds: The woman sits peacefully at a restaurant table, enjoying a large bowl of steaming noodles.\n\n5–9 seconds: The arrogant man walks past and deliberately knocks her bowl onto the table, spilling noodles everywhere. He laughs mockingly.\n\n9–13 seconds: She slowly looks at the mess, then looks directly at him with a serious expression.\n\n13–18 seconds: She picks up a small bowl of cold noodles and places it carefully on a serving tray. As the man turns around, she accidentally-on-purpose bumps the tray, sending noodles flying onto his expensive suit.\n\n18–23 seconds: The man freezes in disbelief. Restaurant customers turn around. The woman calmly hands him a napkin and says: \"Now we're even.\"\n\n23–30 seconds: He tries to walk away proudly, but steps on a fallen noodle and stumbles into an empty chair. The woman continues eating as if nothing happened. End with her satisfied smile.\n\nSOUND DESIGN: Restaurant ambience, chopsticks, ceramic bowl impact, noodles splashing, crowd reactions, footsteps, chair movement, natural dialogue.\n\nVISUAL REQUIREMENTS: Photorealistic live-action, realistic food physics, detailed skin textures, natural facial expressions, consistent characters and clothing. Exactly 30 seconds. No animation, no supernatural effects.",
+      "author": {
+        "name": "Elvorya",
+        "handle": "Elvorya",
+        "profile_url": "https://x.com/Elvorya"
+      },
+      "type": "video",
+      "added": "2026-11-26",
+      "tweet_url": "https://x.com/Elvorya/status/2125462047274193084",
+      "image": "examples/video/x-01673.webp"
     }
   ]
 }

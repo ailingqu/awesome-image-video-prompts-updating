@@ -1,4 +1,4 @@
-# Product & Brand — 220 community examples
+# Product & Brand — 221 community examples
 
 [← Back to Community Examples](../EXAMPLES.md) · Page 1 / 2: **1** · [2](./x-product-brand-2.md)
 

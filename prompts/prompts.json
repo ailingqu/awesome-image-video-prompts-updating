@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "description": "A continuously-updated, original collection of image & video prompts. Prompts are refined in-house and every preview image is generated with vinano.ai.",
     "render_provider": "vinano.ai",
-    "count": 2171,
+    "count": 2181,
     "by_category": {
-      "Photography": 656,
-      "Illustration & 3D": 437,
-      "Product & Brand": 406,
-      "Food & Drink": 203,
-      "Poster Design": 252,
-      "UI & Graphic": 188,
-      "Video": 29
+      "Photography": 657,
+      "Illustration & 3D": 438,
+      "Product & Brand": 407,
+      "Food & Drink": 205,
+      "Poster Design": 253,
+      "UI & Graphic": 190,
+      "Video": 31
     },
-    "updated": "2026-11-25",
+    "updated": "2026-11-26",
     "license": "CC BY 4.0"
   },
   "prompts": [
@@ -25518,6 +25518,130 @@
       "origin": "daily",
       "video": "videos/vn-02180.mp4",
       "duration": 5.2
+    },
+    {
+      "id": "vn-02181",
+      "title": "Coastal Town Travel Itinerary Infographic",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "Nano Banana Pro",
+      "keywords": [],
+      "prompt": "A tidy one-page travel itinerary infographic titled \"3 Days in a Coastal Town\" designed for a trip-planning app called \"ViNano Trips\". A soft illustrated map strip runs across the top with a dotted route linking five numbered pins: harbor, lighthouse, old market, cliff trail and sunset pier. Below, three day columns (Day 1, Day 2, Day 3) each list morning, afternoon and evening plans with small flat icons, walking times and one short tip in a rounded callout. A footer row shows a packing checklist and a weather strip with three sunny-to-cloudy icons. Sea-blue, sand and coral palette, generous white space, clean rounded sans-serif type, all text crisp and correctly spelled.",
+      "image": "images/ui-graphic/vn-02181.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02182",
+      "title": "Swiss-Style Winter Jazz Night Poster",
+      "category": "Poster Design",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A bold Swiss-style poster for a winter jazz night. Off-white background with a huge abstract saxophone built only from black geometric shapes and one orange circle, set off-center on a strict grid. Headline in heavy grotesque capitals stacked on the left: \"WINTER JAZZ\". Smaller text blocks aligned to the grid: \"Live Quartet · Friday 9 PM\", \"Basement Hall, Old Town\", \"Doors 8:30 · Tickets at the door\". Thin black rules divide the sections, a tiny line \"poster made with ViNano\" sits in the bottom corner. Flat print look, black, orange and warm grey only, perfectly legible type.",
+      "image": "images/poster-design/vn-02182.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02183",
+      "title": "Personal Finance Dashboard UI",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A desktop dashboard UI for a personal finance app called \"ViNano Budget\", shown flat on a light grey canvas. Left sidebar with icons for Overview, Accounts, Goals, Reports and Settings. Main area: a greeting \"Good morning, Alex\", four summary cards (Balance $8,420, Spent this month $1,265, Saved $640, Upcoming bills 3), a smooth area chart of spending over twelve weeks, a donut chart split into Rent, Food, Transport and Fun, and a goals panel with progress bars for \"Emergency fund 72%\" and \"Summer trip 45%\". Calm mint and navy palette, soft card shadows, rounded corners, clean sans-serif type, realistic product screenshot quality.",
+      "image": "images/ui-graphic/vn-02183.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02184",
+      "title": "Overhead Sunday Brunch Spread with Shakshuka",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Nano Banana 2.1",
+      "keywords": [],
+      "prompt": "Overhead food photograph of a rustic Sunday brunch spread on a weathered oak table: a cast-iron pan of shakshuka with three runny eggs and torn parsley, a board of sliced sourdough with whipped butter, a bowl of thick yogurt topped with honey, pistachios and pomegranate seeds, a small glass jug of fresh orange juice and two ceramic mugs of black coffee. Linen napkins, scattered crumbs, a hand reaching in with a piece of bread. Bright natural morning light from the top left, gentle shadows, warm and inviting colors, editorial cookbook style, sharp detail.",
+      "image": "images/food-drink/vn-02184.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02185",
+      "title": "Matcha Mille Crepe Cake Slice",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A glossy close-up of a single slice of matcha mille crepe cake on a matte black plate, twenty thin pale crepe layers alternating with light green cream clearly visible on the cut side, a dusting of bright matcha powder on top and one fresh raspberry. A small silver fork rests beside it and a cup of green tea blurs softly in the background. Low side light making the layers glow, dark moody backdrop, shallow depth of field, high-end patisserie menu photo.",
+      "image": "images/food-drink/vn-02185.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02186",
+      "title": "Isometric Floating Island Bookshop",
+      "category": "Illustration & 3D",
+      "type": "image",
+      "engine": "Grok Imagine Image",
+      "keywords": [],
+      "prompt": "A cozy isometric 3D illustration of a tiny floating island bookshop at dusk. A two-story wooden shop with a green awning and a hanging sign reading \"ViNano Books\", shelves visible through warm glowing windows, a reading nook with a cat on a cushion, stacks of books on the porch, string lights, a small tree with orange leaves and a winding stone path that ends at the island edge. Soft clay-like materials, gentle rim light, pastel purple sky with a few stars, miniature diorama feel, clean background.",
+      "image": "images/illustration-3d/vn-02186.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02187",
+      "title": "Ceramic Pour-Over Coffee Set Product Shot",
+      "category": "Product & Brand",
+      "type": "image",
+      "engine": "MiniMax H3 Image",
+      "keywords": [],
+      "prompt": "Studio product photograph of a minimalist ceramic pour-over coffee set: a matte sand-colored dripper on a slim glass carafe half filled with coffee, a gooseneck kettle in brushed steel and a small paper bag of beans with a kraft label printed \"ViNano Roast · Single Origin\". Arranged on a pale travertine slab with a few loose coffee beans, soft beige backdrop, a single diagonal shadow from a window frame, warm soft light, crisp textures, premium lifestyle catalog look.",
+      "image": "images/product-brand/vn-02187.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02188",
+      "title": "Rainy Harbor Alley at Blue Hour",
+      "category": "Photography",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "Cinematic street photograph of a narrow rain-soaked alley in an old harbor town at blue hour, shot at eye level with a 35mm lens. Warm lantern light spills from a tiny noodle bar onto wet cobblestones, a cyclist in a dark raincoat passes with a blurred rear light, laundry lines and potted plants overhead, reflections shimmering in the puddles. Teal and amber color grade, fine film grain, natural depth, quiet atmospheric mood, no readable signs.",
+      "image": "images/photography/vn-02188.webp",
+      "added": "2026-11-26",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02189",
+      "title": "Potter Shaping a Bowl on the Wheel",
+      "category": "Video",
+      "type": "video",
+      "engine": "Veo 3.1 Lite",
+      "keywords": [],
+      "prompt": "A slow dolly-in shot across a quiet pottery studio in soft morning light: an artisan's clay-covered hands shape a spinning bowl on a potter's wheel, water glistening on the clay, the rim rising smoothly as the wheel turns. Dust motes float in the window light, shelves of unglazed pots blur in the background. Calm, tactile, shallow depth of field, gentle ambient sound of the wheel humming.",
+      "image": "images/video/vn-02189.webp",
+      "added": "2026-11-26",
+      "origin": "daily",
+      "video": "videos/vn-02189.mp4",
+      "duration": 8.0
+    },
+    {
+      "id": "vn-02190",
+      "title": "Red Fox Trotting Through Snow at Sunrise",
+      "category": "Video",
+      "type": "video",
+      "engine": "Seedance 2.0 Mini",
+      "keywords": [],
+      "prompt": "Handheld tracking shot following a red fox trotting through fresh snow in a pine forest at sunrise, the camera moving low beside it as its paws leave small prints and puffs of powder. Golden light breaks through the trees, frosty breath visible, snowflakes drifting. Natural documentary look, smooth motion, crisp detail.",
+      "image": "images/video/vn-02190.webp",
+      "added": "2026-11-26",
+      "origin": "daily",
+      "video": "videos/vn-02190.mp4",
+      "duration": 5.1
     }
   ]
 }

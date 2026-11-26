@@ -1,4 +1,4 @@
-# Illustration & 3D — 404 community examples
+# Illustration & 3D — 421 community examples
 
 [← Back to Community Examples](../EXAMPLES.md) · Page 1 / 4: **1** · [2](./x-illustration-3d-2.md) · [3](./x-illustration-3d-3.md) · [4](./x-illustration-3d-4.md)
 

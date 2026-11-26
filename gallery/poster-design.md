@@ -1,4 +1,4 @@
-# Poster Design prompts — 252 with previews
+# Poster Design prompts — 253 with previews
 
 [← Back to README](../README.md) · Page 1 / 3: **1** · [2](./poster-design-2.md) · [3](./poster-design-3.md)
 
