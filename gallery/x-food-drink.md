@@ -1,4 +1,4 @@
-# Food & Drink — 154 community examples
+# Food & Drink — 155 community examples
 
 [← Back to Community Examples](../EXAMPLES.md) · Page 1 / 2: **1** · [2](./x-food-drink-2.md)
 

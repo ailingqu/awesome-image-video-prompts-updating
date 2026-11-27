@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "source": "X and the web (community, credited)",
     "note": "Community prompts and their original results, kept as posted and credited to the original creators via tweet_url / source_url. Separate from our own collection in prompts.json. All rights remain with the original authors.",
-    "count": 1659,
+    "count": 1699,
     "by_category": {
-      "Photography": 578,
-      "Illustration & 3D": 421,
-      "Product & Brand": 221,
-      "Food & Drink": 154,
-      "Poster Design": 152,
+      "Photography": 589,
+      "Illustration & 3D": 429,
+      "Product & Brand": 224,
+      "Food & Drink": 155,
+      "Poster Design": 156,
       "UI & Graphic": 51,
-      "Video": 82
+      "Video": 95
     },
-    "updated": "2026-11-26"
+    "updated": "2026-11-27"
   },
   "examples": [
     {
@@ -23682,6 +23682,646 @@
       "added": "2026-11-26",
       "tweet_url": "https://x.com/Elvorya/status/2125462047274193084",
       "image": "examples/video/x-01673.webp"
+    },
+    {
+      "id": "x-01674",
+      "category": "Food & Drink",
+      "title": "Frosted Redcurrant Luxury Macro Still Life",
+      "model": "GPT Image 2.5 Flare",
+      "prompt": "Photorealistic luxury macro still life, tall 9:16 vertical composition, top-down flat lay, extreme close focus. CRITICAL: one single surface treatment shared by every element — the same gloss, the same sugar crystal frost, the same wet mirror highlights, the same rose-mauve palette. Full bleed, no text, no frame, no border.\nBASE SURFACE: a swirling pour of liquid mother-of-pearl. A wide ribbon of highly iridescent fluid, pearl white shading through pale gold, blush pink and cyan opal shimmer, flows diagonally from the top right to the lower left across a marbled rose-mauve and dusty pink ground. That ground is grainy and sugar-crusted, dense with tiny glittering crystals, fine dark speckles and scattered flakes of gold leaf. Soft wet highlights and mirror-bright reflections travel along the pearly ribbon.\nFROST LEAVES: large ornate metallic leaves arranged as a loose border, each cold silver-white or pale gold with every vein and serrated tooth edged in thick white crystalline frost, as if dipped in fine sugar. They sit top left, mid right, lower right and bottom left, overlapping the pearly ribbon.\nPEARLS: lustrous pearls in pearl-white with rose and green orient, large and small, scattered loosely among the leaves and nestled in the swirls, softly mirrored in the wet surface.\nHERO PROPS, centre and upper left, and ONLY these: a heavy cluster of glossy scarlet redcurrant berries on fine brown stems, their skins lacquered and mirror-bright with tiny dark blossom dots, resting against a frosted gold maple leaf. No cinnamon, no blueberries, no blackberries, no star anise anywhere in frame.\nTEXTURE: glossy lacquered berries, crystalline frosted leaf edges, gold leaf flecks, wet reflective sheen, ultra-fine macro detail, shallow depth of field, jewel-like, festive.",
+      "author": {
+        "name": "Viki",
+        "handle": "churvikv",
+        "profile_url": "https://x.com/churvikv"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/churvikv/status/2125960781292327167",
+      "image": "examples/food-drink/x-01674.webp"
+    },
+    {
+      "id": "x-01675",
+      "category": "Poster Design",
+      "title": "Korean Fashion Magazine Cover Editorial",
+      "model": "GPT Image 2.6",
+      "prompt": "PREMIUM KOREAN FASHION MAGAZINE COVER | CINEMATIC EDITORIAL PHOTOGRAPHY\n\nCreate a stunning, ultra-realistic luxury fashion magazine cover inspired by contemporary Korean fashion editorials. The design should combine professional fashion photography, elegant magazine typography, beautiful seasonal environments, and sophisticated editorial art direction.\n\n1. HERO MODEL & FASHION STYLING\n\nFeature a beautiful, photogenic young adult female model as the main subject. Give her a naturally confident pose, an expressive yet effortless facial expression, realistic skin texture, and professionally styled hair.\n\nDress her in a carefully coordinated, fashionable outfit that reflects the selected season and editorial concept. Pay close attention to fabric textures, garment structure, accessories, colors, and styling details.\n\nThe model should command attention while maintaining a natural, relaxed editorial presence.\n\n2. ENVIRONMENT & SEASONAL CONCEPT\n\nPlace the model in a visually captivating real-world environment that complements the fashion story.\n\nChoose an appropriate setting such as a romantic winter garden filled with deep red roses, a charming summer fruit market with colorful produce, or a bright school rooftop beneath a beautiful blue sky.\n\nBuild the environment with realistic architectural details, natural vegetation, atmospheric depth, and carefully controlled background elements. The setting should feel like a professionally photographed fashion campaign rather than a digitally constructed backdrop.\n\n3. MAGAZINE MASTHEAD & TYPOGRAPHY\n\nPlace a large, oversized luxury magazine title across the upper section of the cover. Use elegant high-contrast serif typography with refined proportions, sophisticated spacing, and a premium editorial appearance.\n\nAllow the model to naturally overlap portions of the magazine title, creating depth and the authentic appearance of a professionally designed fashion publication.\n\nUse complementary typography colors such as crimson red, ivory white, burgundy, or elegant neutral tones.\n\n4. EDITORIAL HEADLINES & COVER DETAILS\n\nAdd a selection of beautifully arranged magazine headlines around the model.\n\nInclude a prominent seasonal headline, smaller supporting editorial descriptions, and a subtle issue label such as SUMMER ISSUE, WINTER ISSUE, or SCHOOL ISSUE.\n\nUse a combination of sophisticated serif headlines and clean uppercase sans-serif typography. Keep the text balanced and readable without distracting from the main subject.\n\nAll text should be correctly spelled, professionally aligned, and integrated naturally into the composition.\n\n5. LIGHTING & PHOTOGRAPHIC QUALITY\n\nUse professional fashion-editorial photography with natural cinematic lighting, realistic shadows, beautifully controlled highlights, and subtle film-inspired color grading.\n\nCapture fine details in the model's hair, skin, clothing, accessories, and surrounding environment. Maintain realistic proportions, natural facial features, and authentic photographic depth.\n\nThe final image should have the visual quality of a high-end international fashion magazine photographed by a professional editorial photographer.\n\n6. FINAL ART DIRECTION\n\nCreate a visually striking yet sophisticated magazine cover with a strong editorial hierarchy. Balance the oversized masthead, model, seasonal environment, and supporting headlines to achieve a polished, collectible magazine aesthetic.\n\nVisual style: Contemporary Korean fashion editorials, luxury magazine covers, cinematic seasonal photography, sophisticated typography, photorealistic fashion campaigns.\n\nOutput: Vertical 9:16 composition, full-bleed photography, premium editorial finish, ultra-realistic details, no watermark, no borders, no social media interface elements.",
+      "author": {
+        "name": "Saul Goodman",
+        "handle": "Goodmanprotocol",
+        "profile_url": "https://x.com/Goodmanprotocol"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2125825694693564441",
+      "image": "examples/poster-design/x-01675.webp"
+    },
+    {
+      "id": "x-01676",
+      "category": "Illustration & 3D",
+      "title": "Japanese Anime Travel Illustration Template",
+      "model": "GPT Image 2.6",
+      "prompt": "JAPANESE ANIME TRAVEL ILLUSTRATION | DESTINATION [DESTINATION]\n\nCreate a beautifully detailed Japanese anime-style travel illustration of [Destination], in a vertical 2:3 aspect ratio, full bleed.\n\nCapture a quiet, candid moment during a real journey, featuring an original adult woman in her mid-twenties in the foreground. Make the destination's authentic architecture, streets, or iconic scenery clearly recognizable and equally important to the composition.\n\nAdapt her appearance, hairstyle, natural hair color, clothing, and accessories to the destination, climate, and season. Give her natural facial features, proportionate eyes with restrained highlights, subtle shading, minimal blush, and a relaxed, expressive appearance. Her emotion should feel genuine and understated rather than posed.\n\nCreate a natural interaction with the surroundings. She might watch a passing train, admire distant mountains, notice falling snow, explore a local street, or observe a shop window. Use relaxed shoulders, believable body language, natural hand placement, and casual interactions with travel belongings such as a bag, camera, or scarf. Avoid direct eye contact unless it makes sense within the scene.\n\nUse a waist-up or three-quarter composition from eye level or a slightly low viewpoint. Let the woman occupy approximately 35–45% of the frame, preserving generous space for the surrounding scenery. Include a gentle breeze moving a few loose strands of hair.\n\nPreserve the destination's recognizable architectural silhouettes, authentic materials, realistic street proportions, and geographically accurate scenery. Use one believable viewpoint rather than combining unrelated landmarks.\n\nRender everything with refined hand-drawn Japanese anime linework, delicate dark navy contours, elegant layered hair details, and precise, restrained cel shading. Use clean, softly angular shadow shapes and natural skin tones.\n\nDevelop a sophisticated color palette inspired by the destination and season, with atmospheric lighting, muted midtones, controlled luminous highlights, and beautiful warm–cool contrasts. Balance intricate environmental details with enough visual breathing room.\n\nOverall mood: Warm, peaceful, observant, and quietly cinematic, like a beautifully illustrated memory from a meaningful journey. Preserve youthful charm through natural expressions, thoughtful composition, and delicate artistic details.\n\nAvoid: Exaggerated sparkling eyes, star-shaped pupils, heavy blush, doll-like proportions, forced smiles, coy poses, idol styling, fantasy clothing, excessive hair accessories, glossy plastic skin, and light-novel cover aesthetics.\n\nTechnical restrictions: No photorealism, 3D rendering, airbrushed shading, excessive bloom, glitter effects, text, logos, borders, or watermarks. Generate for new york",
+      "author": {
+        "name": "Saul Goodman",
+        "handle": "Goodmanprotocol",
+        "profile_url": "https://x.com/Goodmanprotocol"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2126005633980014821",
+      "image": "examples/illustration-3d/x-01676.webp"
+    },
+    {
+      "id": "x-01677",
+      "category": "Photography",
+      "title": "Blue Butterfly Portrait in a Night Garden",
+      "model": "GPT Image 2.6",
+      "prompt": "ETHEREAL BLUE BUTTERFLY PORTRAIT | CINEMATIC JAPANESE NIGHT GARDEN PHOTOGRAPHY\n\nCreate an ultra-realistic, dreamy cinematic portrait of a beautiful young adult woman sitting gracefully on weathered stone steps in a traditional Japanese garden at night. The atmosphere should feel magical, romantic, and atmospheric, combining authentic low-light portrait photography with subtle fantasy elements.\n\n1. SUBJECT & APPEARANCE\n\nA beautiful young woman with delicate natural facial features, luminous realistic skin, soft red lips, and dark brown hair styled in a loose, slightly messy low bun with wispy face-framing bangs. Her expression is gentle, serene, and slightly mysterious. She looks directly toward the camera with a relaxed, captivating gaze.\n\n2. OUTFIT & STYLING\n\nShe wears an elegant traditional Japanese yukata with a distinctive two-tone design:\n\n- One half features an ivory-white fabric with large black butterfly patterns.\n- The other half is deep charcoal black with delicate white botanical line patterns.\n- Traditional overlapping neckline, wide kimono sleeves, and a neatly tied waist sash.\n\nThe fabric should have realistic folds, soft textures, and natural draping.\n\n3. POSE & COMPOSITION\n\nThe woman sits naturally on wide, aged stone garden steps, with one knee slightly raised and one hand resting gently on her knee while the other supports her body against the stone surface. Her upper body is slightly angled toward the camera, with her head subtly tilted.\n\nCapture a medium-to-full-body portrait from a slightly low camera angle, creating an intimate editorial composition. Her posture should feel elegant, relaxed, and candid rather than artificially posed.\n\n4. MAGICAL BUTTERFLY EFFECT\n\nSurround her with numerous glowing electric-blue and cyan butterflies of different sizes. Some butterflies gently hover near her face and shoulders, while others rest on her clothing and float through the foreground and background.\n\nInclude several large, softly out-of-focus butterflies close to the camera lens to create beautiful depth and dimensionality. Their translucent wings emit a delicate blue bioluminescent glow, illuminating nearby surfaces with subtle cyan reflections.\n\nThe butterflies should look detailed, delicate, and naturally integrated into the photograph rather than like artificial graphics.\n\n5. ENVIRONMENT & LIGHTING\n\nSet the scene in a lush Japanese garden at night, featuring:\n\n- Traditional Japanese stone lanterns emitting warm amber light.\n- Moss-covered stone steps and natural rocks.\n- Dark trees, dense foliage, and subtle garden greenery.\n- A softly illuminated background with atmospheric depth.\n\nCreate a beautiful contrast between warm golden lantern illumination and cool electric-blue butterfly lighting. Add subtle blue rim lighting around her hair and shoulders, with gentle warm light illuminating her face.\n\n6. CAMERA & PHOTOGRAPHIC STYLE\n\nProfessional cinematic portrait photography, shot on an 85mm portrait lens, shallow depth of field, realistic optical bokeh, natural skin texture, detailed fabric rendering, soft highlight roll-off, subtle film grain, and beautifully balanced exposure.\n\nThe final image should resemble a high-end Japanese fantasy fashion editorial captured with a professional full-frame camera. Photorealistic, atmospheric, visually rich, and emotionally captivating.\n\nAspect Ratio: 9:16 vertical portrait.\n\nQuality: Ultra-detailed, photorealistic, cinematic low-light photography, natural anatomy, realistic hands, authentic fabric textures, no artificial CGI appearance, no text, no watermark.",
+      "author": {
+        "name": "Saul Goodman",
+        "handle": "Goodmanprotocol",
+        "profile_url": "https://x.com/Goodmanprotocol"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2125874450914795819",
+      "image": "examples/photography/x-01677.webp"
+    },
+    {
+      "id": "x-01678",
+      "category": "Photography",
+      "title": "Hand-Knitted Mitten and Sock Christmas Tree",
+      "model": "Nano Banana 2.1",
+      "prompt": "A photorealistic interior lifestyle photograph, taken at standing eye height and square to the wall, of a full-size Christmas tree built entirely from hand-knitted woollen things, standing in the corner of a bright, airy room just left of centre. The tree is a tall, dense cone that nearly reaches the ceiling, seen whole from its base on the floorboards to its tip: hundreds of mittens, socks, small bobble hats with pom-poms and short scarf ends layered in overlapping tiers all the way round the cone, each piece held on with a plain wooden clothes-peg, a packed mix of cherry red, mustard, teal, candy pink, cream and forest green with no gaps showing through. The knitting reads as real wool: visible stitches, cable patterns on the mittens, ribbed sock cuffs, a soft fuzz of yarn fibres along every edge, and a few loose yarn tails hanging free between the tiers. A few bare twiggy branches rise from the very top in place of a star. At the foot of the tree sits a round woven basket full of spare yarn balls with two knitting needles pushed into them. Plain warm-white walls and a simple white skirting board surround it, with a strip of calm white wall above the tip and on both sides of the cone, and honey-toned wide wooden floorboards with a soft sheen run toward the viewer. On the right, a tall white-framed sash window shows bare wintry branches softly out of focus outside, and a small green plant in a terracotta pot stands on its sill. Soft, diffused grey-white winter daylight comes in through the window and falls gently away toward the left wall with no hard shadows. The colours are natural and true, the wool saturated against the white room, and everything is in crisp focus from the floor to the tip.",
+      "author": {
+        "name": "AI Art Alley",
+        "handle": "aiartalley",
+        "profile_url": "https://x.com/aiartalley"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/aiartalley/status/2125967990927524329",
+      "image": "examples/photography/x-01678.webp"
+    },
+    {
+      "id": "x-01679",
+      "category": "Poster Design",
+      "title": "Raw Sketchy Portrait Poster with a Pet",
+      "model": "GPT Image 2.6",
+      "prompt": "Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and large in frame, accompanied closely by [ANIMAL], with a minimal [SCENERY] background. Render in a rough expressive illustrated style with broken black ink contours, loose sketch lines, scratchy hatching, irregular stroke weight, imperfect line edges, fast gestural mark-making, simplified anatomy, flat cel-like shadow blocks, and reduced detail. Use a restrained [COLORS] palette with one dominant warm field, one cool counter-field, dark inked shadows, and a few pale highlight accents. Keep the face oversized and central, crop around mid-torso, and place the animal in the lower foreground or tucked beside the subject, drawn with the same simplified raw linework. Reduce the scenery into only 2 or 3 bold silhouette shapes behind the subject, with no detailed environment rendering. Add a narrow warm off-white poster border and very light print texture. Strong attitude, graphic poster energy, intentionally imperfect strokes, raw and sketchy finish, ar 4:5",
+      "author": {
+        "name": "ZDuo.MoreAi",
+        "handle": "ZDuo_MoreAi",
+        "profile_url": "https://x.com/ZDuo_MoreAi"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/ZDuo_MoreAi/status/2125907419213771113",
+      "image": "examples/poster-design/x-01679.webp"
+    },
+    {
+      "id": "x-01680",
+      "category": "Product & Brand",
+      "title": "Strawberry Energy Drink Splash Ad",
+      "model": "GPT Image 2.6",
+      "prompt": "A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.\n\nBright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.",
+      "author": {
+        "name": "ZDuo.MoreAi",
+        "handle": "ZDuo_MoreAi",
+        "profile_url": "https://x.com/ZDuo_MoreAi"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/ZDuo_MoreAi/status/2125801722857611674",
+      "image": "examples/product-brand/x-01680.webp"
+    },
+    {
+      "id": "x-01681",
+      "category": "Illustration & 3D",
+      "title": "Candy Train Above the Clouds",
+      "model": "Seedream 5.5",
+      "prompt": "Whimsical candy-themed illustration of a train traveling along winding tracks high in the sky, surrounded by fluffy clouds drifting around and above the rails; every element—from the train and tracks to the clouds—is crafted from colorful sugary candy, with glossy, glistening surfaces, sparkling sugar crystals, and playful confectionery details. Dreamy pastel palette, soft luminous sunlight, magical airy atmosphere, wide cinematic composition with rich texture and charming storybook charm.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/heathergreen/status/2126133910136639559",
+      "image": "examples/illustration-3d/x-01681.webp"
+    },
+    {
+      "id": "x-01682",
+      "category": "Illustration & 3D",
+      "title": "Friendly Krampus Storybook Illustration",
+      "model": "GPT Image 2.6",
+      "prompt": "Fantasy Christmas-themed illustration of Krampus as a friendly, approachable creature, wearing a richly detailed festive outfit with fur trim, bells, and seasonal ornaments. He stands amid soft piles of snow beneath gently glowing snowflakes, surrounded by warm twinkling holiday lights and carrying a large sack of Christmas gifts over one shoulder; whimsical storybook style, expressive face, rich textures, cozy magical atmosphere, balanced composition, soft cinematic lighting, vibrant yet harmonious winter colors.",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "profile_url": "https://x.com/heathergreen"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/heathergreen/status/2126088624311554353",
+      "image": "examples/illustration-3d/x-01682.webp"
+    },
+    {
+      "id": "x-01683",
+      "category": "Product & Brand",
+      "title": "Sea Salt Tin with Small-Print Label",
+      "model": "Seedream 5.5",
+      "prompt": "Commercial product photograph. A round steel tin of sea salt flakes stands on a weathered oak table beside a small pile of salt flakes and a sprig of rosemary, soft morning window light from the left, shallow depth of field. A cream paper label wraps around the tin's curved side and reads, in this order: \"MARRAM & SALT\" in large black serif capitals with one thin gold line beneath it; \"Smoked Sea Salt Flakes\" in a smaller black italic serif; and along the bottom edge in small black sans-serif type \"Ingredients: sea salt, oak smoke. Batch 0471. Net wt 150 g\". Photographic, the label sharp and in focus, true-to-life colour.",
+      "author": {
+        "name": "Heather Cooper",
+        "handle": "HBCoop_",
+        "profile_url": "https://x.com/HBCoop_"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/HBCoop_/status/2126057699800695091",
+      "image": "examples/product-brand/x-01683.webp"
+    },
+    {
+      "id": "x-01684",
+      "category": "Photography",
+      "title": "Weathered Fisherman Portrait at Dawn",
+      "model": "Seedream 5.5",
+      "prompt": "Documentary photograph at an overcast dawn on a small harbour quay. A fisherman in his mid-seventies with a deeply weathered face, white stubble, sun spots and fine broken veins on his cheeks, visible pores and deep wrinkles, light drizzle beading on his skin and on the shoulders of a faded navy wool jumper. He looks just past the camera, tired and calm. Soft grey daylight, no flash. Behind him, out of focus, stacked lobster pots and a wet stone harbour wall. 85mm lens at f/2, natural skin with no retouching, fine film grain.",
+      "author": {
+        "name": "Heather Cooper",
+        "handle": "HBCoop_",
+        "profile_url": "https://x.com/HBCoop_"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/HBCoop_/status/2126057680024510830",
+      "image": "examples/photography/x-01684.webp"
+    },
+    {
+      "id": "x-01685",
+      "category": "Photography",
+      "title": "Six-Person Family Sunday Dinner",
+      "model": "Seedream 5.5",
+      "prompt": "Candid documentary photograph of a family Sunday dinner in a warm, slightly cluttered dining room in the evening, lit by a low pendant lamp over the table. Exactly six people sit round a rectangular wooden table set with a roast chicken, potatoes, a gravy jug and glasses of red wine. At the head of the table, a grandfather in his seventies carves the chicken. On the left side, a woman in her forties pours red wine into a glass, and next to her a teenage boy looks down at a phone in his lap. On the right side, a man in his forties laughs with his head tilted back, and next to him a girl of about seven reaches across for a potato. At the far end, a grandmother in her seventies passes a bowl of peas. 35mm lens at eye level, natural colour, soft shadows, fine grain.",
+      "author": {
+        "name": "Heather Cooper",
+        "handle": "HBCoop_",
+        "profile_url": "https://x.com/HBCoop_"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/HBCoop_/status/2126057717601329171",
+      "image": "examples/photography/x-01685.webp"
+    },
+    {
+      "id": "x-01686",
+      "category": "Photography",
+      "title": "Woman on a Scooter by Pink Flowers",
+      "model": "Nano Banana 2",
+      "prompt": "A woman sits casually on a white electric scooter parked in front of a large bush with vibrant pink flowers.\n\nSubject: A woman wearing glasses and a white shirt sitting on a scooter.\n\nClothing: she wears a loose-fitting white button-down shirt, light-colored cargo pants, and sneakers.\n\nAction: she leans back against the seat, resting one hand on the handlebars while the other touches her neck, looking away to the side.\n\nEnvironment: The background is dominated by a dense bush covered in bright pink flowers, with trees visible behind it.\n\nCamera: A medium shot captures the subject and scooter from a slightly low angle, emphasizing the height of the flower bush.\n\nLighting: Soft natural daylight illuminates the scene, creating gentle shadows and highlighting the white clothing against the colorful background.\n\nObjects: The white electric scooter features a green license plate and black handlebars.\n\nText/Graphics: A small logo is visible on the left side of the image.\n\nStyle Details: The image has a cinematic color grading with high contrast between the bright flowers and the darker foliage, giving it a polished, editorial photography look.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2125975365516677341",
+      "image": "examples/photography/x-01686.webp"
+    },
+    {
+      "id": "x-01687",
+      "category": "Photography",
+      "title": "Minimalist Blazer Lifestyle Photo",
+      "model": "Nano Banana 2",
+      "prompt": "Ultra-realistic lifestyle photo. Woman aged 25–33. Athletic, feminine build. Warm neutral skin tone with natural texture. Confident presence. Setting: minimalist modern interior with concrete floor and soft neutral furniture. Large window off-frame creating directional side light. Subtle shadows on floor and wall. Pose: standing mid-step as if just turning away from the mirror. Weight shifted into one hip. One leg slightly forward. Blazer pulled open with one hand. Small shoulder lift creating asymmetry. Crossbody bag hanging naturally, strap loose. Expression: cool and self-aware. Lips relaxed with a faint half-smirk. Head angled slightly down and to the side. Sunglasses on, but face turned enough to show attitude, not concealment. Hair: long, loose waves, natural volume, slightly undone. Outfit: oversized charcoal blazer, wide-leg tailored trousers, black cropped bandeau top. Clean lines, matte fabric. Pants pooling lightly over shoes. Accessories: slim black sunglasses, long minimal earrings, structured black mini bag. Lighting: soft side window light sculpting abs, collarbones, blazer folds. Gentle contrast. No harsh highlights. Photographic realism. Natural color grading. Shallow depth of field. Subtle grain. Feels like a moment caught mid-motion, not posed.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2125945169904107921",
+      "image": "examples/photography/x-01687.webp"
+    },
+    {
+      "id": "x-01688",
+      "category": "Photography",
+      "title": "Black-and-White Glamour Editorial at Night",
+      "model": "Nano Banana 2",
+      "prompt": "High-quality 8k editorial photography, sharp and vibrant, with saturated colors.\n\nA black and white image with a distinctly artistic and glamorous vibe, featuring a woman seated on a polished concrete step inside a modern house at night.\n\nStriking details of the composition:\n\nThe central figure and the pose\n\nPose: The woman sits on the polished concrete step, her long legs extended forward and slightly apart, emphasizing their length and elegance. One leg is bent with her foot resting on the step, while the other remains extended. The lighting highlights the curves of her long, toned legs.\n\nExpression: Her head is tilted slightly back and to the side, looking directly at the camera. Her lips are barely parted, conveying a serene and powerful expression.\n\nHair: Her hair is dark, voluminous, and wavy, falling freely over her shoulders and framing her face with a few loose, slightly tousled strands.\n\nClothing and Accessories\n\nDress: She wears a short, long-sleeved dress made of a metallic or shimmering mesh fabric (a mesh-like material woven with shimmering threads) that reflects light intensely. The dress has a deep V-neck. A strip of the same fabric hangs down one side of the dress, reaching the floor.\n\nFootwear: On her feet, she wears high-heeled stiletto sandals with thin gladiator-style straps that intertwine and tie elegantly around her ankles.\n\nJewelry: A choker or thick chain is visible around her neck, as well as a small earring dangling from one ear.\n\nLighting and Setting\n\nLighting: The main light comes from above and directly in front, highlighting the sheen of the dress fabric, the contours of her legs and arms, and her facial features. There is a strong contrast between the illuminated areas and the deep shadows (chiaroscuro style).\n\nBackground: The background is completely out of focus (bokeh), creating a nighttime atmosphere with a few diffused points of light in the distance.",
+      "author": {
+        "name": "dreamy digital arts",
+        "handle": "dreamydigiarts",
+        "profile_url": "https://x.com/dreamydigiarts"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/dreamydigiarts/status/2125907434774434273",
+      "image": "examples/photography/x-01688.webp"
+    },
+    {
+      "id": "x-01689",
+      "category": "Illustration & 3D",
+      "title": "Ink-Wash Wandering Swordsman",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 4:5 的手绘插画，画在偏暖的米白宣纸上，像传统水墨淡彩：先用浓淡不均的黑墨以书法用笔轻松勾轮廓，线条有飞白、有断开、有粗有细，不是闭合的矢量线，也不是光滑的数字平涂、3D 或照片。淡彩只轻轻罩在墨线里，水色会在纸上洇开一点，干笔扫过的地方能看出纸纹。构图是全身中近景，人物大约站在画面正中略偏下，平视或略偏低的机位，头顶和左右留出大片空白的宣纸，空才像这口气。人物比例略带一点写意的少年感，头稍大，五官极简：眼睛是两团深墨色的大眼睛，只有一点点高光，鼻子和嘴只是很小的墨点或短线，表情安静，略带一点倔。头发用几组方向一致的飞白墨线画出被风吹乱的感觉。身上是中式行路的交领宽袖衣裳，衣褶用淡墨扫，衣摆和袖口被同一侧的风吹起来。动作是走路或轻轻站住，不是打斗，兵器如果出现必须入鞘，手画得简单，袖口可以挡住一部分，五指不要又长又分叉。脚下是一条横向的淡墨地面，墨色往上慢慢变浅，溶进纸色。人物周围有被风吹向同一侧的植物，具体种类由主体决定，用干笔和极淡的青绿色或墨灰色扫出来，不要画满，不要画成写实密林。光线是宣纸上的柔和平光，几乎没有硬投影，体积靠墨色的浓淡。整体色调是米白纸色加大面积墨灰，只有一点点淡青绿或淡赭石，再由主体带一个很小的暖色点。气氛清、静，像一个人走在路上，不是侠客对打，也不是仙侠大场景。画面里不要文字、印章、签名和水印，不要血腥，不要原图里那种飞在空中的小虫子。\n\nNew subject:\n【主体】一个青衣斗笠剑客走在竹林小道上。深青灰色的交领短褂，宽裤是更深的墨色，头上戴一顶浅色的斗笠，帽檐压着一点脸，背后斜背一把入鞘的长剑，浅色剑穗随风轻轻扬起。身边只画近处几竿被风吹斜的淡青竹子和几片竹叶，远处留白。脚下是湿润的淡墨土路。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/static_stare/status/2125939195445379237",
+      "image": "examples/illustration-3d/x-01689.webp"
+    },
+    {
+      "id": "x-01690",
+      "category": "Illustration & 3D",
+      "title": "Crayon Gouache Sleeping Fox in Bed",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 4:5 的手绘插画，像用不透明水粉和油画棒画在粗纹纸上，笔触发干、颗粒很粗，色块边缘毛毛糙糙地蹭开，露出底下的纸纹，再用细细的黑色蜡笔线随手勾几笔轮廓、胡须和布褶，线条有断有续，不是数字平涂，不是 3D，也不是照片。场景是白天卧室里的一张床，机位略高、斜着往下看床头，近景。一只小动物（由主体决定）窝在床上睡着了，脑袋陷在枕头堆里，身子埋在被子下面，闭着眼，眼睛画成两道弯弯的短黑线，表情很满足。床头堆着三个大枕头：左边天蓝色，中间芥末黄，右边浅薄荷绿，用大块平涂加几道深一号的阴影色块。被子是一床粗条纹的毯子，一道一道是番茄红、草绿、米白、藏青和芥末黄，米白的条纹里用细黑线排出布纹，被子高低起伏，占满画面下半部分，前景一角露出一团橙红色的被角。左上角是一个木头床头柜和一根黑色细灯杆，后面是米灰色的墙，用干刷的竖向笔触扫出来。光是中午从窗外进来的柔和日光，基本是平光，没有明显的投影方向，只靠色块的冷暖分出前后。整体是米白和暖灰的底，上面压着高饱和的红、黄、蓝、绿色块，颜色很纯，但因为颗粒感显得很软。气氛暖、懒、安心，像中午偷偷补一觉。画面里不要人物、文字、签名和水印。\n\nNew subject:\n【主体】一只小赤狐，橙红色的毛、白色的下巴和黑色的耳尖，蜷成一个圈睡在芥末黄枕头前面，蓬松的大尾巴绕过来盖住鼻子，一只黑色的小前爪搭在被子边上。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/static_stare/status/2125812239039095076",
+      "image": "examples/illustration-3d/x-01690.webp"
+    },
+    {
+      "id": "x-01691",
+      "category": "Illustration & 3D",
+      "title": "Fine-Line Red Panda Napping on Roof Tiles",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 9:16 的日系数字插画，平涂色块加细而密的黑色描线，毛发、木纹、墙面裂纹都用细线一根根勾出来，有一点版画和漫画的感觉，不是厚涂，不是 3D，也不是照片。机位很低，从下往上斜着仰视，一只小动物（由主体决定）趴在一处晒得到太阳的高处睡着了，占画面中间一大块，身体斜着横过画面，眯着眼，表情很舒服，一只前爪软软地从边沿垂下来，落在画面中部偏下的位置。它身下和周围的建筑用青蓝、灰绿这类冷色画，旧旧的，有磨损和斑驳；画面下方约三分之一是一面米白和浅灰的旧墙或石面，有细细的裂纹，上面落着树叶的影子。右上角伸进来一枝浅黄绿色的树叶，叶子一片片用细线勾边，背光处是灰绿。天空是一整块干净的青蓝色，没有云。光是下午偏暖的阳光，从右上方斜照过来，在小动物的背上和亮面留下暖白的高光，阴影是清楚的冷青灰，边缘硬朗。整体配色是青蓝天空、青灰建材、米白墙面作底，小动物是画面里最暖、最饱和的颜色，冷暖对比很抓眼。气氛是懒洋洋、晒得暖烘烘的午后，安静，没有人。画面里不要文字、签名和水印。\n\nNew subject:\n【主体】一只小熊猫，红棕色的毛、白色的脸颊和眉毛，一条带深色环纹的粗尾巴，趴在一座老宅青蓝色琉璃瓦的屋檐上，尾巴顺着瓦垄垂下来，一只深色的前爪挂在屋檐外面。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/static_stare/status/2125855378323960059",
+      "image": "examples/illustration-3d/x-01691.webp"
+    },
+    {
+      "id": "x-01692",
+      "category": "Illustration & 3D",
+      "title": "Last Lit Window in a Blue Night City",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 9:16 的夜景插画，像漫画分镜里的一格，深色平涂加细细的黑色描线和少量干刷笔触，不是 3D，不是照片。机位在一栋老旧公寓楼外面稍高一点的地方，贴着外墙往下看：画面左半边是这栋楼的外墙，墙面斑驳，有锈迹、裂缝、空调外机、管线和小雨棚；墙上只有一扇窗亮着（窗里是什么由主体决定），位置在画面左侧中上方，窗户半开，里面是饱和的橙黄色暖光，把窗框、雨棚底和窗下一小块墙照亮，窗里的人或动物是一个小小的侧影。画面右半边是往远处层层退去的城市楼群，全部用深蓝和靛蓝画，楼的窗户几乎都是暗的，只零星有几格很暗的灯；楼群上方是深夜的天，从墨蓝渐变到近黑，撒满大小不一的细小白色星点。除了那扇窗，其余一切都是深蓝、靛蓝、蓝黑，暗部几乎是黑色；那扇窗的橙黄是全图唯一的暖色，也是最亮的地方，蓝橙对比很强。光源只有窗里的灯，窗外墙面靠近窗户的地方有一圈柔和的橙色余光，离得越远越快沉进蓝里。气氛很静，像整栋楼都睡了，只剩这一扇窗还醒着。画面里不要文字、招牌、签名和水印。\n\nNew subject:\n【主体】窗里是一个穿宽大毛衣的人，蜷在窗边的小沙发上看书，膝盖上盖着毯子，身后墙上一个小书架，一盏落地灯照着书页。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/static_stare/status/2125954639401230445",
+      "image": "examples/illustration-3d/x-01692.webp"
+    },
+    {
+      "id": "x-01693",
+      "category": "Illustration & 3D",
+      "title": "Autumn Water Town Decorative Illustration",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 9:16 的平面装饰风插画，像手绘水粉加细线的绘本海报，平涂色块，用细细的深蓝黑线勾窗框、屋檐和栏杆，树叶和花用一点一点的小笔触点出来，带一点纸面颗粒，不是 3D，不是照片，没有写实光影。构图左右对称、一点透视：画面正中一条浅米色的石板路从下边缘往上延伸，越远越窄，一直通到水边；路两侧是对称的高高的房子，靠画面边缘的房子被裁掉一半，墙面以白色、米白和浅粉为主，窗户整齐排列，窗台上摆着小花箱；房子之间和路边种着一棵棵秋天的树，树冠是红、橙、姜黄、浅金几种颜色，用小叶片点出来，路面和路边散落着红橙色的落叶。画面中部是一片浅灰蓝的水面，水上有一两只小船，远处是对岸的一排小楼和尖顶，再远是很淡的山影。画面上方约三分之一是几乎留白的米白天空。前景两个下角各有一丛装饰性的小花和深蓝色叶子，像镶了一道边。光是柔和的漫射光，没有明显投影。整体配色：米白、白、浅灰蓝打底，红、橙、姜黄、金色的秋叶做主角，深蓝黑的细线和少量深蓝叶子压住画面，干净、明亮、不脏。人物很少，只是远处几个小点。气氛安静、清爽，像秋天一个人慢慢走到水边。画面里不要任何文字、标志、签名和水印。\n\nNew subject:\n【主体】江南水乡的秋天：两侧是白墙黛瓦的老房子，木格窗，屋檐下挂着两盏小红灯笼；路边是金黄的银杏和红色的乌桕，石板路通向一座小石拱桥和河埠头，水上停着一条乌篷船，对岸是一排白墙和一座小宝塔。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/static_stare/status/2125924762904105073",
+      "image": "examples/illustration-3d/x-01693.webp"
+    },
+    {
+      "id": "x-01694",
+      "category": "Poster Design",
+      "title": "Vintage Tarot Card: The Sun",
+      "model": "GPT Image 2.5",
+      "prompt": "Create an image with the following visual system. Replace the subject as specified.\n\nVisual system (light, color, composition, medium, mood):\n【画面风格】一张竖幅约 9:16 的复古塔罗牌插画，整张就是一张牌的正面，平视正对、居中、左右对称。牌面像印在发黄的旧卡纸上，最外圈是一道米黄色宽边，里面一圈深棕色细线框，四角是圆角。牌的中间是一大块灰青绿色的底，用细细的旋涡状笔触刷出像夜空一样流动的纹理，上面撒着小小的金色圆点和几颗四角星。左上、右上、左下、右下四个角各有一团米白色的卷云，用深棕色线勾出一圈圈螺旋，像装饰纹样，把中间的画面框起来。主图（由主体决定）放在青绿底的正中，占中间约一半的面积，用芥末黄、金黄和奶白平涂，边缘是深棕色的粗描线，暗部只加一层浅橙棕。牌的最上方正中有一块米黄色的拱形小牌匾，里面写这张牌的罗马数字；最下方是一条横跨整张牌宽度的米黄色长条，里面用黑色粗衬线大写字母居中写牌名。全图只有这两处文字，拼写严格按照主体里给的英文，字母清楚、间距均匀，不要多出任何其他文字、签名、商标和水印。整体配色是灰青绿、金黄、米黄、奶白和深棕，复古、偏哑光，像一副老牌重新印了一遍。光是均匀的平光，没有投影和反光。气氛神秘但温和。\n\nNew subject:\n【主体】牌名「THE SUN」，罗马数字「XIX」。主图是一轮大大的圆太阳，周围一圈波浪形和直线交替的金色光芒，太阳上没有人脸；太阳下方是三棵向日葵从一道矮矮的砖墙后面探出头。",
+      "author": {
+        "name": "mo Ki",
+        "handle": "static_stare",
+        "profile_url": "https://x.com/static_stare"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/static_stare/status/2125887339839000879",
+      "image": "examples/poster-design/x-01694.webp"
+    },
+    {
+      "id": "x-01695",
+      "category": "Photography",
+      "title": "Golden-Hour Motorcycle Fashion Editorial",
+      "model": "GPT Image 2.6",
+      "prompt": "Ultra realistic cinematic golden-hour motorcycle fashion editorial portrait of a beautiful young woman with long, naturally flowing dark chestnut-brown hair swept dramatically by the warm evening breeze, expressive hazel-brown eyes, beautifully defined natural eyebrows, subtle bronze eye makeup, delicate eyeliner, soft peachy lips, a radiant relaxed smile, and luminous natural skin with realistic pores and fine facial texture. Her face is clearly visible, beautifully illuminated, sharply focused, and full of confident free-spirited personality. She sits elegantly on the seat of a powerful matte-black cruiser motorcycle, her body turned slightly sideways, one leg resting naturally along the side of the bike and the other positioned securely near the footrest, creating a relaxed yet bold editorial pose. She gazes toward the glowing horizon with a thoughtful, adventurous expression, her shoulders open and posture self-assured. She wears a lightweight ivory-white button-down blouse with a soft open collar, gently rolled sleeves, delicate natural fabric folds, and a slightly loose fit, paired with high-waisted black denim shorts and rugged black leather ankle boots with subtle buckles and realistic stitching. A sleek matte-black motorcycle helmet with a dark reflective visor rests securely on the fuel tank beside her. The motorcycle features a muscular black frame, sculpted fuel tank, exposed mechanical details, thick tires, a round headlamp, metal handlebars, polished engine components, and realistic subtle reflections across its dark finish. The setting is a quiet coastal road overlooking a golden sea, with rugged dry grasses, distant rolling hills, a softly glowing shoreline, and a vast open sky illuminated by the setting sun. Warm amber sunlight spreads across the horizon, casting long delicate shadows and creating a beautiful golden rim around her flowing hair and the motorcycle's silhouette. Cinematic soft frontal beauty lighting keeps her face bright and clearly visible, balanced fill light reveals her eyes and natural skin texture, while the background remains slightly darker for elegant separation. Rich saturated golden amber, warm ivory, deep matte black, muted olive grasses, and soft copper highlights create a premium sunset color palette. Full-body vertical composition, slightly low camera angle, woman and motorcycle clearly visible, natural anatomy, realistic hands and fingers, authentic motorcycle structure, detailed hair strands, realistic denim and leather textures, shallow depth of field, subtle atmospheric haze, premium lifestyle motorcycle photography, adventurous feminine confidence, open-road freedom, and timeless cinematic biker glamour, highly detailed, sharp focus, 8k, vertical. No cartoon face, no anime face, no animated face. --ar 4:5",
+      "author": {
+        "name": "Wandering Corner",
+        "handle": "WanderingC76",
+        "profile_url": "https://x.com/WanderingC76"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/WanderingC76/status/2126137562742112615",
+      "image": "examples/photography/x-01695.webp"
+    },
+    {
+      "id": "x-01696",
+      "category": "Photography",
+      "title": "Batik Fashion Editorial in a Tropical Garden",
+      "model": "GPT Image 2.6",
+      "prompt": "A stunning, elegant young woman with a sleek dark updo adorned with delicate floral accessories, wearing a luxurious strapless beige-and-black patterned crop top with intricate geometric details and a flowing black batik-style skirt featuring beautiful earthy floral and leaf patterns. She accessorizes with elegant floral earrings and glamorous makeup featuring warm bronze eyeshadow, defined eyeliner, rosy blush, and nude lips. She poses gracefully while seated on a lush moss-covered rock, one leg elegantly extended toward a dark reflective pond. Surrounded by an enchanting tropical garden filled with oversized banana leaves, palm trees, delicate pink and red flowers, and dense greenery. Deep emerald and black tones, dramatic low-key cinematic lighting, sophisticated luxury fashion editorial photography, mysterious jungle atmosphere, ultra-realistic, exquisite details, professional Vogue photoshoot, 8K quality, vertical 4:5 composition.",
+      "author": {
+        "name": "Wandering Corner",
+        "handle": "WanderingC76",
+        "profile_url": "https://x.com/WanderingC76"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/WanderingC76/status/2125873901360308484",
+      "image": "examples/photography/x-01696.webp"
+    },
+    {
+      "id": "x-01697",
+      "category": "Product & Brand",
+      "title": "Frosted Skincare Jar on Wet Basalt",
+      "model": "Seedream 5 Pro",
+      "prompt": "Unlabelled frosted glass jar with a matte lilac lid on wet black basalt in shallow still water, one ring ripple around it, a white orchid sprig beside it. Low sun from behind right, glowing glass, a bright rim on the water. Deep purple blur. 100mm, f/5.6.",
+      "author": {
+        "name": "ZenCreatorAI",
+        "handle": "zencreator_io",
+        "profile_url": "https://x.com/zencreator_io"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/zencreator_io/status/2126050863609249954",
+      "image": "examples/product-brand/x-01697.webp"
+    },
+    {
+      "id": "x-01698",
+      "category": "Photography",
+      "title": "Orchard Lane Bakery Storefront at Dusk",
+      "model": "GPT Image 2.5 Flare",
+      "prompt": "A photograph of a small bakery storefront at dusk with a lit sign reading \"ORCHARD LANE BAKERY\". Brick facade, warm window glow, wet pavement reflections, no other signage.",
+      "author": {
+        "name": "Sparkian",
+        "handle": "SparkianAI",
+        "profile_url": "https://x.com/SparkianAI"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/SparkianAI/status/2125998020802294084",
+      "image": "examples/photography/x-01698.webp"
+    },
+    {
+      "id": "x-01699",
+      "category": "Poster Design",
+      "title": "Valparaiso Vintage Travel Poster",
+      "model": "GPT Image 2.6 Flare",
+      "prompt": "一张魅力十足的复古旅行海报，表现智利的瓦尔帕莱索，采用手绘建筑涂鸦风格。",
+      "author": {
+        "name": "Andy",
+        "handle": "Andy4aicreate",
+        "profile_url": "https://x.com/Andy4aicreate"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/Andy4aicreate/status/2126019163009286328",
+      "image": "examples/poster-design/x-01699.webp"
+    },
+    {
+      "id": "x-01700",
+      "category": "Photography",
+      "title": "Timeless Winter Fashion Look",
+      "model": "GPT Image 2.0",
+      "prompt": "Elegance meets beauty in every detail. A timeless winter fashion look, soft natural charm, graceful style, and stunning aesthetic captured perfectly.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "image",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2126073884562575713",
+      "image": "examples/photography/x-01700.webp"
+    },
+    {
+      "id": "x-01701",
+      "category": "Video",
+      "title": "Curious Bee Discovers a Rose Surprise",
+      "model": "Seedance 2.0",
+      "prompt": "A heartwarming Pixar-style 3D animated scene in a beautiful sunny flower garden. A tiny adorable fluffy yellow bee with big expressive brown eyes, tiny wings, and a cute striped body flies toward a large vibrant red rose. The bee discovers a tiny creature hiding inside the flower and reacts with surprise and curiosity. The two characters have expressive facial animations and adorable emotional reactions. The bee gently flies around the rose, creating a magical trail of sparkling golden pollen. Soft sunlight, colorful wildflowers, lush green grass, shallow depth of field, cinematic close-ups, smooth camera movement, realistic fluffy textures, charming character animation, whimsical atmosphere, high-quality 3D animation, 4K.",
+      "author": {
+        "name": "Draaven",
+        "handle": "draavenai",
+        "profile_url": "https://x.com/draavenai"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/draavenai/status/2125967360893018427",
+      "image": "examples/video/x-01701.webp"
+    },
+    {
+      "id": "x-01702",
+      "category": "Video",
+      "title": "Fire Performer Spinning Flaming Batons",
+      "model": "Seedance 2.0",
+      "prompt": "A beautiful female fire performer in a luxury nightclub, spinning flaming batons and creating spectacular circles of fire. Sparks fly through the air as colorful neon lights illuminate the scene. Cinematic slow motion, realistic flames, dynamic camera movements, energetic nightclub music, ultra-realistic 4K quality.",
+      "author": {
+        "name": "AIwithMinal",
+        "handle": "AIwithMinal",
+        "profile_url": "https://x.com/AIwithMinal"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/AIwithMinal/status/2125814785157853489",
+      "image": "examples/video/x-01702.webp"
+    },
+    {
+      "id": "x-01703",
+      "category": "Video",
+      "title": "Miniature Modern Bridge Build Timelapse",
+      "model": "Seedance 2.0",
+      "prompt": "Watch a stunning miniature modern bridge come to life through realistic DIY construction, precision engineering, satisfying timelapse, and breathtaking cinematic details.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2125822470519472466",
+      "image": "examples/video/x-01703.webp"
+    },
+    {
+      "id": "x-01704",
+      "category": "Video",
+      "title": "Miniature Luxury Barndominium Build",
+      "model": "Seedance 2.0",
+      "prompt": "Discover an incredible miniature American luxury barndominium, featuring realistic construction, modern architecture, swimming pool, beautiful landscaping, and a stunning cinematic final reveal.",
+      "author": {
+        "name": "Olivia Rose",
+        "handle": "OliviaRose10un",
+        "profile_url": "https://x.com/OliviaRose10un"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/OliviaRose10un/status/2125973480688721964",
+      "image": "examples/video/x-01704.webp"
+    },
+    {
+      "id": "x-01705",
+      "category": "Video",
+      "title": "Cats Steal the Thanksgiving Turkey",
+      "model": "Kling 3.0",
+      "prompt": "image: a family praying at a thanksgiving table, a roasted turkey in the middle, mashed potatoes and rolls, a fat orange cat sitting on a chair at the end of the table, warm home light, vertical 9:16\n\nvideo: while the family keeps their eyes closed, three cats lift the turkey platter off the table and carry it out of the room on their hind legs. the dad opens his eyes to an empty spot. 20 seconds",
+      "author": {
+        "name": "Adam James Hill",
+        "handle": "adam_james_hill",
+        "profile_url": "https://x.com/adam_james_hill"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/adam_james_hill/status/2125996896506253514",
+      "image": "examples/video/x-01705.webp"
+    },
+    {
+      "id": "x-01706",
+      "category": "Video",
+      "title": "Glowing Canister Dropped into a Volcano",
+      "model": "Kling 3.0",
+      "prompt": "image: a man in a headset and goggles standing in the open door of a helicopter over an active lava lake, holding a heavy metal canister covered in green lights, sunrise haze, vertical 9:16\n\nvideo: he drops the canister into the lava, the crater flashes green and erupts, then a creature with glowing green veins climbs in through the helicopter door. handheld, 15 seconds",
+      "author": {
+        "name": "Adam James Hill",
+        "handle": "adam_james_hill",
+        "profile_url": "https://x.com/adam_james_hill"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/adam_james_hill/status/2126074178021343737",
+      "image": "examples/video/x-01706.webp"
+    },
+    {
+      "id": "x-01707",
+      "category": "Video",
+      "title": "Snowy New York Street with Horse Carriages",
+      "model": "Grok Imagine",
+      "prompt": "A New York street with a foot of snow and horse drawn carriages.",
+      "author": {
+        "name": "Cal Jennings",
+        "handle": "SpaceEagle",
+        "profile_url": "https://x.com/SpaceEagle"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/SpaceEagle/status/2126117557950378482",
+      "image": "examples/video/x-01707.webp"
+    },
+    {
+      "id": "x-01708",
+      "category": "Video",
+      "title": "Turkey Walking in Fallen Oak Leaves",
+      "model": "Grok Imagine",
+      "prompt": "Turkey walking in fallen oak leaves",
+      "author": {
+        "name": "Lindy Hawkinson",
+        "handle": "HawkinsonLindy",
+        "profile_url": "https://x.com/HawkinsonLindy"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/HawkinsonLindy/status/2125802909069889554",
+      "image": "examples/video/x-01708.webp"
+    },
+    {
+      "id": "x-01709",
+      "category": "Video",
+      "title": "Pouring Water on Opal",
+      "model": "Grok Imagine",
+      "prompt": "Pouring water on opal",
+      "author": {
+        "name": "lee trew",
+        "handle": "lstrew",
+        "profile_url": "https://x.com/lstrew"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/lstrew/status/2125992073694462132",
+      "image": "examples/video/x-01709.webp"
+    },
+    {
+      "id": "x-01710",
+      "category": "Video",
+      "title": "Dragon Freezing Ocean Oil Rigs at Night",
+      "model": "Grok Imagine",
+      "prompt": "Dragon freezing ocean oil rigs with a night sky realistic",
+      "author": {
+        "name": "Ghost Writer",
+        "handle": "DevonSt75210440",
+        "profile_url": "https://x.com/DevonSt75210440"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/DevonSt75210440/status/2126094856313573521",
+      "image": "examples/video/x-01710.webp"
+    },
+    {
+      "id": "x-01711",
+      "category": "Video",
+      "title": "Angel Singing a Hymn on a Fallen Log",
+      "model": "Grok Imagine",
+      "prompt": "天使が古代ギリシャ語で聖歌を枯葉ひろがる所の倒木に座って唄う",
+      "author": {
+        "name": "KlRITO",
+        "handle": "KlRITO369",
+        "profile_url": "https://x.com/KlRITO369"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/KlRITO369/status/2126048544943690226",
+      "image": "examples/video/x-01711.webp"
+    },
+    {
+      "id": "x-01712",
+      "category": "Video",
+      "title": "Digestive System 3D Explainer Animation",
+      "model": "Seedance 2.0",
+      "prompt": "15-second educational 3D medical animation, clean and friendly style like a modern science explainer for kids and adults. Semi-transparent human body on a soft dark-blue background, glowing organs, smooth continuous camera following a single piece of food (a bite of an apple) through the digestive system. Bright, clear colors, labels appear briefly next to each organ in simple white text.\n\n0–2s: Close-up of a mouth biting an apple. Teeth chew it, saliva mixes in, the piece turns into a soft round ball (bolus). Label: \"Mouth — chewing\".\n\n2–4s: The ball slides down the esophagus, wave-like muscle contractions pushing it downward (peristalsis). Label: \"Esophagus\".\n\n4–7s: Food enters the stomach. Stomach walls squeeze and churn, glowing green gastric acid breaks the food into a thick liquid. Label: \"Stomach — acid breaks food down\".\n\n7–10s: Liquid moves into the long coiled small intestine. Camera zooms into the inner wall covered with tiny finger-like villi; small glowing nutrient particles pass through the wall into red blood vessels. Liver and pancreas glow briefly, sending digestive juices. Label: \"Small intestine — nutrients absorbed into blood\".\n\n10–13s: Remaining material moves into the large intestine (colon). Water is absorbed, the mass becomes thicker and darker brown, forming stool. Label: \"Large intestine — water absorbed\".\n\n13–15s: Stool moves to the rectum and exits the body (shown tastefully, cartoon-like, no realistic details). Final wide shot of the whole digestive tract glowing as one path. Text on screen: \"From food to energy — the journey takes 24–72 hours\".\n\nStyle: Pixar-like 3D medical visualization, educational, not gross, smooth transitions, cinematic lighting, 4K, no blood or graphic realism.",
+      "author": {
+        "name": "Cortiq",
+        "handle": "0xCortiq",
+        "profile_url": "https://x.com/0xCortiq"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/0xCortiq/status/2125989462639567046",
+      "image": "examples/video/x-01712.webp"
+    },
+    {
+      "id": "x-01713",
+      "category": "Video",
+      "title": "Otter Pilot Boards a Giant Mecha",
+      "model": "Seedance 2.0",
+      "prompt": "Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.",
+      "author": {
+        "name": "IA Boss | Astuces ChatGPT & IA",
+        "handle": "IABossOfficiel",
+        "profile_url": "https://x.com/IABossOfficiel"
+      },
+      "type": "video",
+      "added": "2026-11-27",
+      "tweet_url": "https://x.com/IABossOfficiel/status/2125865342786269664",
+      "image": "examples/video/x-01713.webp"
     }
   ]
 }

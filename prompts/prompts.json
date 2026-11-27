@@ -4,17 +4,17 @@
     "website": "https://vinano.ai",
     "description": "A continuously-updated, original collection of image & video prompts. Prompts are refined in-house and every preview image is generated with vinano.ai.",
     "render_provider": "vinano.ai",
-    "count": 2181,
+    "count": 2191,
     "by_category": {
-      "Photography": 657,
-      "Illustration & 3D": 438,
-      "Product & Brand": 407,
-      "Food & Drink": 205,
-      "Poster Design": 253,
-      "UI & Graphic": 190,
-      "Video": 31
+      "Photography": 658,
+      "Illustration & 3D": 439,
+      "Product & Brand": 408,
+      "Food & Drink": 207,
+      "Poster Design": 254,
+      "UI & Graphic": 192,
+      "Video": 33
     },
-    "updated": "2026-11-26",
+    "updated": "2026-11-27",
     "license": "CC BY 4.0"
   },
   "prompts": [
@@ -25642,6 +25642,130 @@
       "origin": "daily",
       "video": "videos/vn-02190.mp4",
       "duration": 5.1
+    },
+    {
+      "id": "vn-02191",
+      "title": "ViNano Habits Tracker App Screens",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "A clean mobile app screen set for a habit tracker called \"ViNano Habits\", three large iPhone screens side by side filling most of the frame on a soft lilac background. Screen one: onboarding with a friendly illustrated sprout and the line \"Small steps, every day\" plus a big rounded \"Get started\" button. Screen two: today view with a weekly date strip, a ring progress chart showing 4 of 6 habits done, and checklist rows for Drink water, Read 20 pages, Walk 8,000 steps, Stretch, Journal and Sleep by 11. Screen three: a streak calendar heatmap with \"21-day streak\" badge and a small bar chart of the month. Pastel lilac, mint and cream palette, rounded cards, soft shadows, crisp correctly spelled sans-serif text, polished Dribbble-quality UI.",
+      "image": "images/ui-graphic/vn-02191.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02192",
+      "title": "Weeknight Tomato Soup Recipe Card",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "GPT Image 2.6 Flare",
+      "keywords": [],
+      "prompt": "An illustrated recipe card infographic for \"Weeknight Tomato Soup\" in a warm hand-drawn style. Top: the title in a chunky serif with a steaming bowl illustration. Left column: an ingredient list with tiny watercolor icons (6 ripe tomatoes, 1 onion, 3 garlic cloves, 2 tbsp olive oil, 500 ml stock, fresh basil, salt and pepper). Right column: five numbered steps with small sketches of chopping, sauteing, simmering, blending and serving, each with a time label. Bottom strip: \"Serves 4 · 30 min · Easy\" and a small stamp reading \"ViNano Kitchen\". Cream paper texture, tomato red, olive green and charcoal ink, all text legible and correctly spelled.",
+      "image": "images/food-drink/vn-02192.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02193",
+      "title": "Risograph Night Market Poster",
+      "category": "Poster Design",
+      "type": "image",
+      "engine": "Nano Banana 2.1",
+      "keywords": [],
+      "prompt": "A retro risograph-style poster for a neighborhood night market. Two-color print look in fluorescent pink and teal with visible grain and slight misregistration. Center: a playful illustration of food stalls under strings of round paper lanterns, steam rising from dumpling baskets and skewers on a grill. Big bubbly headline at the top: \"NIGHT MARKET\". Below: \"Every Saturday · 6 PM till late\", \"Riverside Car Park\", \"Street food · Live music · Vintage finds\". Small footer: \"poster by ViNano\". Off-white paper background, bold flat shapes, joyful energetic composition, crisp readable lettering.",
+      "image": "images/poster-design/vn-02193.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02194",
+      "title": "Moody Miso Ramen Bowl",
+      "category": "Food & Drink",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "Moody food photograph of a steaming bowl of rich miso ramen on a dark slate counter: thick wavy noodles, two slices of torched chashu pork, a halved soft egg with a jammy orange yolk, bamboo shoots, nori sheets, sliced scallions and a sprinkle of sesame seeds, chopsticks lifting a few noodles above the bowl. Wisps of steam caught in a warm side light, a small dish of chili oil and a ceramic spoon nearby, dark background, shallow depth of field, glossy broth, high-end restaurant menu style.",
+      "image": "images/food-drink/vn-02194.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02195",
+      "title": "Claymation Winter Cabin Snow Globe",
+      "category": "Illustration & 3D",
+      "type": "image",
+      "engine": "Grok Imagine Image",
+      "keywords": [],
+      "prompt": "A cute 3D claymation-style diorama of a tiny winter cabin inside a glass snow globe on a wooden desk. The cabin has a red door, warm glowing windows and a smoking chimney, surrounded by little pine trees, a snowman with a carrot nose and a sled. Fake snow swirls inside the globe, the wooden base has a brass plate engraved \"ViNano\". Soft bokeh of fairy lights in the background, cozy evening light, handmade clay texture, charming and detailed.",
+      "image": "images/illustration-3d/vn-02195.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02196",
+      "title": "Vitamin C Serum Bottle with Orange Splash",
+      "category": "Product & Brand",
+      "type": "image",
+      "engine": "Nano Banana 2.1",
+      "keywords": [],
+      "prompt": "Premium product photograph of an amber glass skincare serum bottle with a black dropper, the minimal white label reading \"ViNano Glow · Vitamin C Serum 30 ml\". The bottle stands on a wet stone pedestal surrounded by sliced oranges, a few drops of golden serum and splashes of clear water frozen mid-air. Warm orange gradient backdrop, crisp studio lighting with a soft highlight along the glass, tiny condensation droplets, sharp label text, luxury beauty campaign look.",
+      "image": "images/product-brand/vn-02196.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02197",
+      "title": "Frozen Mountain Lake Cabin at Dawn",
+      "category": "Photography",
+      "type": "image",
+      "engine": "MiniMax H3 Image",
+      "keywords": [],
+      "prompt": "Wide landscape photograph of a lone wooden cabin on the shore of a frozen mountain lake at dawn. Pink and violet alpenglow lights the snowy peaks behind, the ice shows cracked blue patterns and a dusting of snow, a thin line of smoke rises from the chimney and a single warm window glows. Long-lens compression, crisp cold air, subtle mist over the far shore, natural colors, high dynamic range, fine detail, National-Geographic-style travel photo.",
+      "image": "images/photography/vn-02197.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02198",
+      "title": "How Coffee Gets to Your Cup Infographic",
+      "category": "UI & Graphic",
+      "type": "image",
+      "engine": "Seedream 5.5",
+      "keywords": [],
+      "prompt": "A flat vector infographic poster explaining \"How Coffee Gets to Your Cup\" as a left-to-right journey with six numbered stages: 1 Growing on the farm, 2 Picking ripe cherries, 3 Washing and drying, 4 Roasting, 5 Grinding, 6 Brewing. Each stage has a simple illustration, a one-line caption and a small icon, connected by a winding dotted path with tiny coffee beans. Header in a bold rounded font, a footer line \"Made with ViNano\". Earthy brown, cream and leaf green palette, clean modern layout, consistent line weight, all text crisp and correctly spelled.",
+      "image": "images/ui-graphic/vn-02198.webp",
+      "added": "2026-11-27",
+      "origin": "daily"
+    },
+    {
+      "id": "vn-02199",
+      "title": "Drone Over an Autumn River at Sunrise",
+      "category": "Video",
+      "type": "video",
+      "engine": "Veo 3.1 Fast",
+      "keywords": [],
+      "prompt": "A slow aerial drone shot gliding forward over a winding river through an autumn forest at sunrise, the trees glowing in red, orange and gold, thin mist drifting over the water. The camera gradually rises to reveal distant blue mountains and the sun breaking over the ridge. Smooth cinematic motion, rich natural colors, soft ambient sound of birds and flowing water.",
+      "image": "images/video/vn-02199.webp",
+      "added": "2026-11-27",
+      "origin": "daily",
+      "video": "videos/vn-02199.mp4",
+      "duration": 7.9
+    },
+    {
+      "id": "vn-02200",
+      "title": "Latte Art Pour in Macro Orbit",
+      "category": "Video",
+      "type": "video",
+      "engine": "Grok Imagine",
+      "keywords": [],
+      "prompt": "Macro close-up of a barista pouring steamed milk into a cup of espresso, the camera slowly orbiting the cup as a latte art rosetta forms on the surface. Creamy textures swirl, tiny bubbles glisten, warm cafe light and a softly blurred background. Smooth slow motion, rich detail.",
+      "image": "images/video/vn-02200.webp",
+      "added": "2026-11-27",
+      "origin": "daily",
+      "video": "videos/vn-02200.mp4",
+      "duration": 6.0
     }
   ]
 }
