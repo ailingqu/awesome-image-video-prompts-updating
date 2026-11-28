@@ -1,6 +1,6 @@
-# Photography — 589 community examples
+# Photography — 609 community examples
 
-[← Back to Community Examples](../EXAMPLES.md) · Page 2 / 5: [1](./x-photography.md) · **2** · [3](./x-photography-3.md) · [4](./x-photography-4.md) · [5](./x-photography-5.md)
+[← Back to Community Examples](../EXAMPLES.md) · Page 2 / 6: [1](./x-photography.md) · **2** · [3](./x-photography-3.md) · [4](./x-photography-4.md) · [5](./x-photography-5.md) · [6](./x-photography-6.md)
 
 Community results kept as posted. Each card credits its creator and links to the original post.
 
